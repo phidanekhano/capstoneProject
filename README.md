@@ -22,191 +22,1373 @@ The Data Science problem is therefore to use STADIOEquities' historical behaviou
 
 Because the project is aimed at predicting (1) which registered clients are unlikely to make a first deposit and (2) which clients are likely to become dormant, the data request should capture the full customer journey from acquisition and onboarding through funding, investing and ongoing engagement. This fits the briefing pack, which says that drop-off is associated with acquisition channel, onboarding progress, first-session behaviour and time to first deposit, while STADIOEquities already records behavioural, funding, trading, product, demographic, support and marketing data.
 I would request the data in the following separate datasets so that it can later be joined using an anonymised Client ID / Account ID.
+
+
 1. Client and Account Data
-STADIOEquities has approximately 2.3 million registered accounts, with only a portion funded and active, so this dataset provides the base population for the project.
-Column name	Data type	Example	Additional information
-Client ID	String, identifier	C102938	Unique anonymised identifier for each client. Must remain consistent across all datasets.
-Account ID	String, identifier	A458921	Unique investment account identifier.
-Registration date	Datetime	2025-03-14 10:26:13	Date and time the account was created. Use yyyy-MM-dd hh:mm:ss.
-Account status	String, categorical	Active	Valid values should include Registered, Active, Dormant, Closed or equivalent internal categories.
-Activation date	Datetime	2025-03-17 14:05:00	Date the customer first met STADIOEquities' definition of an activated account. Null if never activated.
-First deposit date	Datetime	2025-03-17 13:42:00	Date and time of first successful deposit. Null for never-funded clients.
-Account closure date	Datetime	2026-01-20 09:00:00	Null if account remains open.
-KYC status	String, categorical	Complete	Examples: Not Started, In Progress, Complete, Failed.
-KYC completion date	Datetime	2025-03-14 10:48:00	Null if KYC was not completed.
-Age	Numeric, integer	31	Age at registration or date of birth transformed into age.
-Province/region	String, categorical	GP	Region or province recorded at registration.
-Stated investment goal	String, categorical	Long-term growth	Preserve the categories currently captured at sign-up.
-Risk appetite	String, categorical	Moderate	Use the actual categories used by STADIOEquities, e.g. Low, Moderate, High.
-Client segment	String, categorical	Retail	If an internal customer segment already exists, provide it. Do not create one specifically for this extract.
-Acquisition channel	String, categorical	Paid Social	Channel through which the client was acquired.
-Acquisition campaign	String	InvestStart2025	Campaign identifier or campaign name.
-Acquisition cost	Numeric, decimal	180.00	Cost attributable to acquiring the account, in rand.
-Latest activity date	Datetime	2026-08-27 18:45:20	Most recent qualifying account activity.
-Days since last activity	Numeric, integer	10	Ideally derive from raw activity dates as well as providing the current field if available.
-Funded flag	Boolean	TRUE	TRUE if the account has ever received a successful deposit.
-Active flag	Boolean	TRUE	Use STADIOEquities' official business definition of active. The briefing refers to active accounts as traded or held in the last 90 days.
-Dormant flag	Boolean	FALSE	Supply the current internal dormancy classification and its business definition.
+
+STADIOEquities has approximately 2.3 million registered accounts, with only a portion funded and active. This dataset therefore provides the base population for the project.
+
+Column name
+
+Data type
+
+Example
+
+Additional information
+
+Client ID
+
+String, identifier
+
+C102938
+
+Unique anonymised identifier for each client. Must remain consistent across all datasets.
+
+Account ID
+
+String, identifier
+
+A458921
+
+Unique investment account identifier.
+
+Registration date
+
+Datetime
+
+2025-03-14 10:26:13
+
+Date and time the account was created. Use yyyy-MM-dd hh:mm:ss.
+
+Account status
+
+String, categorical
+
+Active
+
+Valid values should include Registered, Active, Dormant, Closed, or equivalent internal categories.
+
+Activation date
+
+Datetime
+
+2025-03-17 14:05:00
+
+Date the customer first met STADIOEquities' definition of an activated account. Null if never activated.
+
+First deposit date
+
+Datetime
+
+2025-03-17 13:42:00
+
+Date and time of first successful deposit. Null for never-funded clients.
+
+Account closure date
+
+Datetime
+
+2026-01-20 09:00:00
+
+Null if the account remains open.
+
+KYC status
+
+String, categorical
+
+Complete
+
+Examples: Not Started, In Progress, Complete, Failed.
+
+KYC completion date
+
+Datetime
+
+2025-03-14 10:48:00
+
+Null if KYC was not completed.
+
+Age
+
+Numeric, integer
+
+31
+
+Age at registration, or date of birth transformed into age.
+
+Province/region
+
+String, categorical
+
+GP
+
+Region or province recorded at registration.
+
+Stated investment goal
+
+String, categorical
+
+Long-term growth
+
+Preserve the categories currently captured at sign-up.
+
+Risk appetite
+
+String, categorical
+
+Moderate
+
+Use the actual categories used by STADIOEquities, e.g. Low, Moderate, High.
+
+Client segment
+
+String, categorical
+
+Retail
+
+If an internal customer segment already exists, provide it. Do not create one specifically for this extract.
+
+Acquisition channel
+
+String, categorical
+
+Paid Social
+
+Channel through which the client was acquired.
+
+Acquisition campaign
+
+String
+
+InvestStart2025
+
+Campaign identifier or campaign name.
+
+Acquisition cost
+
+Numeric, decimal
+
+180.00
+
+Cost attributable to acquiring the account, in rand.
+
+Latest activity date
+
+Datetime
+
+2026-08-27 18:45:20
+
+Most recent qualifying account activity.
+
+Days since last activity
+
+Numeric, integer
+
+10
+
+Ideally derive from raw activity dates, while also providing the current field if available.
+
+Funded flag
+
+Boolean
+
+TRUE
+
+TRUE if the account has ever received a successful deposit.
+
+Active flag
+
+Boolean
+
+TRUE
+
+Use STADIOEquities' official business definition of active. The briefing refers to active accounts as traded or held in the last 90 days.
+
+Dormant flag
+
+Boolean
+
+FALSE
+
+Supply the current internal dormancy classification and its business definition.
+
 2. Onboarding and KYC Journey Data
-This dataset is particularly important because KYC abandonment has increased and the briefing indicates that where a customer drops out during onboarding is associated with whether they eventually activate.
+
+This dataset is particularly important because KYC abandonment has increased, and the briefing indicates that where a customer drops out during onboarding is associated with whether they eventually activate.
+
 Grain: one row per onboarding/KYC event.
-Column name	Data type	Example	Additional information
-Client ID	String, identifier	C102938	Must link to the client table.
-Account ID	String, identifier	A458921	Must link to the account table.
-Onboarding session ID	String	S849222	Unique onboarding session identifier.
-Step name	String, categorical	Identity Verification	Name of onboarding/KYC step.
-Step number	Numeric, integer	4	Sequential position within onboarding journey.
-Step start time	Datetime	2025-03-14 10:31:20	When customer entered the step.
-Step completion time	Datetime	2025-03-14 10:33:44	Null if step was abandoned.
-Step completed	Boolean	TRUE	TRUE if successfully completed.
-Abandoned flag	Boolean	FALSE	TRUE where the customer left before completion.
-Abandonment reason	String, categorical	Document upload failed	Provide where recorded.
-Error code	String	KYC203	System error encountered during onboarding.
-Retry count	Numeric, integer	2	Number of attempts at the particular step.
-Time on step	Numeric, decimal	144	Preferably measured in seconds.
-Device type	String, categorical	Mobile	Examples: Mobile, Desktop, Tablet.
-Platform	String, categorical	Android	Examples: Android, iOS, Web.
-App version	String	9.4.1	Useful for identifying technical friction associated with particular releases.
-Referral source	String, categorical	Instagram	Source immediately before onboarding where available.
+
+Column name
+
+Data type
+
+Example
+
+Additional information
+
+Client ID
+
+String, identifier
+
+C102938
+
+Must link to the client table.
+
+Account ID
+
+String, identifier
+
+A458921
+
+Must link to the account table.
+
+Onboarding session ID
+
+String
+
+S849222
+
+Unique onboarding session identifier.
+
+Step name
+
+String, categorical
+
+Identity Verification
+
+Name of onboarding/KYC step.
+
+Step number
+
+Numeric, integer
+
+4
+
+Sequential position within onboarding journey.
+
+Step start time
+
+Datetime
+
+2025-03-14 10:31:20
+
+When the customer entered the step.
+
+Step completion time
+
+Datetime
+
+2025-03-14 10:33:44
+
+Null if the step was abandoned.
+
+Step completed
+
+Boolean
+
+TRUE
+
+TRUE if successfully completed.
+
+Abandoned flag
+
+Boolean
+
+FALSE
+
+TRUE where the customer left before completion.
+
+Abandonment reason
+
+String, categorical
+
+Document upload failed
+
+Provide where recorded.
+
+Error code
+
+String
+
+KYC203
+
+System error encountered during onboarding.
+
+Retry count
+
+Numeric, integer
+
+2
+
+Number of attempts at the particular step.
+
+Time on step
+
+Numeric, decimal
+
+144
+
+Preferably measured in seconds.
+
+Device type
+
+String, categorical
+
+Mobile
+
+Examples: Mobile, Desktop, Tablet.
+
+Platform
+
+String, categorical
+
+Android
+
+Examples: Android, iOS, Web.
+
+App version
+
+String
+
+9.4.1
+
+Useful for identifying technical friction associated with particular releases.
+
+Referral source
+
+String, categorical
+
+Instagram
+
+Source immediately before onboarding, where available.
+
 3. App and Web Behaviour Data
-The briefing states that STADIOEquities records screens viewed, sessions, feature usage, onboarding steps and abandonment, with approximately four years of history. This is likely to be one of the most important datasets for predicting both activation and future dormancy.
+
+The briefing states that STADIOEquities records screens viewed, sessions, feature usage, onboarding steps, and abandonment, with approximately four years of history. This is likely to be one of the most important datasets for predicting both activation and future dormancy.
+
 Grain: one row per app/web event.
-Column name	Data type	Example	Additional information
-Client ID	String, identifier	C102938	Anonymised customer identifier.
-Session ID	String	S938102	Unique browsing/app session.
-Event ID	String	E298374	Unique event identifier.
-Event datetime	Datetime	2025-03-14 10:20:14	Exact event timestamp.
-Event type	String, categorical	Screen View	Examples: Screen View, Button Click, Search, Login, Logout, Error.
-Screen name	String, categorical	Deposit	Name of screen viewed.
-Feature name	String, categorical	Deposit Funds	Feature being used.
-Action	String, categorical	Click	User action associated with event.
-Session start	Datetime	2025-03-14 10:18:02	Beginning of customer session.
-Session end	Datetime	2025-03-14 10:41:18	End of session.
-Session duration	Numeric, integer	1396	Duration in seconds.
-Screens viewed	Numeric, integer	12	Can be provided as a derived session-level measure in addition to raw events.
-Device type	String, categorical	Smartphone	Device category.
-Operating system	String, categorical	Android	Android, iOS, Windows, macOS, etc.
-App/Web	String, categorical	App	App or Web.
-Login status	String, categorical	Authenticated	Indicates whether customer was logged in.
-Error encountered	Boolean	FALSE	Indicates whether a technical error occurred.
-Error code	String	DEP001	Null when there was no error.
-Search term	String	how to deposit	Where search functionality is available; sensitive/free-text fields should be appropriately governed.
-Days since registration	Numeric, integer	0	Ideally derived during modelling rather than replacing the raw dates.
-Days since previous session	Numeric, integer	3	Can be derived from timestamp history.
-Please provide the raw event-level data where possible, rather than only summary statistics. Raw records allow us to construct alternative measures if necessary.
+
+Column name
+
+Data type
+
+Example
+
+Additional information
+
+Client ID
+
+String, identifier
+
+C102938
+
+Anonymised customer identifier.
+
+Session ID
+
+String
+
+S938102
+
+Unique browsing/app session.
+
+Event ID
+
+String
+
+E298374
+
+Unique event identifier.
+
+Event datetime
+
+Datetime
+
+2025-03-14 10:20:14
+
+Exact event timestamp.
+
+Event type
+
+String, categorical
+
+Screen View
+
+Examples: Screen View, Button Click, Search, Login, Logout, Error.
+
+Screen name
+
+String, categorical
+
+Deposit
+
+Name of screen viewed.
+
+Feature name
+
+String, categorical
+
+Deposit Funds
+
+Feature being used.
+
+Action
+
+String, categorical
+
+Click
+
+User action associated with the event.
+
+Session start
+
+Datetime
+
+2025-03-14 10:18:02
+
+Beginning of customer session.
+
+Session end
+
+Datetime
+
+2025-03-14 10:41:18
+
+End of session.
+
+Session duration
+
+Numeric, integer
+
+1396
+
+Duration in seconds.
+
+Screens viewed
+
+Numeric, integer
+
+12
+
+Can be provided as a derived session-level measure in addition to raw events.
+
+Device type
+
+String, categorical
+
+Smartphone
+
+Device category.
+
+Operating system
+
+String, categorical
+
+Android
+
+Examples: Android, iOS, Windows, macOS, etc.
+
+App/Web
+
+String, categorical
+
+App
+
+App or Web.
+
+Login status
+
+String, categorical
+
+Authenticated
+
+Indicates whether the customer was logged in.
+
+Error encountered
+
+Boolean
+
+FALSE
+
+Indicates whether a technical error occurred.
+
+Error code
+
+String
+
+DEP001
+
+Null when there was no error.
+
+Search term
+
+String
+
+how to deposit
+
+Where search functionality is available; sensitive/free-text fields should be appropriately governed.
+
+Days since registration
+
+Numeric, integer
+
+0
+
+Ideally derived during modelling rather than replacing the raw dates.
+
+Days since previous session
+
+Numeric, integer
+
+3
+
+Can be derived from timestamp history.
+
+Data granularity note: Please provide raw event-level data where possible, rather than only summary statistics. Raw records allow alternative measures to be constructed during modelling if necessary.
+
 4. Deposits, Withdrawals and Funding Data
-This is essential because the project's first target is whether a registered client progresses to a funded account. The briefing provides up to six years of account and funding history, including deposits, withdrawals and balances.
+
+This dataset is essential because the project's first target is whether a registered client progresses to a funded account. The briefing provides up to six years of account and funding history, including deposits, withdrawals, and balances.
+
 Grain: one row per financial movement.
-Column name	Data type	Example	Additional information
-Client ID	String, identifier	C102938	Must correspond with other datasets.
-Account ID	String, identifier	A458921	Investment account involved.
-Transaction ID	String	TX2039485	Unique transaction identifier.
-Transaction datetime	Datetime	2025-03-17 13:42:00	Exact date/time transaction occurred.
-Transaction type	String, categorical	Deposit	Examples: Deposit, Withdrawal, Transfer.
-Transaction status	String, categorical	Successful	Examples: Successful, Pending, Failed, Reversed.
-Amount	Numeric, decimal	500.00	Transaction amount in rand.
-Balance before	Numeric, decimal	0.00	Account cash balance before transaction.
-Balance after	Numeric, decimal	500.00	Account cash balance after transaction.
-Deposit method	String, categorical	EFT	Payment/funding mechanism.
-Deposit sequence	Numeric, integer	1	1 indicates first deposit, 2 second deposit, etc.
-Failure reason	String, categorical	Bank declined	Required for failed deposits where available.
-Days since registration	Numeric, integer	3	Time between account creation and this funding event.
-First deposit flag	Boolean	TRUE	TRUE for the first successful deposit.
+
+Column name
+
+Data type
+
+Example
+
+Additional information
+
+Client ID
+
+String, identifier
+
+C102938
+
+Must correspond with other datasets.
+
+Account ID
+
+String, identifier
+
+A458921
+
+Investment account involved.
+
+Transaction ID
+
+String
+
+TX2039485
+
+Unique transaction identifier.
+
+Transaction datetime
+
+Datetime
+
+2025-03-17 13:42:00
+
+Exact date/time the transaction occurred.
+
+Transaction type
+
+String, categorical
+
+Deposit
+
+Examples: Deposit, Withdrawal, Transfer.
+
+Transaction status
+
+String, categorical
+
+Successful
+
+Examples: Successful, Pending, Failed, Reversed.
+
+Amount
+
+Numeric, decimal
+
+500.00
+
+Transaction amount in rand.
+
+Balance before
+
+Numeric, decimal
+
+0.00
+
+Account cash balance before transaction.
+
+Balance after
+
+Numeric, decimal
+
+500.00
+
+Account cash balance after transaction.
+
+Deposit method
+
+String, categorical
+
+EFT
+
+Payment/funding mechanism.
+
+Deposit sequence
+
+Numeric, integer
+
+1
+
+1 indicates first deposit, 2 second deposit, etc.
+
+Failure reason
+
+String, categorical
+
+Bank declined
+
+Required for failed deposits where available.
+
+Days since registration
+
+Numeric, integer
+
+3
+
+Time between account creation and this funding event.
+
+First deposit flag
+
+Boolean
+
+TRUE
+
+TRUE for the first successful deposit.
+
 5. Trading and Portfolio Activity
-The briefing states that STADIOEquities has around six years of data covering trades, instruments held, trading frequency, concentration and timing. For the dormancy model, changes in trading behaviour may provide strong early warning signals.
+
+The briefing states that STADIOEquities has around six years of data covering trades, instruments held, trading frequency, concentration, and timing. For the dormancy model, changes in trading behaviour may provide strong early-warning signals.
+
 Grain: one row per trade.
-Column name	Data type	Example	Additional information
-Client ID	String, identifier	C102938	Customer identifier.
-Account ID	String, identifier	A458921	Investment account.
-Trade ID	String	T398483	Unique trade identifier.
-Trade datetime	Datetime	2025-04-03 11:34:25	Exact trade timestamp.
-Trade type	String, categorical	Buy	Buy or Sell.
-Instrument ID	String	STX40	Instrument identifier/ticker.
-Instrument type	String, categorical	ETF	Examples: Share, ETF, Bundle, Offshore asset.
-Quantity	Numeric, decimal	2.5	Fractional shares should be preserved.
-Trade value	Numeric, decimal	450.00	Total rand value of transaction.
-Fees	Numeric, decimal	4.50	Total fees charged.
-Portfolio value	Numeric, decimal	6200.00	Portfolio value at or near trade date if available.
-Cash balance	Numeric, decimal	850.00	Uninvested cash balance.
-Number holdings	Numeric, integer	6	Number of instruments held at that point in time.
-Largest holding %	Numeric, decimal	42.5	Percentage of portfolio represented by largest position.
-Days since previous trade	Numeric, integer	28	Useful signal for declining engagement.
-Trade sequence	Numeric, integer	7	Customer's nth transaction.
+
+Column name
+
+Data type
+
+Example
+
+Additional information
+
+Client ID
+
+String, identifier
+
+C102938
+
+Customer identifier.
+
+Account ID
+
+String, identifier
+
+A458921
+
+Investment account.
+
+Trade ID
+
+String
+
+T398483
+
+Unique trade identifier.
+
+Trade datetime
+
+Datetime
+
+2025-04-03 11:34:25
+
+Exact trade timestamp.
+
+Trade type
+
+String, categorical
+
+Buy
+
+Buy or Sell.
+
+Instrument ID
+
+String
+
+STX40
+
+Instrument identifier/ticker.
+
+Instrument type
+
+String, categorical
+
+ETF
+
+Examples: Share, ETF, Bundle, Offshore asset.
+
+Quantity
+
+Numeric, decimal
+
+2.5
+
+Fractional shares should be preserved.
+
+Trade value
+
+Numeric, decimal
+
+450.00
+
+Total rand value of transaction.
+
+Fees
+
+Numeric, decimal
+
+4.50
+
+Total fees charged.
+
+Portfolio value
+
+Numeric, decimal
+
+6200.00
+
+Portfolio value at or near trade date, if available.
+
+Cash balance
+
+Numeric, decimal
+
+850.00
+
+Uninvested cash balance.
+
+Number holdings
+
+Numeric, integer
+
+6
+
+Number of instruments held at that point in time.
+
+Largest holding %
+
+Numeric, decimal
+
+42.5
+
+Percentage of portfolio represented by the largest position.
+
+Days since previous trade
+
+Numeric, integer
+
+28
+
+Useful signal for declining engagement.
+
+Trade sequence
+
+Numeric, integer
+
+7
+
+Customer's nth transaction.
+
 6. Marketing, Emails and Customer Nudges
+
 This dataset is important because the current approach sends onboarding emails and nudges on a fixed schedule, regardless of individual customer behaviour. The model should be able to assess how communication exposure and engagement relate to activation.
+
 Grain: one row per marketing/customer communication event.
-Column name	Data type	Example	Additional information
-Client ID	String, identifier	C102938	Must link across data sources.
-Communication ID	String	COM58302	Unique email/SMS/push/nudge identifier.
-Campaign ID	String	ONB2025A	Marketing/onboarding campaign.
-Communication type	String, categorical	Push Notification	Examples: Email, SMS, Push, In-app.
-Message category	String, categorical	First Deposit Reminder	Business purpose of communication.
-Sent datetime	Datetime	2025-03-16 09:00:00	Time communication was sent.
-Delivered	Boolean	TRUE	Delivery status.
-Opened	Boolean	TRUE	Whether opened/viewed.
-Open datetime	Datetime	2025-03-16 09:12:10	Null if not opened.
-Clicked	Boolean	TRUE	Whether customer clicked through.
-Click datetime	Datetime	2025-03-16 09:13:05	Null if no click.
-Converted	Boolean	TRUE	Whether intended action followed, if STADIOEquities currently calculates this.
-Conversion datetime	Datetime	2025-03-17 13:42:00	Time of conversion.
-Days after registration	Numeric, integer	2	Communication timing relative to sign-up.
-Opt-out flag	Boolean	FALSE	Whether customer has opted out of that communication channel.
+
+Column name
+
+Data type
+
+Example
+
+Additional information
+
+Client ID
+
+String, identifier
+
+C102938
+
+Must link across data sources.
+
+Communication ID
+
+String
+
+COM58302
+
+Unique email/SMS/push/nudge identifier.
+
+Campaign ID
+
+String
+
+ONB2025A
+
+Marketing/onboarding campaign.
+
+Communication type
+
+String, categorical
+
+Push Notification
+
+Examples: Email, SMS, Push, In-app.
+
+Message category
+
+String, categorical
+
+First Deposit Reminder
+
+Business purpose of communication.
+
+Sent datetime
+
+Datetime
+
+2025-03-16 09:00:00
+
+Time communication was sent.
+
+Delivered
+
+Boolean
+
+TRUE
+
+Delivery status.
+
+Opened
+
+Boolean
+
+TRUE
+
+Whether opened/viewed.
+
+Open datetime
+
+Datetime
+
+2025-03-16 09:12:10
+
+Null if not opened.
+
+Clicked
+
+Boolean
+
+TRUE
+
+Whether the customer clicked through.
+
+Click datetime
+
+Datetime
+
+2025-03-16 09:13:05
+
+Null if no click.
+
+Converted
+
+Boolean
+
+TRUE
+
+Whether the intended action followed, if STADIOEquities currently calculates this.
+
+Conversion datetime
+
+Datetime
+
+2025-03-17 13:42:00
+
+Time of conversion.
+
+Days after registration
+
+Numeric, integer
+
+2
+
+Communication timing relative to sign-up.
+
+Opt-out flag
+
+Boolean
+
+FALSE
+
+Whether the customer has opted out of that communication channel.
+
 The briefing confirms that marketing data includes acquisition channel, campaign, cost, and email/nudge engagement, with approximately four years of history.
+
 7. Product and Subscription Data
-Although premium adoption is not the primary target, product usage provides information about the depth of customer engagement. The briefing notes that premium take-up has declined from 4.6% to 4.1% and that the premium offering is currently marketed generically across a diverse customer base.
+
+Although premium adoption is not the primary target, product usage provides information about the depth of customer engagement. The briefing notes that premium take-up has declined from 4.6% to 4.1%, and that the premium offering is currently marketed generically across a diverse customer base.
+
 Grain: one row per product/subscription event.
-Column name	Data type	Example	Additional information
-Client ID	String, identifier	C102938	Customer identifier.
-Account ID	String, identifier	A458921	Investment account.
-Product ID	String	P004	Product identifier.
-Product type	String, categorical	Tax-Free Account	Product/category name.
-Subscription tier	String, categorical	Premium	Current or historical subscription level.
-Start date	Date	2025-06-01	Date product/subscription started.
-Cancellation date	Date	2026-01-10	Null if still active.
-Subscription status	String, categorical	Active	Active, Cancelled, Expired, Trial, etc.
-Monthly fee	Numeric, decimal	49.00	Fee in rand where applicable.
-Cancellation reason	String, categorical	Low usage	Provide if captured.
-Product usage count	Numeric, integer	7	Number of interactions with the product over an agreed time window if already available.
+
+Column name
+
+Data type
+
+Example
+
+Additional information
+
+Client ID
+
+String, identifier
+
+C102938
+
+Customer identifier.
+
+Account ID
+
+String, identifier
+
+A458921
+
+Investment account.
+
+Product ID
+
+String
+
+P004
+
+Product identifier.
+
+Product type
+
+String, categorical
+
+Tax-Free Account
+
+Product/category name.
+
+Subscription tier
+
+String, categorical
+
+Premium
+
+Current or historical subscription level.
+
+Start date
+
+Date
+
+2025-06-01
+
+Date product/subscription started.
+
+Cancellation date
+
+Date
+
+2026-01-10
+
+Null if still active.
+
+Subscription status
+
+String, categorical
+
+Active
+
+Examples: Active, Cancelled, Expired, Trial, etc.
+
+Monthly fee
+
+Numeric, decimal
+
+49.00
+
+Fee in rand where applicable.
+
+Cancellation reason
+
+String, categorical
+
+Low usage
+
+Provide if captured.
+
+Product usage count
+
+Numeric, integer
+
+7
+
+Number of interactions with the product over an agreed time window, if already available.
+
 8. Client Service and Support Data
+
 Support volumes have increased from 46 to 63 tickets per 1,000 active clients, and the briefing notes that free-text customer queries are not currently mined systematically. Support activity may therefore reveal frustration or disengagement before dormancy occurs.
+
 Grain: one row per ticket or interaction.
-Column name	Data type	Example	Additional information
-Client ID	String, identifier	C102938	Customer identifier.
-Ticket ID	String	SUP39483	Unique support interaction.
-Created datetime	Datetime	2026-05-13 09:15:23	Ticket creation time.
-Closed datetime	Datetime	2026-05-13 14:05:10	Null if unresolved.
-Contact channel	String, categorical	In-app chat	Examples: Email, Chat, Phone, Web.
-Ticket category	String, categorical	Withdrawal	Existing classification.
-Ticket subcategory	String, categorical	Withdrawal delayed	More detailed categorisation if available.
-Query text	String, free text	Why can't I withdraw?	Please provide de-identified text. The briefing specifically identifies free-text support queries as an available source.
-Resolution status	String, categorical	Resolved	Open, Resolved, Escalated, etc.
-Resolution time	Numeric, integer	290	Minutes to resolution.
-Escalated	Boolean	FALSE	Whether ticket required escalation.
-Repeat contact flag	Boolean	TRUE	Whether client contacted support repeatedly for same issue, if available.
-Satisfaction score	Numeric	3	Provide the existing scale, e.g. 1–5.
-Complaint flag	Boolean	FALSE	TRUE where interaction became a formal complaint.
+
+Column name
+
+Data type
+
+Example
+
+Additional information
+
+Client ID
+
+String, identifier
+
+C102938
+
+Customer identifier.
+
+Ticket ID
+
+String
+
+SUP39483
+
+Unique support interaction.
+
+Created datetime
+
+Datetime
+
+2026-05-13 09:15:23
+
+Ticket creation time.
+
+Closed datetime
+
+Datetime
+
+2026-05-13 14:05:10
+
+Null if unresolved.
+
+Contact channel
+
+String, categorical
+
+In-app chat
+
+Examples: Email, Chat, Phone, Web.
+
+Ticket category
+
+String, categorical
+
+Withdrawal
+
+Existing classification.
+
+Ticket subcategory
+
+String, categorical
+
+Withdrawal delayed
+
+More detailed categorisation, if available.
+
+Query text
+
+String, free text
+
+Why can't I withdraw?
+
+Please provide de-identified text. The briefing specifically identifies free-text support queries as an available source.
+
+Resolution status
+
+String, categorical
+
+Resolved
+
+Examples: Open, Resolved, Escalated, etc.
+
+Resolution time
+
+Numeric, integer
+
+290
+
+Minutes to resolution.
+
+Escalated
+
+Boolean
+
+FALSE
+
+Whether the ticket required escalation.
+
+Repeat contact flag
+
+Boolean
+
+TRUE
+
+Whether the client contacted support repeatedly for the same issue, if available.
+
+Satisfaction score
+
+Numeric
+
+3
+
+Provide the existing scale, e.g. 1–5.
+
+Complaint flag
+
+Boolean
+
+FALSE
+
+TRUE where the interaction became a formal complaint.
+
 9. Outcome / Target Data
+
 This table is essential because the machine-learning models require historical examples of customers who did and did not activate, as well as those who did and did not become dormant.
-Column name	Data type	Example	Additional information
-Client ID	String, identifier	C102938	Links outcome to predictor data.
-Registration date	Date	2025-03-14	Required for defining activation observation window.
-Ever funded	Boolean	TRUE	TRUE if client has ever successfully deposited.
-First deposit date	Datetime	2025-03-17 13:42:00	Null for never-funded accounts.
-Activation outcome	Boolean	TRUE	Final modelling label. Definition should be agreed with STADIOEquities before modelling.
-Days to activation	Numeric, integer	3	Days from registration to first successful activation event.
-Dormancy date	Date	2026-02-10	Date client met official dormancy definition.
-Dormancy outcome	Boolean	TRUE	Historical target for dormancy prediction.
-Reactivation date	Date	2026-05-20	Useful for distinguishing temporary dormancy from permanent disengagement.
-Reactivated flag	Boolean	TRUE	TRUE if customer later became active again.
-Account closed	Boolean	FALSE	Separate closure from dormancy.
-Important definition to confirm with STADIOEquities
-Before modelling begins, the client should confirm exactly how the following terms are defined operationally:
-Activation — for example, whether a customer becomes activated immediately after their first successful deposit, or only after funding and completing a trade.
-Dormancy — the briefing reports accounts that become dormant within six months and describes funded and active accounts as having “traded or held in the last 90 days,” but it does not provide a complete formal modelling definition of dormancy. We should therefore agree the exact number of inactive days and qualifying activities with the client before creating the target variable.
-Data delivery requirements
-I would request the maximum historical data available, rather than only the most recent customers. According to the briefing, STADIOEquities has approximately 4 years of app/web data, 6 years of account and funding data, 6 years of trading activity, 4 years of product/subscription data, 6 years of demographics, 3 years of support data and 4 years of marketing data.
-The client should provide the data at the lowest practical level of detail, preferably event- or transaction-level rather than only monthly totals. All tables must contain a consistent anonymised Client ID, timestamps should preferably follow yyyy-MM-dd hh:mm:ss, missing values should remain identifiable rather than being silently replaced with zero, categorical codes should be supplied with a data dictionary, and personally identifying details such as names, identity numbers, phone numbers and email addresses are not required for this project.
-Together, these datasets would allow the project to construct a chronological view of each client's journey—from registration → onboarding → first deposit → initial investment activity → ongoing engagement or dormancy—and build predictive models that directly address STADIOEquities' activation and engagement problem.
+
+Column name
+
+Data type
+
+Example
+
+Additional information
+
+Client ID
+
+String, identifier
+
+C102938
+
+Links the outcome to predictor data.
+
+Registration date
+
+Date
+
+2025-03-14
+
+Required for defining the activation observation window.
+
+Ever funded
+
+Boolean
+
+TRUE
+
+TRUE if the client has ever successfully deposited.
+
+First deposit date
+
+Datetime
+
+2025-03-17 13:42:00
+
+Null for never-funded accounts.
+
+Activation outcome
+
+Boolean
+
+TRUE
+
+Final modelling label. Definition should be agreed with STADIOEquities before modelling.
+
+Days to activation
+
+Numeric, integer
+
+3
+
+Days from registration to first successful activation event.
+
+Dormancy date
+
+Date
+
+2026-02-10
+
+Date the client met the official dormancy definition.
+
+Dormancy outcome
+
+Boolean
+
+TRUE
+
+Historical target for dormancy prediction.
+
+Reactivation date
+
+Date
+
+2026-05-20
+
+Useful for distinguishing temporary dormancy from permanent disengagement.
+
+Reactivated flag
+
+Boolean
+
+TRUE
+
+TRUE if the customer later became active again.
+
+Account closed
+
+Boolean
+
+FALSE
+
+Separate closure from dormancy.
+
+Important Definitions to Confirm Before Modelling
+
+Before modelling begins, STADIOEquities should confirm the exact operational definitions of the following terms.
+
+Activation
+
+For example, clarify whether a customer becomes activated:
+
+immediately after their first successful deposit; or
+
+only after funding and completing a trade.
+
+Dormancy
+
+The briefing reports accounts that become dormant within six months and describes funded and active accounts as having "traded or held in the last 90 days", but it does not provide a complete formal modelling definition of dormancy.
+
+The following should therefore be agreed before creating the target variable:
+
+the exact number of inactive days required for dormancy;
+
+which customer actions count as qualifying activity; and
+
+how temporary dormancy, reactivation, and permanent disengagement should be treated.
+
+Data Delivery Requirements
+
+The maximum historical data available should be requested, rather than only the most recent customers.
+
+According to the briefing, STADIOEquities has approximately:
+
+Data source
+
+Historical coverage
+
+App/web data
+
+4 years
+
+Account and funding data
+
+6 years
+
+Trading activity
+
+6 years
+
+Product/subscription data
+
+4 years
+
+Demographics
+
+6 years
+
+Support data
+
+3 years
+
+Marketing data
+
+4 years
+
+General delivery standards
+
+The client should provide the data at the lowest practical level of detail, preferably event- or transaction-level rather than only monthly totals.
+
+All supplied datasets should meet the following requirements:
+
+Use a consistent, anonymised Client ID across all relevant tables.
+
+Include Account ID where account-level relationships are required.
+
+Prefer timestamps in yyyy-MM-dd hh:mm:ss format.
+
+Keep missing values identifiable rather than silently replacing them with zero.
+
+Supply categorical codes together with a supporting data dictionary.
+
+Preserve raw event and transaction timestamps where available.
+
+Exclude unnecessary personally identifying information such as:
+
+names;
+
+identity numbers;
+
+phone numbers; and
+
+email addresses.
+
+De-identify free-text fields before delivery where necessary.
+
+Intended Customer Journey View
+
+Together, these datasets would allow the project to construct a chronological view of each client's journey:
+
+Registration
+    ↓
+Onboarding / KYC
+    ↓
+First Deposit
+    ↓
+Initial Investment Activity
+    ↓
+Ongoing Engagement
+    ↓
+Active / Dormant / Reactivated / Closed
+
+This combined view would support predictive models that directly address STADIOEquities' activation and engagement/dormancy problem.
+
+
 
 | **RAAIDD**                                                                                     | **Description**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 | ---------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
