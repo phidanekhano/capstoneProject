@@ -124,7 +124,7 @@ def train_one(data: Path | None, output: Path, name: str, classifier) -> dict:
     test_scores = model.predict_proba(test.drop(columns="y"))[:, 1]
     results = {
         "model": name,
-        "source": str(data) if data else UCI_ARCHIVE,
+        "source": str(data) if data else None,
         "rows": len(frame),
         "split_rows": {"train": len(train), "validation": len(validation), "test": len(test)},
         "positive_rate": {
