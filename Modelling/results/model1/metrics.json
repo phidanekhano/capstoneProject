@@ -1,0 +1,52 @@
+{
+  "model": "logistic_regression",
+  "source": "/Users/khanophidane/Documents/School/capstone/Project/capstoneProject/Modelling/data/bank-full.csv",
+  "rows": 45211,
+  "split_rows": {
+    "train": 27126,
+    "validation": 9042,
+    "test": 9043
+  },
+  "positive_rate": {
+    "train": 0.0504,
+    "validation": 0.1179,
+    "test": 0.3158
+  },
+  "excluded_post_outcome_column": "duration",
+  "validation": {
+    "threshold": 0.45,
+    "roc_auc": 0.6248,
+    "average_precision": 0.1634,
+    "precision_yes": 0.1474,
+    "recall_yes": 0.8068,
+    "f2_yes": 0.4257,
+    "confusion_matrix_no_yes": [
+      [
+        3000,
+        4976
+      ],
+      [
+        206,
+        860
+      ]
+    ]
+  },
+  "test": {
+    "threshold": 0.45,
+    "roc_auc": 0.6654,
+    "average_precision": 0.4401,
+    "precision_yes": 0.4339,
+    "recall_yes": 0.681,
+    "f2_yes": 0.6114,
+    "confusion_matrix_no_yes": [
+      [
+        3649,
+        2538
+      ],
+      [
+        911,
+        1945
+      ]
+    ]
+  }
+}
