@@ -1,0 +1,2284 @@
+client_id,account_id,product_id,product_type,subscription_tier,start_date,cancellation_date,subscription_status,monthly_fee,cancellation_reason,product_usage_count
+C102938,A458923,P007,Tax-Free Account,Premium,2023-08-11,,Active,49.00,,3
+C102943,A458931,P012,Retirement Annuity,Standard,2023-10-11,,Active,0.00,,0
+C102949,A458940,P010,Tax-Free Account,Standard,2026-01-20,,Active,0.00,,15
+C102953,A458942,P005,Standard Account,Standard,2025-07-20,,Active,0.00,,3
+C102953,A458942,P001,Standard Account,Standard,2025-08-27,,Active,0.00,,7
+C102967,A458951,P005,Tax-Free Account,Standard,2024-06-25,,Expired,0.00,,0
+C102971,A458955,P011,Standard Account,Premium Plus,2024-01-21,2024-06-11,Cancelled,99.00,Service issue,1
+C102971,A458955,P001,Standard Account,Standard,2023-06-16,,Expired,0.00,,3
+C102974,A458959,P012,Tax-Free Account,Standard,2026-06-15,,Active,0.00,,7
+C102976,A458962,P010,Offshore Account,Standard,2023-02-24,2023-10-18,Cancelled,0.00,Low usage,3
+C102976,A458962,P009,Standard Account,Standard,2023-06-23,,Active,0.00,,1
+C102979,A458966,P011,Retirement Annuity,Standard,2025-05-03,,Active,0.00,,3
+C102984,A458970,P011,Standard Account,Standard,2024-07-27,,Active,0.00,,15
+C102986,A458971,P007,Tax-Free Account,Premium,2024-07-18,,Active,49.00,,15
+C102986,A458971,P002,Retirement Annuity,Standard,2023-07-06,,Active,0.00,,3
+C102989,A458979,P002,Standard Account,Premium,2024-04-18,,Active,49.00,,7
+C102989,A458979,P003,Offshore Account,Standard,2024-05-20,,Active,0.00,,0
+C102989,A458979,P002,Offshore Account,Standard,2024-06-11,,Active,0.00,,15
+C102990,A458981,P001,Tax-Free Account,Standard,2023-09-20,,Active,0.00,,15
+C102991,A458983,P009,Offshore Account,Premium,2025-10-01,,Active,49.00,,1
+C103001,A458990,P005,Tax-Free Account,Premium,2025-05-05,,Active,49.00,,15
+C103005,A458991,P012,Standard Account,Premium Plus,2025-10-24,,Active,99.00,,0
+C103014,A458996,P008,Retirement Annuity,Standard,2026-04-08,,Active,0.00,,0
+C103018,A459000,P008,Tax-Free Account,Standard,2025-05-14,2026-02-02,Cancelled,0.00,Cost,15
+C103018,A459000,P007,Retirement Annuity,Standard,2025-06-14,,Active,0.00,,0
+C103021,A459004,P003,Standard Account,Standard,2025-08-19,,Active,0.00,,0
+C103021,A459004,P012,Standard Account,Standard,2025-07-20,2025-10-29,Cancelled,0.00,Cost,7
+C103024,A459008,P005,Offshore Account,Standard,2023-07-06,,Active,0.00,,15
+C103030,A459014,P006,Tax-Free Account,Standard,2024-07-01,,Active,0.00,,15
+C103034,A459015,P002,Standard Account,Standard,2024-11-29,,Expired,0.00,,0
+C103036,A459018,P001,Standard Account,Premium,2023-02-06,,Active,49.00,,7
+C103036,A459018,P001,Tax-Free Account,Standard,2023-10-27,2023-12-27,Cancelled,0.00,Low usage,3
+C103040,A459021,P002,Offshore Account,Standard,2023-12-20,2024-02-26,Cancelled,0.00,Switched product,7
+C103045,A459027,P010,Offshore Account,Standard,2025-05-04,2025-07-06,Cancelled,0.00,Low usage,7
+C103045,A459027,P009,Tax-Free Account,Standard,2025-04-24,,Active,0.00,,7
+C103045,A459027,P001,Standard Account,Standard,2025-01-08,,Active,0.00,,7
+C103053,A459033,P012,Standard Account,Standard,2024-07-07,,Active,0.00,,3
+C103053,A459033,P008,Tax-Free Account,Standard,2024-03-29,2024-11-14,Cancelled,0.00,Cost,0
+C103062,A459041,P002,Standard Account,Standard,2023-10-07,,Active,0.00,,7
+C103062,A459041,P007,Standard Account,Standard,2023-12-04,2024-12-30,Cancelled,0.00,Switched product,3
+C103065,A459042,P005,Tax-Free Account,Standard,2025-01-04,2025-09-13,Cancelled,0.00,Low usage,15
+C103065,A459042,P005,Tax-Free Account,Standard,2024-11-17,,Active,0.00,,15
+C103066,A459045,P008,Standard Account,Standard,2024-11-26,,Active,0.00,,3
+C103068,A459046,P009,Standard Account,Standard,2024-03-15,,Active,0.00,,7
+C103068,A459046,P004,Standard Account,Standard,2024-07-30,,Active,0.00,,0
+C103072,A459047,P009,Tax-Free Account,Standard,2026-04-09,2026-07-03,Cancelled,0.00,Low usage,15
+C103074,A459052,P006,Standard Account,Standard,2023-11-07,,Active,0.00,,15
+C103074,A459052,P012,Standard Account,Standard,2023-04-25,,Active,0.00,,0
+C103076,A459054,P008,Offshore Account,Standard,2024-12-14,2025-01-20,Cancelled,0.00,Cost,15
+C103077,A459058,P003,Standard Account,Standard,2024-04-11,2024-10-31,Cancelled,0.00,Low usage,7
+C103077,A459058,P007,Tax-Free Account,Standard,2024-11-01,,Trial,0.00,,3
+C103079,A459062,P004,Standard Account,standard,2026-04-04,,Active,0.00,,15
+C103080,A459063,P009,Retirement Annuity,Standard,2025-06-27,,Active,0.00,,3
+C103083,A459067,P009,Standard Account,Premium,2024-10-06,2025-08-06,Cancelled,49.00,Low usage,3
+C103083,A459067,P002,Offshore Account,Standard,2024-02-28,,Active,0.00,,1
+C103086,A459071,P009,Standard Account,Standard,2024-01-08,,Active,0.00,,7
+C103090,A459073,P006,Standard Account,Standard,2024-08-31,,Active,0.00,,3
+C103090,A459073,P008,Standard Account,Premium Plus,2024-01-07,,Active,99.00,,1
+C103090,A459073,P001,Standard Account,Standard,2024-02-10,,Trial,0.00,,1
+C103092,A459077,P009,Tax-Free Account,Standard,2023-04-11,,Active,0.00,,0
+C103092,A459077,P001,Standard Account,Standard,2023-05-06,,Active,0.00,,3
+C103092,A459077,P002,Standard Account,Standard,2024-02-04,2024-11-22,Cancelled,0.00,Service issue,3
+C103094,A459080,P004,Standard Account,Standard,2025-09-01,,Trial,0.00,,7
+C103094,A459080,P010,Standard Account,Standard,2025-08-28,,Active,0.00,,15
+C103095,A459081,P001,Tax-Free Account,Standard,2023-03-08,,Active,0.00,,3
+C103101,A459086,P001,Tax-Free Account,Standard,2023-01-28,,Trial,0.00,,7
+C103101,A459086,P011,Standard Account,Standard,2023-03-20,,Active,0.00,,7
+C103101,A459086,P007,Standard Account,Standard,2023-09-25,2024-08-26,Cancelled,0.00,Cost,1
+C103103,A459088,P012,Offshore Account,Standard,2025-04-14,2025-10-27,Cancelled,0.00,Service issue,0
+C103107,A459089,P004,Standard Account,Standard,2024-12-05,,Active,0.00,,0
+C103107,A459089,P011,Standard Account,Standard,2025-07-06,2026-04-03,Cancelled,0.00,Cost,3
+C103110,A459096,P008,Standard Account,Standard,2025-02-09,,Active,0.00,,7
+C103113,A459100,P005,Standard Account,Premium,2024-08-04,,Active,49.00,,3
+C103113,A459100,P005,Standard Account,Standard,2024-03-01,,Active,0.00,,3
+C103114,A459102,P008,Offshore Account,Premium Plus,2024-10-05,2025-05-03,Cancelled,99.00,Switched product,1
+C103114,A459102,P012,Standard Account,Standard,2024-04-21,2025-03-06,Cancelled,0.00,Service issue,15
+C103127,A459112,P004,Offshore Account,Standard,2026-06-20,,Active,0.00,,1
+C103127,A459112,P008,Standard Account,Standard,2026-06-30,,Active,0.00,,3
+C103128,A459114,P003,Offshore Account,Standard,2025-04-17,,Active,0.00,,15
+C103132,A459118,P001,Standard Account,Standard,2025-01-12,,Trial,0.00,,7
+C103141,A459121,P009,Tax-Free Account,Standard,2025-05-30,,Active,0.00,,15
+C103141,A459121,P010,Tax-Free Account,Standard,2024-05-28,,Active,0.00,,7
+C103151,A459133,P002,Standard Account,Premium,2025-04-03,2026-02-18,Cancelled,49.00,Low usage,1
+C103168,A459154,P012,Offshore Account,Standard,2025-04-05,,Active,0.00,,7
+C103168,A459154,P005,Standard Account,Standard,2025-09-06,,Active,0.00,,0
+C103177,A459163,P004,Tax-Free Account,Standard,2024-07-06,,Active,0.00,,7
+C103179,A459167,P001,Tax-Free Account,Standard,2025-06-04,2025-12-28,Cancelled,0.00,Low usage,7
+C103179,A459167,P005,Offshore Account,Premium,2025-02-17,,Active,49.00,,3
+C103189,A459176,P009,Retirement Annuity,Standard,2026-07-04,,Active,0.00,,7
+C103192,A459177,P011,Standard Account,Standard,2023-11-11,2024-01-29,Cancelled,0.00,Cost,15
+C103192,A459177,P005,Standard Account,Standard,2024-01-09,,Active,0.00,,3
+C103193,A459178,P007,Standard Account,Standard,2024-03-22,,Active,0.00,,15
+C103204,A459186,P010,Tax-Free Account,Premium,2025-09-24,,Trial,49.00,,3
+C103204,A459186,P011,Standard Account,Standard,2025-07-16,2026-07-03,Cancelled,0.00,Cost,3
+C103205,A459188,P005,Tax-Free Account,Standard,2024-01-09,,Active,0.00,,1
+C103205,A459188,P004,Tax-Free Account,Standard,2023-08-10,,Active,0.00,,7
+C103209,A459192,P012,Tax-Free Account,Standard,2025-09-08,,Expired,0.00,,7
+C103209,A459192,P008,Offshore Account,Standard,2025-07-04,,Active,0.00,,7
+C103216,A459200,P003,Offshore Account,Standard,2025-09-08,,Active,0.00,,0
+C103232,A459215,P003,Standard Account,Standard,2023-09-12,2023-10-20,Cancelled,0.00,Cost,15
+C103240,A459217,P005,Retirement Annuity,Premium,2024-02-01,,Active,49.00,,7
+C103243,A459221,P012,Tax-Free Account,Standard,2024-12-29,2025-04-30,Cancelled,0.00,Low usage,0
+C103246,A459222,P009,Retirement Annuity,Standard,2025-11-30,,Active,0.00,,7
+C103248,A459224,P008,Standard Account,Standard,2024-10-20,2025-04-15,Cancelled,0.00,Service issue,1
+C103248,A459224,P009,Tax-Free Account,Standard,2025-03-17,,Active,0.00,,7
+C103251,A459227,P006,Retirement Annuity,Standard,2022-10-14,,Active,0.00,,3
+C103251,A459227,P003,Standard Account,Standard,2022-09-17,,Active,0.00,,7
+C103255,A459229,P007,Tax-Free Account,Standard,2026-07-29,,Active,0.00,,7
+C103258,A459230,P010,Retirement Annuity,Premium,2024-12-12,,Active,49.00,,15
+C103263,A459238,P011,Tax-Free Account,Standard,2025-08-22,,Trial,0.00,,1
+C103264,A459242,P011,Standard Account,Standard,2023-04-13,,Active,0.00,,7
+C103264,A459242,P007,Tax-Free Account,Standard,2024-02-09,2024-11-02,Cancelled,0.00,Cost,7
+C103271,A459249,P004,Retirement Annuity,Standard,2024-09-20,,Trial,0.00,,3
+C103271,A459249,P005,TAX-FREE ACCOUNT,Standard,2024-10-09,2025-02-09,Cancelled,0.00,Switched product,1
+C103271,A459249,P009,Tax-Free Account,Premium,2024-11-11,2025-03-26,Cancelled,49.00,Low usage,7
+C103276,A459254,P004,Offshore Account,Standard,2023-06-15,,Active,0.00,,15
+C103277,A459257,P007,Tax-Free Account,Standard,2023-09-30,,Active,0.00,,3
+C103280,A459264,P005,Tax-Free Account,Standard ,2023-11-11,,Active,0.00,,7
+C103282,A459267,P011,Retirement Annuity,Premium,2023-07-10,2023-11-27,Cancelled,49.00,Cost,15
+C103296,A459278,P009,Retirement Annuity,Premium Plus,2025-04-13,,Active,99.00,,1
+C103298,A459283,P001,Tax-Free Account,Standard,2025-09-30,2026-06-04,Cancelled,0.00,Low usage,15
+C103298,A459283,P003,Retirement Annuity,Standard,2026-03-02,,Active,0.00,,7
+C103298,A459283,P011,Tax-Free Account,Standard,2026-04-13,,Active,0.00,,15
+C103299,A459287,P010,Standard Account,Standard,2025-04-07,2026-01-15,Cancelled,0.00,Low usage,15
+C103299,A459287,P004,Standard Account, Standard ,2024-07-25,2024-10-27,Cancelled,0.00,Service issue,15
+C103303,A459291,P007,Tax-Free Account,Standard,2025-04-07,,Active,0.00,,15
+C103303,A459291,P002,Tax-Free Account,Standard,2025-04-30,,Active,0.00,,3
+C103308,A459296,P007,Offshore Account,Standard,2025-12-12,,Active,0.00,,1
+C103333,A459324,P003,Tax-Free Account,Standard,2026-02-28,,Active,0.00,,15
+C103337,A459328,P010,Tax-Free Account,Standard,2024-12-03,,Active,0.00,,0
+C103344,A459337,P010,Tax-Free Account,Standard,2023-11-12,,Active,0.00,,0
+C103348,A459341,P009,Retirement Annuity,Standard,2024-09-04,,Active,0.00,,1
+C103348,A459341,P008,Standard Account,Standard,2025-02-17,2025-03-21,Cancelled,0.00,Switched product,3
+C103356,A459348,P007,Offshore Account,Standard,2023-04-21,,Active,0.00,,15
+C103363,A459353,P012,Tax-Free Account,Standard,2023-05-05,,Active,0.00,,0
+C103363,A459353,P003,Standard Account,Standard,2023-08-29,2024-03-18,Cancelled,0.00,Service issue,1
+C103363,A459353,P001,Tax-Free Account,Standard,2023-05-24,2024-01-09,Cancelled,0.00,Low usage,0
+C103367,A459359,P001,Tax-Free Account,Standard,2026-02-05,,Active,0.00,,7
+C103370,A459363,P002,Tax-Free Account,Standard,2024-01-25,2024-09-25,Cancelled,0.00,Switched product,1
+C103370,A459363,P001,Standard Account,Standard,2023-06-25,,Trial,0.00,,3
+C103370,A459363,P002,Tax-Free Account,Premium,2023-06-27,2024-07-26,Cancelled,49.00,Switched product,7
+C103383,A459375,P012,Standard Account,Premium,2023-08-02,,Active,49.00,,1
+C103383,A459375,P003,Offshore Account ,Standard,2023-05-18,2024-03-02,Cancelled,0.00,Low usage,7
+C103386,A459377,P009,Retirement Annuity,Standard,2026-05-21,,Active,0.00,,0
+C103393,A459382,P007,Tax-Free Account,Standard,2024-11-17,,Active,0.00,,7
+C103393,A459382,P012,Standard Account,Standard,2024-03-31,,Active,0.00,,1
+C103396,A459385,P001,Standard Account,Premium,2025-12-14,,Active,49.00,,0
+C103396,A459385,P002,Offshore Account,Standard,2026-05-02,,Active,0.00,,1
+C103398,A459388,P012,Standard Account,Standard ,2024-12-28,,Active,0.00,,7
+C103402,A459394,P012,Standard Account,Premium,2026-03-18,,Active,49.00,,7
+C103404,A459396,P005,Tax-Free Account,Standard,2023-12-14,,Active,0.00,,3
+C103408,A459404,P010,Standard Account,Standard,2025-04-12,2025-05-28,Cancelled,0.00,Switched product,7
+C103408,A459404,P008,Tax-Free Account,Standard,2024-09-29,,Active,0.00,,3
+C103408,A459404,P003,Standard Account ,Standard,2025-03-05,2025-07-25,Cancelled,0.00,Switched product,15
+C103419,A459412,P007,Tax-Free Account,Standard,2025-02-20,,Trial,0.00,,0
+C103420,A459413,P005,Tax-Free Account,Premium,2023-12-27,,Active,49.00,,3
+C103421,A459416,P001,Offshore Account,Standard,2026-03-04,,Expired,0.00,,15
+C103421,A459416,P007,Offshore Account,Standard,2026-02-22,,Active,0.00,,0
+C103422,A459420,P006,Tax-Free Account,Standard,2024-10-16,,Active,0.00,,15
+C103425,A459424,P002,Offshore Account,Standard,2026-06-07,,Active,0.00,,15
+C103430,A459428,P012,Offshore Account,Standard,2024-07-06,,Active,0.00,,15
+C103434,A459430,P001,Standard Account,Standard,2024-11-27,,Active,0.00,,3
+C103434,A459430,P012,Retirement Annuity,Premium Plus,2024-09-19,,Active,99.00,,3
+C103444,A459444,P012,Tax-Free Account,Standard,2023-09-07,,Active,0.00,,0
+C103447,A459446,P002,Retirement Annuity,Standard,2026-01-01,,Active,0.00,,7
+C103447,A459446,P008,Offshore Account,Standard,2026-02-17,,Trial,0.00,,7
+C103447,A459446,P008,Retirement Annuity,Standard,2025-11-22,,Active,0.00,,7
+C103451,A459450,P001,Standard Account,Standard,2024-01-19,,Active,0.00,,3
+C103452,A459454,P003,Standard Account,standard,2025-01-06,,Active,0.00,,15
+C103456,A459459,P003,Standard Account,Standard,2025-03-25,,Active,0.00,,15
+C103462,A459465,P002,Tax-Free Account,Standard,2024-02-15,,Active,0.00,,15
+C103469,A459477,P003,Tax-Free Account,Standard,2023-07-09,,Active,0.00,,15
+C103475,A459484,P007,Standard Account,Standard,2025-11-12,,Active,0.00,,3
+C103480,A459489,P007,Tax-Free Account,Standard,2024-04-13,2024-11-04,Cancelled,0.00,Low usage,15
+C103489,A459499,P004,STANDARD ACCOUNT,Standard,2023-07-25,,Active,0.00,,15
+C103489,A459499,P012,Tax-Free Account,Standard,2023-11-30,2024-12-10,Cancelled,0.00,Service issue,1
+C103517,A459524,P012,Standard Account,Standard,2026-02-03,,Active,0.00,,3
+C103521,A459525,P007,Tax-Free Account,Standard,2026-05-26,,Active,0.00,,1
+C103524,A459526,P004,Offshore Account,Standard,2025-10-24,,Active,0.00,,7
+C103527,A459530,P012,Standard Account,Standard,2024-03-01,2024-10-17,Cancelled,0.00,Low usage,3
+C103529,A459532,P009,Standard Account,Standard,2024-11-29,,Active,0.00,,1
+C103536,A459538,P001,Tax-Free Account,Premium,2026-02-14,,Expired,49.00,,3
+C103538,A459540,P004,Standard Account,Standard,2025-12-12,,Active,0.00,,7
+C103539,A459543,P011,Tax-Free Account,Standard,2024-04-20,,Active,0.00,,1
+C103541,A459544,P011,Standard Account,Premium,2025-08-14,,Active,49.00,,15
+C103545,A459548,P002,Tax-Free Account,Standard,2024-07-11,,Active,0.00,,7
+C103549,A459555,P009,Tax-Free Account,Standard,2023-07-22,,Trial,0.00,,0
+C103551,A459558,P012,Standard Account,Standard,2025-02-05,,Active,0.00,,1
+C103561,A459565,P010,Tax-Free Account,Premium,2024-02-14,,Active,49.00,,0
+C103561,A459565,P008,Standard Account,Standard,2024-10-02,,Active,0.00,,3
+C103565,A459568,P003,Standard Account,Standard,2025-02-23,,Active,0.00,,0
+C103573,A459577,P002,Standard Account,Premium Plus,2026-04-27,,Active,99.00,,0
+C103573,A459577,P012,Retirement Annuity,Standard,2025-06-21,,Active,0.00,,0
+C103573,A459577,P005,Standard Account,Standard,2026-04-20,,Active,0.00,,7
+C103576,A459582,P006,Standard Account,Standard,2024-01-07,,Active,0.00,,7
+C103576,A459582,P003,Standard Account,Standard,2024-04-25,2024-11-13,Cancelled,0.00,Low usage,7
+C103580,A459586,P011,Retirement Annuity,Standard,2023-07-14,,Active,0.00,,15
+C103610,A459606,P001,Tax-Free Account,Standard,2026-03-08,,Active,0.00,,7
+C103612,A459609,P012,Standard Account,Standard,2024-06-26,,Active,0.00,,15
+C103616,A459613,P003,Retirement Annuity,Standard,2025-07-11,,Active,0.00,,3
+C103616,A459613,P006,tax-free account,Standard,2024-10-02,,Active,0.00,,7
+C103617,A459617,P007,Standard Account,Standard,2023-05-03,,Active,0.00,,15
+C103617,A459617,P007,Tax-Free Account,Standard,2023-09-18,,Active,0.00,,15
+C103620,A459618,P001,Tax-Free Account,Standard,2026-03-11,,Active,0.00,,1
+C103623,A459620,P008,Tax-Free Account,Standard,2023-01-19,,Active,0.00,,0
+C103623,A459620,P007,Offshore Account,Premium,2023-07-12,,Active,49.00,,7
+C103627,A459624,P006,Standard Account,Standard,2024-12-25,,Trial,0.00,,7
+C103635,A459632,P010,Standard Account,Standard,2025-04-16,,Trial,0.00,,1
+C103635,A459632,P009,Retirement Annuity,Standard,2024-08-15,,Active,0.00,,1
+C103638,A459635,P005,Standard Account,Standard,2023-08-21,2023-10-08,Cancelled,0.00,Low usage,15
+C103646,A459643,P008,Retirement Annuity,Standard,2025-10-31,,Active,0.00,,3
+C103646,A459643,P001,Tax-Free Account,Standard,2026-05-25,,Active,0.00,,15
+C103659,A459659,P009,Retirement Annuity,Premium,2025-06-06,,Active,49.00,,7
+C103666,A459664,P009,Tax-Free Account,Premium ,2025-12-19,,Active,49.00,,7
+C103668,A459668,P005,Retirement Annuity,Standard,2024-03-25,,Active,0.00,,7
+C103668,A459668,P009,Retirement Annuity,Premium Plus,2024-06-25,,Active,99.00,,7
+C103668,A459668,P009,Standard Account,Standard,2024-09-14,2025-01-03,Cancelled,0.00,Service issue,3
+C103672,A459670,P003,Tax-Free Account,Standard,2025-02-11,,Active,0.00,,3
+C103672,A459670,P007,Tax-Free Account,Standard,2024-12-03,,Active,0.00,,7
+C103691,A459689,P009,Tax-Free Account,Standard,2025-04-29,,Active,0.00,,7
+C103691,A459689,P011,Offshore Account,Premium,2026-01-02,,Active,49.00,,0
+C103691,A459689,P006,TAX-FREE ACCOUNT,Premium Plus,2024-12-31,2025-05-15,Cancelled,99.00,Cost,1
+C103695,A459698,P007,Tax-Free Account,Standard,2024-10-09,,Expired,0.00,,1
+C103695,A459698,P001,Standard Account,Standard,2025-03-27,,Active,0.00,,3
+C103699,A459706,P010,Retirement Annuity,Standard,2024-08-09,,Active,0.00,,0
+C103699,A459706,P005,Standard Account,Standard,2024-01-18,,Active,0.00,,7
+C103699,A459706,P001,Standard Account,Standard,2024-03-29,,Active,0.00,,15
+C103704,A459717,P010,Standard Account ,Premium Plus,2023-10-20,,Active,99.00,,1
+C103708,A459724,P008,Standard Account,Standard,2026-05-29,,Active,0.00,,0
+C103710,A459726,P007,Tax-Free Account,Standard,2024-12-31,2025-09-03,Cancelled,0.00,Low usage,7
+C103713,A459731,P009,Tax-Free Account,Standard,2025-07-17,,Active,0.00,,0
+C103714,A459735,P006,Tax-Free Account,Standard,2024-08-02,,Active,0.00,,7
+C103718,A459740,P002,Standard Account,Standard,2024-05-08,,Active,0.00,,0
+C103718,A459740,P003,Offshore Account,Standard,2024-06-09,,Active,0.00,,1
+C103719,A459742,P003,Tax-Free Account,Standard,2024-07-10,,Active,0.00,,1
+C103720,A459744,P012,Standard Account,Standard,2025-01-05,,Active,0.00,,15
+C103725,A459751,P008,Tax-Free Account,Premium,2025-10-22,,Active,49.00,,15
+C103727,A459753,P011,Tax-Free Account,Standard,2023-10-17,,Trial,0.00,,7
+C103727,A459753,P004,Standard Account,Premium,2023-07-07,,Active,49.00,,7
+C103734,A459760,P005,Standard Account,Standard,2025-07-07,2026-05-20,Cancelled,0.00,Service issue,0
+C103739,A459764,P002,Standard Account,Premium Plus,2024-05-19,2024-09-12,Cancelled,99.00,Switched product,3
+C103739,A459764,P003,Tax-Free Account,Standard,2024-04-01,,Active,0.00,,3
+C103743,A459766,P007,Standard Account,Standard,2026-03-02,,Trial,0.00,,0
+C103743,A459766,P007,Standard Account,Standard,2025-10-30,,Active,0.00,,1
+C103751,A459772,P010,Standard Account,Standard,2025-12-30,2026-05-04,Cancelled,0.00,Cost,7
+C103754,A459776,P002,Standard Account,Standard,2024-01-24,2024-09-10,Cancelled,0.00,Cost,0
+C103754,A459776,P008,Tax-Free Account,Standard,2024-03-20,,Active,0.00,,15
+C103755,A459778,P009,Standard Account,Standard,2026-01-20,,Active,0.00,,7
+C103770,A459793,P010,Tax-Free Account,Standard,2025-06-06,2025-09-06,Cancelled,0.00,Cost,3
+C103771,A459796,P010,Standard Account,Standard,2023-11-26,,Active,0.00,,0
+C103771,A459796,P001,Standard Account,Premium,2024-02-17,,Active,49.00,,0
+C103772,A459797,P007,Standard Account,Premium Plus,2024-01-22,,Active,99.00,,0
+C103777,A459802,P010,Retirement Annuity,Standard,2025-12-30,,Expired,0.00,,3
+C103777,A459802,P001,Offshore Account,Premium Plus,2026-01-24,,Active,99.00,,3
+C103781,A459808,P006,Offshore Account,Standard,2025-04-19,,Expired,0.00,,0
+C103786,A459813,P001,Standard Account,Standard,2024-05-08,,Trial,0.00,,0
+C103790,A459817,P001,Tax-Free Account,Premium Plus,2026-07-19,2026-08-20,Cancelled,99.00,Switched product,0
+C103800,A459825,P007,Offshore Account,Standard,2024-06-04,,Active,0.00,,1
+C103800,A459825,P007,Tax-Free Account,Standard,2024-02-14,,Active,0.00,,7
+C103804,A459826,P003,Standard Account,Standard,2025-10-06,2025-11-22,Cancelled,0.00,Low usage,15
+C103814,A459837,P009,Tax-Free Account,Standard,2025-10-07,2026-06-27,Cancelled,0.00,Low usage,7
+C103817,A459839,P005,Standard Account,Standard,2025-12-17,,Active,0.00,,7
+C103820,A459843,P001,Tax-Free Account,Standard,2025-03-17,2025-10-08,Cancelled,0.00,Low usage,0
+C103824,A459846,P010,Standard Account,Standard,2026-07-22,,Active,0.00,,0
+C103824,A459846,P003,Tax-Free Account,standard,2025-10-27,,Active,0.00,,0
+C103826,A459847,P011,Retirement Annuity, Standard ,2024-11-07,,Active,0.00,,3
+C103826,A459847,P008,Offshore Account,Standard,2025-09-05,,Trial,0.00,,15
+C103827,A459848,P001,Tax-Free Account,Standard,2025-08-08,,Trial,0.00,,0
+C103832,A459855,P002,Standard Account,Standard,2023-03-14,,Active,0.00,,3
+C103840,A459863,P011,Standard Account,Standard,2025-12-07,,Trial,0.00,,15
+C103841,A459867,P011,Tax-Free Account,Standard,2025-06-21,2025-10-10,Cancelled,0.00,Low usage,15
+C103847,A459873,P011,Offshore Account,Premium,2025-03-02,,Active,49.00,,1
+C103855,A459880,P004,Standard Account,Premium Plus,2025-12-27,,Active,99.00,,7
+C103856,A459884,P007,Offshore Account,Standard,2024-09-16,,Active,0.00,,7
+C103856,A459884,P012,Offshore Account, Standard ,2024-04-06,,Active,0.00,,3
+C103856,A459884,P009,Standard Account,Standard,2025-03-08,,Active,0.00,,7
+C103860,A459886,P001,Tax-Free Account,Standard,2023-06-19,2024-01-23,Cancelled,0.00,Low usage,1
+C103867,A459890,P005,Tax-Free Account,Standard,2024-05-08,,Active,0.00,,3
+C103867,A459890,P001,Standard Account,Standard,2024-07-31,2024-10-12,Cancelled,0.00,Service issue,3
+C103869,A459893,P001,Standard Account,Standard,2024-10-22,,Active,0.00,,0
+C103873,A459894,P004,Tax-Free Account,Premium,2026-04-12,,Active,49.00,,3
+C103875,A459896,P001,Standard Account,Standard,2023-10-14,,Active,0.00,,7
+C103898,A459917,P011,Tax-Free Account,Standard,2025-07-02,2026-05-06,Cancelled,0.00,Low usage,7
+C103905,A459923,P010,Tax-Free Account,premium,2024-06-14,,Active,49.00,,0
+C103912,A459927,P010,Standard Account,Standard,2024-05-06,,Active,0.00,,15
+C103917,A459933,P006,Standard Account,Standard,2024-08-19,,Active,0.00,,7
+C103921,A459937,P005,Tax-Free Account,Standard,2026-07-20,,Active,0.00,,3
+C103921,A459937,P002,Standard Account,Standard,2025-11-10,,Active,0.00,,15
+C103926,A459939,P003,Standard Account,Standard,2024-03-12,,Active,0.00,,7
+C103933,A459943,P008,Standard Account,Premium Plus,2024-03-16,,Trial,99.00,,1
+C103933,A459943,P011,Standard Account,Standard,2024-04-16,2025-02-01,Cancelled,0.00,Low usage,0
+C103935,A459944,P007,Offshore Account,Standard,2025-02-07,,Active,0.00,,1
+C103937,A459945,P005,Tax-Free Account,Standard,2023-11-16,,Active,0.00,,0
+C103940,A459947,P007,Offshore Account,Standard,2024-11-05,,Active,0.00,,0
+C103943,A459951,P008,Tax-Free Account,Premium Plus,2025-02-16,,Active,99.00,,1
+C103944,A459955,P004,Standard Account,Standard,2025-10-22,,Active,0.00,,7
+C103944,A459955,P005,Standard Account,Standard,2025-06-25,2025-10-30,Cancelled,0.00,Switched product,7
+C103944,A459955,P011,Offshore Account,Standard,2025-10-13,,Active,0.00,,7
+C103945,A459956,P012,Standard Account,Standard,2024-10-25,,Active,0.00,,7
+C103957,A459966,P005,Offshore Account,Standard,2022-12-09,,Active,0.00,,0
+C103958,A459968,P001,Standard Account,Standard,2024-04-28,,Active,0.00,,3
+C103963,A459972,P007,Tax-Free Account,Premium,2025-05-06,,Active,49.00,,7
+C103963,A459972,P005, Offshore Account ,Standard,2025-01-02,,Active,0.00,,1
+C103963,A459972,P010,Tax-Free Account,Standard,2024-11-25,,Active,0.00,,15
+C103967,A459973,P011,Tax-Free Account,Premium Plus,2023-04-23,,Active,99.00,,15
+C103974,A459981,P006,Tax-Free Account,Standard,2025-11-04,2026-04-18,Cancelled,0.00,Cost,3
+C103974,A459981,P001,Standard Account,Standard,2025-10-28,,Active,0.00,,7
+C103977,A459984,P001,Standard Account,Standard,2023-11-22,2024-09-14,Cancelled,0.00,Switched product,3
+C103978,A459987,P003,Retirement Annuity,Standard,2026-04-28,,Active,0.00,,7
+C103980,A459991,P008,Standard Account,Standard,2024-12-31,,Trial,0.00,,1
+C103980,A459991,P001,Retirement Annuity,Standard,2024-10-02,,Active,0.00,,1
+C103987,A459998,P002,Tax-Free Account,Standard,2026-07-24,,Active,0.00,,15
+C103989,A460001,P008,Standard Account,Standard,2025-04-24,,Active,0.00,,0
+C104000,A460010,P007,Offshore Account,Standard,2026-05-02,,Active,0.00,,15
+C104004,A460013,P006,tax-free account,Standard,2026-03-15,,Active,0.00,,7
+C104004,A460013,P001,Retirement Annuity,Standard,2025-10-25,,Active,0.00,,1
+C104008,A460020,P010,Standard Account,Standard,2023-09-01,2024-10-10,Cancelled,0.00,Low usage,15
+C104017,A460027,P006,Standard Account,Premium,2023-09-13,,Active,49.00,,15
+C104024,A460039,P002,Standard Account,Standard,2026-03-16,,Active,0.00,,1
+C104027,A460043,P001,Retirement Annuity,Standard,2024-02-20,,Active,0.00,,3
+C104027,A460043,P002,Retirement Annuity,Standard,2024-07-29,,Active,0.00,,1
+C104027,A460043,P010,Tax-Free Account,Premium,2023-11-07,2024-02-01,Cancelled,49.00,Service issue,7
+C104035,A460047,P008,Tax-Free Account,Standard,2024-04-08,2024-12-07,Cancelled,0.00,Service issue,3
+C104047,A460061,P002,Tax-Free Account,Standard,2024-10-22,,Active,0.00,,7
+C104049,A460065,P006,Tax-Free Account ,Premium,2026-01-23,,Active,49.00,,7
+C104054,A460071,P010,Tax-Free Account,Standard,2025-09-22,,Expired,0.00,,1
+C104057,A460072,P009,Standard Account,Standard,2025-06-25,2026-05-08,Cancelled,0.00,Switched product,1
+C104062,A460076,P011,Offshore Account,Standard,2025-09-24,2026-03-27,Cancelled,0.00,Cost,15
+C104069,A460083,P004,Tax-Free Account,Standard,2026-05-15,,Active,0.00,,15
+C104082,A460097,P011,Standard Account,Premium,2023-04-17,,Active,49.00,,15
+C104090,A460102,P004,Retirement Annuity,Standard,2026-02-16,,Active,0.00,,7
+C104090,A460102,P012,Standard Account,Standard,2026-02-07,,Active,0.00,,7
+C104090,A460102,P010,Tax-Free Account,Standard,2025-10-03,,Active,0.00,,15
+C104096,A460108,P005,Retirement Annuity,Standard,2024-04-06,,Active,0.00,,7
+C104097,A460111,P003,Retirement Annuity,Standard,2024-11-12,,Active,0.00,,7
+C104101,A460116,P003,Standard Account,Standard,2025-07-18,,Active,0.00,,3
+C104108,A460124,P001,Offshore Account,Standard,2026-05-15,,Active,0.00,,3
+C104108,A460124,P003,Tax-Free Account,Standard,2025-06-12,,Active,0.00,,1
+C104113,A460129,P005,Tax-Free Account,Standard,2025-10-10,,Active,0.00,,3
+C104117,A460130,P011,Tax-Free Account,Standard,2025-01-11,,Active,0.00,,7
+C104117,A460130,P002,Offshore Account,Standard,2025-03-28,2025-04-29,Cancelled,0.00,Low usage,15
+C104134,A460147,P002,Standard Account,Standard,2025-09-28,,Active,0.00,,15
+C104134,A460147,P007,Retirement Annuity,Standard,2025-03-08,,Active,0.00,,15
+C104134,A460147,P001,Tax-Free Account,Standard,2025-03-23,,Active,0.00,,0
+C104138,A460154,P004, Standard Account ,Standard,2026-02-17,,Active,0.00,,7
+C104145,A460158,P001,Standard Account,Standard,2024-08-22,2025-04-21,Cancelled,0.00,Cost,7
+C104148,A460159,P002,Tax-Free Account,Standard,2026-06-25,,Active,0.00,,0
+C104150,A460162,P004,Standard Account,STANDARD,2025-11-25,2026-01-06,Cancelled,0.00,Low usage,1
+C104150,A460162,P011,Tax-Free Account,Premium Plus,2025-12-09,,Active,99.00,,0
+C104150,A460162,P010,Tax-Free Account,Standard,2026-04-08,,Active,0.00,,15
+C104151,A460165,P006,Standard Account,Standard,2026-06-28,,Active,0.00,,3
+C104151,A460165,P006,Standard Account,Premium Plus,2026-02-16,,Active,99.00,,15
+C104155,A460169,P007,Standard Account,Standard,2023-05-07,,Trial,0.00,,7
+C104159,A460172,P002,Tax-Free Account,Standard,2024-01-23,,Active,0.00,,15
+C104161,A460174,P006,Standard Account,Premium Plus,2023-08-28,,Active,99.00,,0
+C104164,A460177,P001,Standard Account,Standard,2026-06-01,,Active,0.00,,0
+C104165,A460181,P005,Standard Account,Standard,2025-09-03,,Active,0.00,,3
+C104165,A460181,P006,Retirement Annuity,Premium,2026-03-16,,Active,49.00,,15
+C104166,A460183,P004,Tax-Free Account,Standard,2023-04-13,,Active,0.00,,1
+C104166,A460183,P012,Tax-Free Account,Premium,2023-11-09,,Active,49.00,,3
+C104175,A460189,P007,Standard Account,Standard,2026-06-21,,Active,0.00,,15
+C104175,A460189,P002,Offshore Account,Standard,2026-05-13,,Active,0.00,,15
+C104178,A460194,P010,Standard Account,Standard,2025-10-09,,Active,0.00,,0
+C104181,A460196,P004,Retirement Annuity,Standard,2023-08-03,,Active,0.00,,0
+C104181,A460196,P008,Standard Account,Standard,2023-08-06,,Active,0.00,,0
+C104189,A460203,P009,Standard Account,Premium Plus,2025-06-09,,Active,99.00,,1
+C104189,A460203,P008,Standard Account,Standard,2024-11-24,,Expired,0.00,,7
+C104190,A460205,P009,Standard Account,Premium,2023-07-14,,Active,49.00,,7
+C104191,A460209,P004,Standard Account,Standard,2026-06-11,,Active,0.00,,0
+C104204,A460218,P011,Standard Account,Premium Plus,2024-05-08,,Active,99.00,,15
+C104216,A460227,P010,Standard Account,Standard,2025-07-30,2026-02-04,Cancelled,0.00,Cost,7
+C104221,A460232,P008,Tax-Free Account,Standard,2025-02-07,,Active,0.00,,0
+C104225,A460235,P006,Retirement Annuity,Standard,2024-09-06,,Active,0.00,,3
+C104230,A460241,P006,Tax-Free Account,Standard,2025-10-10,,Trial,0.00,,0
+C104231,A460242,P009,Standard Account,Standard,2024-06-06,,Active,0.00,,7
+C104235,A460244,P005,Offshore Account,Standard,2025-08-21,2025-12-22,Cancelled,0.00,Low usage,7
+C104239,A460251,P002,Tax-Free Account,Standard,2023-11-16,,Active,0.00,,15
+C104240,A460253,P008,Offshore Account,Premium,2025-04-26,,Active,49.00,,1
+C104247,A460258,P012,Retirement Annuity,Premium,2025-02-04,,Active,49.00,,7
+C104267,A460274,P006,Tax-Free Account,Standard,2024-07-24,,Active,0.00,,1
+C104281,A460290,P008,Tax-Free Account,Standard,2023-08-31,2024-01-05,Cancelled,0.00,Low usage,15
+C104288,A460296,P010,Standard Account,Standard,2025-01-10,2025-06-13,Cancelled,0.00,Cost,15
+C104294,A460301,P001,Standard Account,Standard,2023-08-06,,Active,0.00,,15
+C104298,A460305,P007,Retirement Annuity,Premium,2023-12-03,,Active,49.00,,0
+C104302,A460308,P001,Standard Account,Standard,2026-05-11,,Active,0.00,,7
+C104304,A460310,P006,Tax-Free Account,Standard,2024-12-10,,Active,0.00,,0
+C104304,A460310,P011,Offshore Account,Standard,2024-08-21,,Active,0.00,,15
+C104307,A460314,P007,Offshore Account,Standard,2025-01-23,,Active,0.00,,1
+C104309,A460317,P004,Offshore Account,Standard,2024-07-10,,Trial,0.00,,0
+C104322,A460325,P003,Standard Account,Premium,2024-06-27,,Active,49.00,,7
+C104322,A460325,P001,Standard Account,Standard,2024-08-17,,Active,0.00,,0
+C104324,A460328,P002,Standard Account,Standard,2025-11-22,,Active,0.00,,7
+C104324,A460328,P004,Offshore Account,Standard,2025-09-06,,Trial,0.00,,1
+C104324,A460328,P005,Tax-Free Account,Standard,2025-07-21,,Active,0.00,,1
+C104329,A460336,P002,Standard Account,Standard,2023-03-29,,Active,0.00,,7
+C104329,A460336,P012,Offshore Account,Standard,2023-03-10,,Active,0.00,,0
+C104329,A460336,P009,Standard Account,Standard,2023-02-27,,Active,0.00,,7
+C104331,A460337,P006,Standard Account,Standard,2026-06-10,,Active,0.00,,0
+C104331,A460337,P012,Offshore Account,Standard,2025-11-29,2026-07-16,Cancelled,0.00,Low usage,7
+C104337,A460340,P011,Standard Account,Standard,2024-04-03,,Active,0.00,,0
+C104337,A460340,P009,Offshore Account,Standard,2023-10-02,,Active,0.00,,3
+C104339,A460342,P002,Standard Account,Standard,2023-08-26,,Active,0.00,,15
+C104339,A460342,P006,Tax-Free Account,Standard,2023-11-26,,Active,0.00,,1
+C104341,A460343,P009,Standard Account,Premium,2026-07-19,,Active,49.00,,7
+C104341,A460343,P002,Tax-Free Account,Standard,2026-03-08,,Active,0.00,,7
+C104344,A460344,P009,Tax-Free Account,Standard,2024-05-21,,Active,0.00,,7
+C104346,A460347,P012,Offshore Account,Premium Plus,2026-04-25,,Active,99.00,,7
+C104358,A460363,P011,Tax-Free Account,Standard,2023-09-02,,Active,0.00,,1
+C104358,A460363,P008,Tax-Free Account,Standard,2023-10-02,,Trial,0.00,,1
+C104358,A460363,P004,Standard Account,Standard,2023-09-20,,Active,0.00,,7
+C104359,A460366,P005,Tax-Free Account,Standard,2023-11-29,2024-07-03,Cancelled,0.00,Service issue,3
+C104359,A460366,P002,Tax-Free Account,Standard,2023-12-12,,Active,0.00,,7
+C104360,A460370,P009,Standard Account,Standard,2024-08-04,,Active,0.00,,3
+C104362,A460372,P004,Standard Account,Standard,2024-09-26,,Active,0.00,,1
+C104365,A460374,P002,Tax-Free Account,Standard,2025-02-09,,Trial,0.00,,0
+C104365,A460374,P004,STANDARD ACCOUNT,Standard,2024-11-21,,Active,0.00,,3
+C104369,A460380,P004,Retirement Annuity,Standard,2025-12-25,,Active,0.00,,0
+C104369,A460380,P009,Retirement Annuity,Standard,2026-02-18,,Expired,0.00,,1
+C104372,A460384,P005,Standard Account,Standard,2023-10-11,,Active,0.00,,7
+C104375,A460386,P003,Offshore Account,Standard,2024-06-27,,Active,0.00,,3
+C104378,A460391,P011,Offshore Account,Standard,2026-01-08,2026-08-05,Cancelled,0.00,Service issue,3
+C104378,A460391,P002,Tax-Free Account,Standard,2025-11-11,,Active,0.00,,15
+C104385,A460394,P007,Standard Account,Standard,2023-09-06,,Active,0.00,,1
+C104392,A460396,P012,TAX-FREE ACCOUNT,Standard,2023-01-23,2023-06-20,Cancelled,0.00,Low usage,0
+C104392,A460396,P011,Standard Account,Standard,2023-10-18,,Active,0.00,,3
+C104392,A460396,P008,Offshore Account,Standard,2023-11-11,,Active,0.00,,1
+C104398,A460404,P007,Tax-Free Account,Standard,2026-08-28,,Active,0.00,,1
+C104408,A460414,P012,Offshore Account,Premium,2025-02-21,,Active,49.00,,3
+C104408,A460414,P001,Tax-Free Account,Standard,2025-02-02,,Active,0.00,,1
+C104408,A460414,P011,Standard Account,Standard,2024-10-07,,Active,0.00,,15
+C104414,A460422,P012,Retirement Annuity,Standard,2026-03-16,,Active,0.00,,7
+C104414,A460422,P011,Standard Account,Standard,2026-02-14,,Active,0.00,,15
+C104419,A460429,P010,Standard Account,Standard,2025-06-16,,Active,0.00,,1
+C104420,A460432,P009,Standard Account,Premium,2025-08-16,2026-06-16,Cancelled,49.00,Switched product,15
+C104420,A460432,P001,Standard Account,Standard,2025-03-28,2026-03-05,Cancelled,0.00,Cost,15
+C104420,A460432,P012,Standard Account,Standard,2025-08-26,,Active,0.00,,1
+C104427,A460443,P002,Retirement Annuity,Premium,2025-05-24,2026-04-25,Cancelled,49.00,Low usage,7
+C104427,A460443,P006,Tax-Free Account,Standard,2025-07-04,,Active,0.00,,3
+C104432,A460451,P001,Tax-Free Account,Standard,2023-06-09,,Active,0.00,,7
+C104432,A460451,P004,Retirement Annuity,Standard,2024-03-10,,Active,0.00,,3
+C104443,A460456,P006,Tax-Free Account,Standard,2024-05-17,,Active,0.00,,3
+C104446,A460459,P010,Standard Account,Standard,2025-07-11,,Active,0.00,,7
+C104446,A460459,P011,Tax-Free Account,Standard,2025-03-03,,Active,0.00,,7
+C104450,A460463,P002,Offshore Account,Standard,2025-03-28,,Active,0.00,,15
+C104451,A460465,P001,Tax-Free Account,Premium,2024-02-24,,Active,49.00,,15
+C104468,A460473,P011,Retirement Annuity,Standard,2025-04-18,2026-02-07,Cancelled,0.00,Low usage,0
+C104480,A460482,P003,Offshore Account,Premium,2025-07-28,,Active,49.00,,0
+C104483,A460488,P007,Tax-Free Account,Standard,2024-12-01,,Active,0.00,,15
+C104483,A460488,P001,Tax-Free Account,Standard,2024-12-10,,Trial,0.00,,7
+C104486,A460489,P005,Offshore Account,Standard,2025-12-06,2026-08-09,Cancelled,0.00,Low usage,7
+C104493,A460494,P003,Tax-Free Account,Standard,2023-05-03,,Active,0.00,,0
+C104493,A460494,P007,Standard Account,Standard,2023-05-17,,Active,0.00,,7
+C104499,A460501,P009,Standard Account,Standard,2023-10-28,2024-07-30,Cancelled,0.00,Cost,3
+C104499,A460501,P008,Offshore Account,Standard,2023-02-16,,Active,0.00,,15
+C104504,A460505,P006,Standard Account,Standard,2023-12-29,2025-02-07,Cancelled,0.00,Cost,1
+C104504,A460505,P010,Offshore Account,Standard,2024-08-29,,Active,0.00,,15
+C104508,A460509,P011,Tax-Free Account,Standard,2023-04-14,,Active,0.00,,3
+C104513,A460513,P009,Standard Account,Standard,2022-11-11,,Active,0.00,,0
+C104514,A460515,P011,Tax-Free Account,Standard,2023-03-27,,Active,0.00,,3
+C104514,A460515,P008,Tax-Free Account,Standard,2023-02-22,,Active,0.00,,7
+C104518,A460523,P008,Tax-Free Account,Premium,2025-04-22,,Active,49.00,,0
+C104525,A460529,P003,Standard Account,Standard,2024-05-30,,Active,0.00,,7
+C104527,A460533,P008,Standard Account,Standard,2025-06-13,,Active,0.00,,7
+C104530,A460534,P001,Standard Account,Standard,2023-08-08,,Trial,0.00,,7
+C104539,A460542,P004,Tax-Free Account,Standard,2024-03-08,2024-08-02,Cancelled,0.00,Service issue,7
+C104567,A460566,P011,Standard Account,Standard,2024-11-08,,Active,0.00,,7
+C104567,A460566,P004,Standard Account,Standard,2023-11-22,,Active,0.00,,3
+C104571,A460570,P004,Retirement Annuity,Standard,2023-09-08,,Expired,0.00,,7
+C104571,A460570,P006,Standard Account,Standard,2024-02-05,2024-11-20,Cancelled,0.00,Switched product,1
+C104573,A460571,P003,Tax-Free Account,Standard,2023-05-27,,Active,0.00,,1
+C104573,A460571,P012,Tax-Free Account,Standard,2024-01-11,,Active,0.00,,15
+C104577,A460574,P012,Standard Account,Standard,2026-01-30,,Trial,0.00,,1
+C104579,A460578,P009,Tax-Free Account,Standard,2024-01-06,,Trial,0.00,,3
+C104582,A460581,P008,Offshore Account,Standard,2024-11-02,,Expired,0.00,,15
+C104586,A460584,P007,Tax-Free Account,Standard,2023-08-04,,Expired,0.00,,7
+C104586,A460584,P003,Offshore Account,Standard,2023-02-26,2023-12-06,Cancelled,0.00,Low usage,1
+C104589,A460588,P007,Tax-Free Account,Standard,2026-04-02,,Active,0.00,,3
+C104601,A460601,P001,Offshore Account,Standard,2023-04-12,,Active,0.00,,7
+C104601,A460601,P003,Offshore Account,Standard,2023-10-08,,Active,0.00,,3
+C104604,A460605,P005,Standard Account,Standard,2025-09-29,,Trial,0.00,,1
+C104604,A460605,P009,Offshore Account,Standard,2025-12-13,,Active,0.00,,1
+C104609,A460610,P003,Offshore Account,Standard,2026-05-09,,Active,0.00,,7
+C104611,A460613,P006,Standard Account,Standard,2023-01-26,,Active,0.00,,3
+C104612,A460617,P004,Tax-Free Account,Standard,2023-04-21,,Active,0.00,,1
+C104618,A460622,P012,Retirement Annuity,Standard,2025-11-27,2026-05-15,Cancelled,0.00,Cost,7
+C104622,A460626,P010,Standard Account,Standard,2025-04-05,,Expired,0.00,,7
+C104622,A460626,P005,Tax-Free Account,Standard,2026-03-12,,Active,0.00,,1
+C104634,A460642,P008,Standard Account,Standard,2024-09-24,,Active,0.00,,1
+C104637,A460646,P011,Tax-Free Account,Standard,2023-10-10,,Active,0.00,,7
+C104645,A460652,P003,Offshore Account,Premium,2024-11-04,,Active,49.00,,3
+C104649,A460653,P010,Tax-Free Account,Standard,2025-01-25,,Active,0.00,,0
+C104653,A460658,P002,Tax-Free Account,Standard,2024-01-20,,Expired,0.00,,0
+C104653,A460658,P012,Retirement Annuity,Premium Plus,2024-03-16,2024-07-25,Cancelled,99.00,Low usage,0
+C104653,A460658,P001,Offshore Account,Standard,2024-06-12,,Trial,0.00,,3
+C104663,A460666,P001,Retirement Annuity,Standard,2024-03-05,,Active,0.00,,3
+C104665,A460667,P012,Tax-Free Account,Standard,2024-07-05,,Active,0.00,,15
+C104672,A460672,P007,Offshore Account,Standard,2023-06-13,,Active,0.00,,7
+C104674,A460676,P006,Tax-Free Account,Standard,2024-10-18,,Active,0.00,,7
+C104674,A460676,P005,Tax-Free Account,Premium Plus,2025-01-05,,Active,99.00,,15
+C104674,A460676,P006,Tax-Free Account,Premium,2025-03-19,,Active,49.00,,0
+C104679,A460681,P006,Offshore Account,Standard,2024-03-21,2024-11-25,Cancelled,0.00,Low usage,3
+C104679,A460681,P009,Tax-Free Account,Standard,2024-04-15,,Trial,0.00,,1
+C104681,A460685,P004,Standard Account,Standard,2025-03-30,2025-09-28,Cancelled,0.00,Switched product,1
+C104683,A460687,P012,Tax-Free Account,Premium,2026-03-02,,Active,49.00,,15
+C104683,A460687,P004,Standard Account,Standard,2025-12-09,,Trial,0.00,,1
+C104694,A460699,P008,Tax-Free Account,Standard,2025-08-27,2026-01-21,Cancelled,0.00,Low usage,7
+C104694,A460699,P003,standard account,Premium Plus,2025-03-22,,Active,99.00,,15
+C104694,A460699,P006,Standard Account,Standard,2025-05-11,,Active,0.00,,7
+C104698,A460701,P002,Tax-Free Account,Standard,2025-08-13,,Active,0.00,,3
+C104699,A460705,P011,Retirement Annuity,Premium Plus,2025-07-28,,Active,99.00,,3
+C104703,A460708,P008,Tax-Free Account,Standard,2024-09-28,,Active,0.00,,1
+C104707,A460714,P001,Tax-Free Account,Standard,2024-11-23,,Active,0.00,,3
+C104707,A460714,P009,Tax-Free Account,Standard,2024-05-03,,Active,0.00,,0
+C104707,A460714,P012,Retirement Annuity,Standard,2024-08-11,2025-05-15,Cancelled,0.00,Cost,3
+C104711,A460718,P005,Standard Account,Standard,2026-05-18,,Active,0.00,,1
+C104714,A460722,P001,Standard Account,Standard,2025-09-25,,Active,0.00,,0
+C104714,A460722,P001,Tax-Free Account,Standard,2026-01-11,,Active,0.00,,0
+C104720,A460727,P001,Tax-Free Account,Standard,2025-07-09,2026-07-29,Cancelled,0.00,Cost,1
+C104724,A460729,P005,Tax-Free Account,Standard,2024-01-06,,Active,0.00,,3
+C104724,A460729,P002,Tax-Free Account,Premium,2023-11-29,2024-11-13,Cancelled,49.00,Cost,3
+C104730,A460735,P008,Offshore Account,Standard,2025-08-02,2025-12-25,Cancelled,0.00,Cost,15
+C104730,A460735,P012,Tax-Free Account,Standard,2025-04-04,,Active,0.00,,15
+C104739,A460744,P001,Tax-Free Account,Standard,2025-04-03,2026-02-15,Cancelled,0.00,Low usage,7
+C104739,A460744,P012,Standard Account,Standard,2026-01-29,,Active,0.00,,3
+C104744,A460751,P002,Tax-Free Account,Standard,2024-07-30,,Active,0.00,,7
+C104744,A460751,P005,Retirement Annuity,Standard,2024-08-02,2025-02-14,Cancelled,0.00,Switched product,15
+C104750,A460758,P009,Standard Account,Standard,2023-09-01,,Active,0.00,,7
+C104750,A460758,P011,Standard Account,Standard,2023-03-07,,Active,0.00,,7
+C104751,A460759,P005,Retirement Annuity,Standard,2025-07-25,,Active,0.00,,0
+C104751,A460759,P012,Tax-Free Account,Premium,2025-02-09,,Active,49.00,,7
+C104763,A460767,P010,Offshore Account,Standard,2025-06-08,,Active,0.00,,1
+C104763,A460767,P001,Standard Account,Standard,2025-09-11,,Active,0.00,,3
+C104766,A460774,P002,Standard Account,Standard,2025-02-01,,Active,0.00,,3
+C104766,A460774,P001,Standard Account,Standard,2024-05-24,,Active,0.00,,15
+C104766,A460774,P010,Retirement Annuity,Standard,2024-08-29,2025-01-09,Cancelled,0.00,Low usage,15
+C104787,A460796,P012,Retirement Annuity,Standard,2025-05-06,,Active,0.00,,15
+C104789,A460799,P009,Standard Account,Standard,2024-01-18,,Active,0.00,,15
+C104792,A460800,P010,Standard Account,Premium,2026-01-07,,Active,49.00,,7
+C104796,A460803,P005,Tax-Free Account,Standard,2024-01-26,2024-06-29,Cancelled,0.00,Cost,7
+C104796,A460803,P009,Tax-Free Account,Premium,2023-11-21,,Active,49.00,,0
+C104803,A460810,P011,Standard Account,Standard,2024-08-28,,Active,0.00,,0
+C104806,A460816,P006,Tax-Free Account,Premium,2025-12-14,2026-05-16,Cancelled,49.00,Low usage,3
+C104806,A460816,P001,Tax-Free Account,Standard,2026-01-21,,Active,0.00,,0
+C104806,A460816,P001,Tax-Free Account,Premium,2025-11-15,2025-12-30,Cancelled,49.00,Low usage,3
+C104811,A460820,P010,Standard Account,Standard,2026-07-27,,Active,0.00,,7
+C104820,A460824,P012,Tax-Free Account,Standard,2025-08-25,,Active,0.00,,15
+C104835,A460837,P003,Standard Account,Standard,2023-05-21,,Active,0.00,,3
+C104837,A460839,P006,Standard Account,Standard,2023-03-12,,Active,0.00,,15
+C104841,A460842,P004,Retirement Annuity,Standard,2023-09-11,,Active,0.00,,7
+C104841,A460842,P003,Offshore Account,Standard,2023-09-29,,Trial,0.00,,15
+C104845,A460846,P005,Retirement Annuity,Standard,2024-10-12,2025-02-25,Cancelled,0.00,Low usage,15
+C104846,A460847,P010,Tax-Free Account,Standard,2024-06-03,,Active,0.00,,3
+C104846,A460847,P003,Standard Account,Standard,2024-11-07,,Trial,0.00,,1
+C104850,A460851,P009,Offshore Account,Standard,2025-07-31,,Active,0.00,,0
+C104851,A460854,P010, Retirement Annuity ,Standard,2025-02-23,,Trial,0.00,,1
+C104851,A460854,P007,Retirement Annuity,Standard,2026-01-18,,Active,0.00,,1
+C104855,A460856,P006, Retirement Annuity ,Standard,2025-09-20,,Active,0.00,,3
+C104855,A460856,P003,Offshore Account,Standard,2026-07-06,,Active,0.00,,7
+C104858,A460858,P011,Offshore Account,Standard,2025-09-20,,Active,0.00,,7
+C104858,A460858,P009,Offshore Account,Standard,2025-04-30,,Active,0.00,,7
+C104860,A460860,P011,Standard Account,Premium Plus,2025-09-08,,Active,99.00,,7
+C104860,A460860,P009,Standard Account,Standard,2026-03-04,,Active,0.00,,15
+C104860,A460860,P012,Retirement Annuity,Standard,2026-07-08,,Active,0.00,,3
+C104863,A460863,P011,Standard Account,Standard,2023-05-19,2023-08-11,Cancelled,0.00,Low usage,0
+C104863,A460863,P007,Standard Account,Standard,2023-02-13,2023-12-09,Cancelled,0.00,Service issue,3
+C104869,A460868,P011,Tax-Free Account,Standard,2022-11-30,,Active,0.00,,1
+C104873,A460870,P003,Standard Account,Standard,2023-10-28,,Active,0.00,,3
+C104880,A460875,P008,Retirement Annuity,Standard,2025-05-03,,Active,0.00,,1
+C104888,A460882,P007,Tax-Free Account,Standard,2024-06-23,,Active,0.00,,7
+C104905,A460896,P002,Offshore Account,Standard,2026-07-27,,Expired,0.00,,1
+C104907,A460899,P009,Tax-Free Account,Premium Plus,2025-06-03,,Active,99.00,,7
+C104909,A460901,P003,Standard Account,Standard,2023-11-10,,Active,0.00,,7
+C104911,A460904,P007,Retirement Annuity,Standard,2026-02-16,,Active,0.00,,1
+C104914,A460911,P003,Offshore Account,Standard,2023-11-23,,Active,0.00,,15
+C104918,A460916,P008,Standard Account,Standard,2024-06-29,,Active,0.00,,0
+C104918,A460916,P005,Offshore Account,Standard,2024-04-16,,Active,0.00,,15
+C104924,A460924,P006,Retirement Annuity,Standard,2025-01-05,,Active,0.00,,7
+C104927,A460925,P001,Standard Account,Standard,2024-08-04,,Active,0.00,,7
+C104931,A460929,P012,Standard Account,Premium,2026-02-17,,Active,49.00,,15
+C104931,A460929,P004,Standard Account,Standard,2026-03-04,,Active,0.00,,0
+C104932,A460933,P010,Standard Account,Premium Plus,2025-05-04,,Expired,99.00,,15
+C104932,A460933,P003,Standard Account,Standard,2025-05-08,,Active,0.00,,7
+C104941,A460943,P006,Offshore Account,Standard,2024-02-21,2025-01-19,Cancelled,0.00,Cost,3
+C104945,A460945,P010,Standard Account,Standard,2025-04-25,,Active,0.00,,7
+C104950,A460951,P006,Retirement Annuity,Standard,2026-07-24,,Active,0.00,,1
+C104955,A460959,P006,Offshore Account,Standard,2023-01-10,,Active,0.00,,3
+C104959,A460963,P003,Retirement Annuity,Standard,2023-05-27,,Active,0.00,,15
+C104966,A460967,P009,Tax-Free Account,Premium Plus,2025-04-21,2026-05-16,Cancelled,99.00,Cost,7
+C104966,A460967,P002,Tax-Free Account,Standard,2025-09-14,,Active,0.00,,1
+C104969,A460969,P012,Retirement Annuity,Standard,2023-08-28,,Active,0.00,,0
+C104969,A460969,P002,Tax-Free Account,Standard,2022-10-22,2023-12-12,Cancelled,0.00,Low usage,7
+C104972,A460972,P001,Tax-Free Account,Standard,2025-10-15,,Active,0.00,,7
+C104972,A460972,P012,Offshore Account,Standard,2025-08-22,,Active,0.00,,7
+C104975,A460978,P008,Offshore Account,Standard,2024-12-05,2026-01-20,Cancelled,0.00,Low usage,15
+C104975,A460978,P007,Standard Account,Standard,2024-10-14,2025-10-27,Cancelled,0.00,Low usage,7
+C104981,A460980,P005,Offshore Account,Standard,2026-01-26,2026-05-07,Cancelled,0.00,Cost,1
+C104983,A460983,P003,Tax-Free Account,Premium,2024-06-14,,Active,49.00,,1
+C104984,A460985,P003,Standard Account,Standard,2025-02-02,,Expired,0.00,,1
+C104986,A460990,P008,Standard Account,Standard,2024-08-28,,Active,0.00,,3
+C104992,A460995,P011,Offshore Account,Premium,2024-09-28,,Active,49.00,,7
+C104992,A460995,P003,Standard Account,Standard,2023-10-23,,Active,0.00,,15
+C104995,A460997,P007,Offshore Account, Standard ,2024-03-23,,Active,0.00,,3
+C104998,A460998,P012,Standard Account,Standard,2024-05-22,,Active,0.00,,3
+C105002,A461000,P010,Retirement Annuity,Standard,2024-03-05,,Active,0.00,,7
+C105002,A461000,P010,Standard Account,Standard,2024-10-26,2025-04-05,Cancelled,0.00,Switched product,0
+C106034,A461983,P012,Tax-Free Account,Standard,2023-09-23,,Active,0.00,,7
+C105002,A461000,P006,Standard Account,Standard,2024-02-21,2024-08-24,Cancelled,0.00,Cost,3
+C105003,A461002,P006,Standard Account,Standard,2025-09-10,,Active,0.00,,7
+C105006,A461005,P011,Standard Account,Standard,2025-03-18,,Active,0.00,,7
+C105012,A461008,P004,Offshore Account,Standard,2023-09-25,,Active,0.00,,0
+C105012,A461008,P005,Tax-Free Account,Standard,2023-10-15,,Trial,0.00,,3
+C105015,A461013,P003,Retirement Annuity,Standard,2023-05-18,2023-09-15,Cancelled,0.00,Cost,7
+C105018,A461016,P006,Offshore Account,Standard,2026-01-11,,Active,0.00,,7
+C105020,A461017,P011,Standard Account,Premium,2026-04-20,,Active,49.00,,15
+C105044,A461041,P010,Tax-Free Account,Standard,2023-03-20,,Active,0.00,,3
+C105047,A461043,P008,Retirement Annuity,Standard,2024-09-02,,Active,0.00,,0
+C105051,A461044,P005,Offshore Account,Premium,2025-05-02,2026-05-01,Cancelled,49.00,Cost,15
+C105056,A461047,P007,Retirement Annuity,Standard,2025-12-05,,Active,0.00,,15
+C105056,A461047,P007,Tax-Free Account,STANDARD,2025-12-11,,Active,0.00,,1
+C105056,A461047,P002,Tax-Free Account,Standard,2026-03-03,,Active,0.00,,1
+C105058,A461049,P012,Retirement Annuity,Standard,2024-05-27,,Active,0.00,,3
+C105058,A461049,P012,Tax-Free Account,Standard,2024-01-31,,Active,0.00,,7
+C105064,A461058,P011,Standard Account,Standard,2026-07-12,,Active,0.00,,15
+C105066,A461060,P005,Standard Account,Standard,2024-10-15,2025-03-03,Cancelled,0.00,Cost,3
+C105066,A461060,P010,Tax-Free Account,Standard,2024-12-25,2025-05-25,Cancelled,0.00,Cost,0
+C105067,A461061,P007,Offshore Account,Standard,2025-12-10,,Active,0.00,,3
+C105067,A461061,P001,Standard Account,Standard,2026-04-02,,Active,0.00,,3
+C105077,A461077,P004,Standard Account,Standard,2025-03-18,,Active,0.00,,7
+C105077,A461077,P010,Standard Account,Standard,2025-06-20,,Active,0.00,,7
+C105081,A461081,P004,Retirement Annuity,Standard,2024-02-21,,Active,0.00,,7
+C105085,A461086,P002,Tax-Free Account,Standard,2025-12-17,,Active,0.00,,7
+C105085,A461086,P005,Tax-Free Account,Standard,2025-08-15,,Active,0.00,,1
+C105091,A461093,P004,Tax-Free Account,standard,2024-07-14,,Active,0.00,,3
+C105095,A461095,P005,Standard Account,Standard,2023-11-02,,Active,0.00,,15
+C105095,A461095,P012,Standard Account,Standard,2024-07-31,,Trial,0.00,,7
+C105099,A461099,P008,Offshore Account,Standard,2023-11-01,2023-12-20,Cancelled,0.00,Cost,7
+C105106,A461105,P006,Standard Account,Standard,2025-05-03,,Active,0.00,,3
+C105107,A461106,P011,Offshore Account,Standard,2024-12-18,,Active,0.00,,1
+C105112,A461108,P010,Retirement Annuity,Standard,2023-08-03,,Active,0.00,,1
+C105112,A461108,P006,Tax-Free Account,Standard,2023-06-01,,Active,0.00,,3
+C105114,A461110,P009,Tax-Free Account,Standard,2024-02-29,,Active,0.00,,15
+C105114,A461110,P009,Retirement Annuity,Premium,2023-11-16,,Active,49.00,,0
+C105120,A461117,P003,Standard Account,Standard,2026-02-18,,Active,0.00,,15
+C105120,A461117,P011,Offshore Account,Standard,2026-02-13,,Active,0.00,,15
+C105131,A461126,P011,Standard Account,Standard,2025-03-08,,Active,0.00,,3
+C105131,A461126,P007,Tax-Free Account,Standard,2025-02-27,,Active,0.00,,7
+C105134,A461127,P009,Retirement Annuity,Standard,2024-05-22,,Active,0.00,,3
+C105135,A461128,P002,Retirement Annuity,Premium,2025-06-20,,Trial,49.00,,15
+C105137,A461134,P012,Tax-Free Account,Standard,2023-09-03,,Trial,0.00,,7
+C105137,A461134,P002,Offshore Account,Standard,2023-04-02,,Active,0.00,,7
+C105143,A461139,P002,Tax-Free Account,Premium,2024-10-31,,Trial,49.00,,1
+C105146,A461140,P011,Tax-Free Account,Standard,2024-05-28,,Active,0.00,,7
+C105146,A461140,P006,Tax-Free Account,Standard,2023-12-24,,Active,0.00,,7
+C105149,A461142,P005,Standard Account,Standard,2024-02-26,2025-01-10,Cancelled,0.00,Low usage,7
+C105149,A461142,P008,Offshore Account,Standard,2023-08-11,,Active,0.00,,15
+C105154,A461146,P007,Standard Account,Standard,2025-11-13,,Active,0.00,,0
+C105154,A461146,P011,Standard Account,Standard,2026-02-16,,Active,0.00,,0
+C105154,A461146,P004,Retirement Annuity,Standard,2025-06-07,2025-12-13,Cancelled,0.00,Cost,7
+C105182,A461172,P006,Standard Account,Premium,2023-09-13,,Active,49.00,,7
+C105182,A461172,P012,Tax-Free Account,Standard,2023-04-04,,Active,0.00,,0
+C105185,A461174,P004,Retirement Annuity,Standard,2026-03-28,,Active,0.00,,0
+C105192,A461181,P011,Standard Account,Standard,2024-11-27,,Active,0.00,,15
+C105194,A461185,P011,Standard Account,Premium,2025-04-20,2026-04-15,Cancelled,49.00,Switched product,1
+C105196,A461188,P009,Tax-Free Account,Standard,2025-04-18,2025-10-03,Cancelled,0.00,Low usage,0
+C105202,A461191,P008,Standard Account,Standard,2024-04-26,,Active,0.00,,0
+C105206,A461194,P009,Tax-Free Account,Standard,2026-01-05,2026-05-31,Cancelled,0.00,Cost,3
+C105213,A461199,P002,Offshore Account,Standard,2023-07-25,2023-12-05,Cancelled,0.00,Low usage,7
+C105217,A461203,P009,Tax-Free Account,Premium,2025-03-16,,Active,49.00,,7
+C105217,A461203,P001,Tax-Free Account,standard,2025-03-12,,Active,0.00,,3
+C105227,A461216,P012,Standard Account,Standard,2024-07-15,,Active,0.00,,3
+C105227,A461216,P001,Tax-Free Account,Standard,2023-11-14,,Trial,0.00,,0
+C105229,A461224,P007,Standard Account,Standard,2024-04-28,,Active,0.00,,7
+C105231,A461225,P008,Tax-Free Account,Standard,2023-09-02,,Active,0.00,,15
+C105231,A461225,P012,Offshore Account,Standard,2023-03-23,2023-12-14,Cancelled,0.00,Service issue,3
+C105239,A461233,P009,Standard Account,Standard,2023-11-13,,Active,0.00,,1
+C105239,A461233,P007,Tax-Free Account,Standard,2024-07-12,2024-12-30,Cancelled,0.00,Low usage,15
+C105255,A461245,P007,Standard Account,Standard,2024-07-01,2025-01-22,Cancelled,0.00,Low usage,1
+C105255,A461245,P003,Retirement Annuity,Standard,2024-12-23,,Active,0.00,,7
+C105266,A461255,P003,Retirement Annuity,Standard,2026-08-02,,Active,0.00,,3
+C105266,A461255,P003,Tax-Free Account,Standard,2025-11-26,,Active,0.00,,0
+C105270,A461258,P004,Standard Account,Standard,2026-07-21,,Active,0.00,,0
+C105276,A461266,P001,Offshore Account,Standard,2023-04-21,,Active,0.00,,3
+C105276,A461266,P009,Offshore Account,Standard,2023-08-10,,Trial,0.00,,0
+C105281,A461273,P005,Retirement Annuity,Standard,2026-01-13,,Trial,0.00,,7
+C105281,A461273,P003,Tax-Free Account,Premium,2025-06-24,,Active,49.00,,7
+C105291,A461288,P001,Offshore Account,Premium Plus,2025-09-19,2025-11-10,Cancelled,99.00,Switched product,3
+C105294,A461291,P010,Standard Account,Standard,2026-07-08,,Active,0.00,,1
+C105302,A461299,P001,Standard Account,Standard,2023-03-04,,Active,0.00,,1
+C105306,A461300,P008,Tax-Free Account,Standard,2023-06-28,,Active,0.00,,7
+C105306,A461300,P010,Offshore Account,Standard,2024-01-11,,Active,0.00,,7
+C105306,A461300,P001,Standard Account,Standard,2023-10-31,,Active,0.00,,7
+C105310,A461302,P004,Standard Account,Standard,2025-08-25,,Active,0.00,,1
+C105320,A461312,P001,Offshore Account,Standard,2025-05-02,2025-06-04,Cancelled,0.00,Service issue,15
+C105325,A461317,P004,Standard Account,Standard,2023-12-19,,Trial,0.00,,15
+C105325,A461317,P010,Tax-Free Account,Standard,2023-06-08,,Active,0.00,,3
+C105326,A461321,P004,Tax-Free Account,Standard,2026-05-19,,Active,0.00,,1
+C105335,A461329,P011,Tax-Free Account,standard,2024-06-25,2025-04-23,Cancelled,0.00,Low usage,3
+C105335,A461329,P004,Offshore Account,Standard,2024-02-08,,Active,0.00,,7
+C105338,A461333,P010,Offshore Account, Standard ,2024-11-02,,Active,0.00,,3
+C105344,A461340,P004,Tax-Free Account,Standard,2025-04-29,,Trial,0.00,,7
+C105344,A461340,P007,standard account,Standard,2025-12-06,,Active,0.00,,7
+C105344,A461340,P007,Offshore Account,Standard,2025-07-17,,Active,0.00,,0
+C105345,A461344,P006,Standard Account,Standard,2026-01-03,,Active,0.00,,15
+C105349,A461345,P008,Standard Account,Standard,2024-09-01,,Active,0.00,,7
+C105352,A461347,P004,Retirement Annuity,Standard,2025-04-11,,Active,0.00,,15
+C105354,A461351,P005,Tax-Free Account,Standard,2024-05-10,,Active,0.00,,3
+C105366,A461361,P011,Tax-Free Account,Standard,2024-12-03,,Active,0.00,,0
+C105366,A461361,P004,Tax-Free Account,Standard,2025-04-15,2025-08-29,Cancelled,0.00,Low usage,3
+C105366,A461361,P011,Tax-Free Account,Standard,2025-06-07,2026-05-13,Cancelled,0.00,Cost,7
+C105368,A461363,P007,Tax-Free Account,Premium,2024-03-08,,Active,49.00,,1
+C105372,A461364,P002,Retirement Annuity,Standard,2024-10-21,,Active,0.00,,15
+C105373,A461367,P011,Tax-Free Account,Standard,2024-11-24,,Active,0.00,,1
+C105373,A461367,P012,Tax-Free Account,Premium Plus,2024-02-03,2024-10-02,Cancelled,99.00,Low usage,1
+C105373,A461367,P005,Standard Account,Premium Plus,2024-05-13,,Active,99.00,,1
+C105378,A461371,P004,Tax-Free Account,Standard,2025-12-19,,Active,0.00,,1
+C105381,A461375,P010,Retirement Annuity,Premium,2023-06-11,,Active,49.00,,7
+C105404,A461397,P002,Tax-Free Account,Standard,2024-02-06,,Active,0.00,,7
+C105408,A461400,P005,Standard Account,Standard,2025-03-08,2025-05-08,Cancelled,0.00,Service issue,15
+C105409,A461401,P004,Standard Account,Standard,2023-12-31,2024-11-24,Cancelled,0.00,Cost,15
+C105409,A461401,P009,Standard Account,Standard,2024-09-12,,Active,0.00,,0
+C105419,A461408,P009,Retirement Annuity,Premium,2026-05-12,,Active,49.00,,0
+C105424,A461415,P002,Tax-Free Account,Standard,2024-04-14,,Active,0.00,,7
+C105424,A461415,P009,Standard Account,Standard,2024-06-16,,Active,0.00,,1
+C105428,A461417,P007,Standard Account,Standard,2024-01-17,,Active,0.00,,0
+C105428,A461417,P008,Tax-Free Account,Standard,2023-06-11,,Active,0.00,,15
+C105428,A461417,P009,Offshore Account,Standard,2023-07-27,,Active,0.00,,1
+C105436,A461423,P008,Tax-Free Account,Premium,2023-12-17,,Active,49.00,,0
+C105439,A461427,P009,Tax-Free Account,Standard,2025-06-25,,Active,0.00,,3
+C105445,A461433,P005,Tax-Free Account,Standard,2026-05-21,,Active,0.00,,3
+C105445,A461433,P001,Standard Account ,Standard,2026-01-31,,Active,0.00,,3
+C105459,A461445,P006,Retirement Annuity,Standard,2025-11-17,,Active,0.00,,7
+C105463,A461447,P003,Tax-Free Account,Standard,2024-04-21,,Active,0.00,,1
+C105463,A461447,P009,Standard Account,Standard,2024-05-03,,Active,0.00,,3
+C105471,A461454,P008,Standard Account,Standard,2024-06-21,2025-03-14,Cancelled,0.00,Cost,15
+C105471,A461454,P006,Tax-Free Account,Standard,2023-12-19,,Active,0.00,,7
+C105471,A461454,P002,Offshore Account,Standard,2024-09-04,,Active,0.00,,15
+C105473,A461457,P002,Tax-Free Account,Standard,2025-01-16,,Active,0.00,,3
+C105473,A461457,P004,Tax-Free Account,Standard,2025-08-30,,Active,0.00,,1
+C105481,A461470,P005,Standard Account,Standard,2024-01-10,,Expired,0.00,,3
+C105481,A461470,P009,Tax-Free Account,Standard,2024-04-16,,Active,0.00,,7
+C105485,A461475,P005,Standard Account,Standard,2026-08-29,,Active,0.00,,3
+C105485,A461475,P012,Tax-Free Account,Standard,2026-04-25,,Active,0.00,,3
+C105489,A461480,P008,Standard Account,Standard,2024-03-11,2024-05-26,Cancelled,0.00,Switched product,7
+C105489,A461480,P002,Offshore Account,Standard,2024-06-09,2025-03-23,Cancelled,0.00,Cost,7
+C105493,A461482,P010,Standard Account,Standard,2024-07-29,2025-03-25,Cancelled,0.00,Switched product,15
+C105493,A461482,P007,Retirement Annuity,Standard,2025-01-09,,Active,0.00,,1
+C105507,A461493,P002,Tax-Free Account,Standard,2024-04-18,,Active,0.00,,3
+C105507,A461493,P010,Standard Account,Standard,2024-02-19,2024-05-15,Cancelled,0.00,Switched product,3
+C105510,A461496,P008,Tax-Free Account,Standard,2024-04-17,,Trial,0.00,,15
+C105515,A461503,P004,Tax-Free Account,Premium,2024-05-28,2024-11-28,Cancelled,49.00,Cost,1
+C105519,A461509,P009,Standard Account,Standard,2025-08-04,,Trial,0.00,,0
+C105522,A461514,P003,Offshore Account,Standard,2024-01-05,,Active,0.00,,7
+C105534,A461526,P002,Tax-Free Account,Standard,2025-05-26,2026-05-02,Cancelled,0.00,Switched product,0
+C105538,A461528,P009,Standard Account,Premium,2025-01-30,,Active,49.00,,7
+C105542,A461529,P011,Standard Account,Standard,2026-04-29,,Active,0.00,,0
+C105543,A461532,P003,Retirement Annuity,Standard,2025-12-09,,Active,0.00,,0
+C105543,A461532,P001,Retirement Annuity,Standard,2025-12-24,,Active,0.00,,1
+C105548,A461538,P012,Tax-Free Account,Standard,2023-11-25,,Active,0.00,,7
+C105548,A461538,P007,Standard Account,Standard,2023-12-04,,Active,0.00,,7
+C105564,A461552,P010,Offshore Account,Standard,2023-09-29,,Active,0.00,,3
+C105564,A461552,P007,Standard Account,Standard,2023-12-05,,Active,0.00,,15
+C105568,A461554,P012,Offshore Account,Premium,2023-09-05,2024-10-11,Cancelled,49.00,Switched product,0
+C105569,A461556,P007,Standard Account,Premium,2023-11-16,,Active,49.00,,3
+C105575,A461562,P003,Retirement Annuity,Standard,2025-04-24,2025-09-13,Cancelled,0.00,Low usage,0
+C105578,A461565,P008,Tax-Free Account,Standard,2025-08-13,,Active,0.00,,15
+C105578,A461565,P012,Standard Account,Standard,2025-05-09,,Active,0.00,,0
+C105584,A461571,P005,Retirement Annuity,Standard,2023-11-03,,Active,0.00,,0
+C105588,A461573,P011,Tax-Free Account,Standard,2024-11-29,,Active,0.00,,3
+C105598,A461580,P007,Standard Account,Standard,2023-07-06,,Active,0.00,,7
+C105598,A461580,P006,Retirement Annuity,Standard,2023-08-20,,Active,0.00,,0
+C105598,A461580,P007,Tax-Free Account,Premium,2023-11-18,,Active,49.00,,1
+C105600,A461582,P008,Tax-Free Account,Standard,2023-06-26,,Active,0.00,,15
+C105603,A461586,P012,Tax-Free Account,Standard,2025-02-09,,Active,0.00,,3
+C105603,A461586,P001,Standard Account,Standard,2025-03-12,,Expired,0.00,,7
+C105606,A461589,P003,Offshore Account,Standard,2024-06-11,,Active,0.00,,3
+C105607,A461592,P007,Standard Account,Standard,2024-10-08,,Active,0.00,,0
+C105621,A461603,P011,Tax-Free Account,Premium Plus,2024-01-06,,Active,99.00,,15
+C105623,A461604,P002,Tax-Free Account,Standard,2026-04-05,,Active,0.00,,0
+C105624,A461608,P002,Standard Account,Standard ,2022-10-27,,Active,0.00,,0
+C105626,A461609,P010,Tax-Free Account,Standard,2025-10-08,,Active,0.00,,1
+C105631,A461613,P002,Standard Account,Premium,2023-05-11,,Active,49.00,,0
+C105631,A461613,P005,Standard Account,Standard,2023-06-16,,Trial,0.00,,1
+C105635,A461617,P011,Retirement Annuity,Standard,2026-03-05,,Active,0.00,,15
+C105635,A461617,P004,Offshore Account,Standard,2026-03-03,,Active,0.00,,15
+C105645,A461626,P008,Standard Account,Premium,2023-02-02,2024-03-05,Cancelled,49.00,Low usage,1
+C105645,A461626,P001,Standard Account,Standard,2023-03-30,,Active,0.00,,7
+C105645,A461626,P012,Standard Account,Standard,2023-02-23,2023-10-20,Cancelled,0.00,Switched product,0
+C105652,A461630,P009,Tax-Free Account,Standard,2023-08-16,,Active,0.00,,1
+C105652,A461630,P008,Tax-Free Account,Standard,2022-10-14,,Trial,0.00,,3
+C105652,A461630,P009,Retirement Annuity,Standard,2022-10-12,,Trial,0.00,,7
+C105656,A461633,P012,Tax-Free Account,Standard,2024-06-23,,Active,0.00,,15
+C105669,A461643,P006,Tax-Free Account,Standard,2024-05-01,,Active,0.00,,7
+C105671,A461644,P004,Offshore Account,Standard,2024-09-26,,Active,0.00,,3
+C105678,A461646,P007,Standard Account,Premium,2024-01-16,,Active,49.00,,1
+C105678,A461646,P005,Retirement Annuity,Premium,2024-05-19,,Active,49.00,,3
+C105684,A461651,P004,Standard Account,Standard,2023-10-19,2024-02-28,Cancelled,0.00,Low usage,7
+C105688,A461655,P003,Standard Account,Standard,2025-05-15,,Active,0.00,,7
+C105691,A461659,P010,Offshore Account,Standard,2023-11-29,2024-12-05,Cancelled,0.00,Cost,7
+C105691,A461659,P001,Offshore Account,Standard,2024-06-19,2025-06-29,Cancelled,0.00,Low usage,3
+C105691,A461659,P007,Retirement Annuity,Standard,2023-12-16,,Active,0.00,,1
+C105692,A461660,P009,Standard Account,Standard,2024-09-13,,Active,0.00,,7
+C105693,A461663,P006,STANDARD ACCOUNT,Standard,2026-06-12,,Active,0.00,,1
+C105696,A461666,P011,Standard Account,Standard,2025-01-11,,Active,0.00,,0
+C105696,A461666,P007,Standard Account,Standard,2024-10-15,,Active,0.00,,7
+C105696,A461666,P005,Retirement Annuity,Standard,2025-05-19,2026-06-29,Cancelled,0.00,Service issue,7
+C105704,A461672,P012,Offshore Account,Standard,2025-09-03,,Active,0.00,,0
+C105714,A461679,P004,Offshore Account,Standard,2026-08-02,,Active,0.00,,15
+C105714,A461679,P005,Offshore Account,Standard,2026-07-24,,Active,0.00,,15
+C105714,A461679,P012,Offshore Account,Standard,2026-05-19,2026-08-29,Cancelled,0.00,Service issue,7
+C105718,A461682,P009,Standard Account,Standard,2024-03-28,,Active,0.00,,7
+C105720,A461685,P004,Retirement Annuity,Standard,2024-05-31,2025-02-25,Cancelled,0.00,Low usage,3
+C105720,A461685,P003,Standard Account,Standard,2024-04-26,,Active,0.00,,1
+C105720,A461685,P007,Tax-Free Account,Standard,2024-02-04,,Active,0.00,,0
+C105724,A461688,P004,Tax-Free Account,Standard,2024-06-12,,Active,0.00,,1
+C105725,A461691,P006,Standard Account,Standard,2025-12-10,,Active,0.00,,3
+C105734,A461695,P006,Offshore Account,Premium,2026-08-13,,Active,49.00,,3
+C105740,A461698,P008,Tax-Free Account,Standard,2024-08-18,2024-11-22,Cancelled,0.00,Low usage,1
+C105746,A461706,P004,Offshore Account,Standard,2024-09-03,,Active,0.00,,7
+C105746,A461706,P008,Offshore Account,Standard,2024-10-09,2025-03-20,Cancelled,0.00,Service issue,7
+C105747,A461710,P007,Standard Account,Standard,2025-10-27,,Active,0.00,,3
+C105752,A461717,P001,Offshore Account,Standard,2025-11-18,,Active,0.00,,0
+C105758,A461722,P007,Tax-Free Account,Standard,2023-12-18,,Active,0.00,,7
+C105765,A461724,P005,Tax-Free Account,Standard,2025-11-24,,Trial,0.00,,3
+C105765,A461724,P006,Tax-Free Account,Standard,2026-02-01,,Active,0.00,,1
+C105765,A461724,P008,Tax-Free Account,Standard,2025-05-30,,Active,0.00,,15
+C105773,A461734,P001,Standard Account,Standard,2024-10-30,,Active,0.00,,7
+C105773,A461734,P009,Tax-Free Account,Standard,2024-10-05,,Active,0.00,,0
+C105776,A461736,P011,Tax-Free Account,Standard,2026-02-18,2026-07-13,Cancelled,0.00,Cost,1
+C105784,A461745,P010,Tax-Free Account,Standard,2024-11-06,,Trial,0.00,,15
+C105784,A461745,P009,Tax-Free Account,Standard,2025-06-27,,Active,0.00,,15
+C105793,A461754,P011,Retirement Annuity,Standard,2025-04-05,,Trial,0.00,,15
+C105793,A461754,P010,Offshore Account,Standard,2025-08-12,2026-03-14,Cancelled,0.00,Cost,15
+C105796,A461758,P010,Tax-Free Account,Standard,2025-12-30,2026-04-29,Cancelled,0.00,Service issue,7
+C105796,A461758,P008,Tax-Free Account,Premium,2026-02-12,,Expired,49.00,,7
+C105798,A461760,P012,Tax-Free Account,Standard,2026-07-26,,Active,0.00,,1
+C105798,A461760,P007,Standard Account,Standard,2026-05-11,,Expired,0.00,,15
+C105802,A461766,P007,Tax-Free Account,Standard,2024-12-25,2025-07-10,Cancelled,0.00,Service issue,1
+C105804,A461767,P004,Retirement Annuity,Standard,2024-06-06,,Trial,0.00,,1
+C105804,A461767,P002,Tax-Free Account,Standard,2024-04-08,,Active,0.00,,7
+C105808,A461771,P010,Retirement Annuity,Standard,2024-02-16,,Active,0.00,,0
+C105808,A461771,P006,Standard Account,Standard,2024-06-08,,Active,0.00,,7
+C105817,A461779,P001,Standard Account,Standard,2024-02-03,,Active,0.00,,1
+C105817,A461779,P001,Standard Account,PREMIUM PLUS,2023-04-29,,Active,99.00,,0
+C105823,A461784,P011,Retirement Annuity,Standard,2024-12-10,2025-11-20,Cancelled,0.00,Switched product,0
+C105825,A461786,P004,Tax-Free Account,Standard,2022-11-28,,Trial,0.00,,3
+C105829,A461789,P008,Tax-Free Account,Premium,2024-08-27,,Active,49.00,,7
+C105831,A461792,P005,Standard Account,Standard,2024-04-29,,Trial,0.00,,15
+C105831,A461792,P005,Offshore Account,Standard,2024-01-15,2025-02-18,Cancelled,0.00,Cost,1
+C105834,A461797,P012,Standard Account,Standard,2025-05-24,2025-07-07,Cancelled,0.00,Switched product,0
+C105834,A461797,P006,Standard Account,Standard,2024-12-25,,Active,0.00,,3
+C105841,A461803,P005,Standard Account,Standard,2026-06-30,,Active,0.00,,15
+C105842,A461806,P010,Retirement Annuity,Premium,2023-04-07,2023-05-10,Cancelled,49.00,Low usage,7
+C105842,A461806,P005,Standard Account,Standard,2023-02-19,,Active,0.00,,3
+C105846,A461809,P008,Tax-Free Account,Standard,2025-11-01,,Active,0.00,,3
+C105850,A461812,P002,Tax-Free Account,Standard,2026-05-23,,Active,0.00,,15
+C105850,A461812,P006,Standard Account,Standard,2025-08-08,,Active,0.00,,3
+C105873,A461830,P004,Tax-Free Account,Standard,2025-06-05,,Active,0.00,,0
+C105877,A461831,P005,Standard Account,Standard,2025-02-27,2026-01-19,Cancelled,0.00,Cost,3
+C105877,A461831,P009,Tax-Free Account,Standard,2025-08-11,,Active,0.00,,3
+C105881,A461833,P004,Retirement Annuity,Standard,2026-08-27,,Active,0.00,,0
+C105886,A461839,P009,Standard Account,Premium Plus,2023-09-09,,Active,99.00,,0
+C105889,A461843,P007,Offshore Account,Standard,2026-07-18,,Active,0.00,,0
+C105891,A461851,P001,Tax-Free Account,Standard,2023-11-08,,Active,0.00,,0
+C105899,A461863,P006,Standard Account,Standard,2025-12-22,,Active,0.00,,3
+C105906,A461872,P002,Standard Account,Standard,2024-11-14,,Expired,0.00,,1
+C105908,A461874,P012,Standard Account,Standard,2025-01-27,,Active,0.00,,15
+C105917,A461883,P011,standard account,Standard,2024-09-28,,Active,0.00,,3
+C105920,A461884,P001,Standard Account,Standard,2024-11-05,,Active,0.00,,0
+C105924,A461885,P004,Retirement Annuity,Standard,2025-09-29,,Active,0.00,,0
+C105924,A461885,P002,Standard Account,Standard,2025-10-19,,Active,0.00,,15
+C105932,A461895,P001,Standard Account,Standard,2025-06-03,,Active,0.00,,7
+C105939,A461901,P006,Tax-Free Account,STANDARD,2025-02-25,,Trial,0.00,,3
+C105943,A461904,P006,Tax-Free Account,Standard,2023-07-26,,Active,0.00,,15
+C105947,A461905,P005,Standard Account,Standard,2024-05-19,2025-05-15,Cancelled,0.00,Cost,15
+C105952,A461909,P009,Offshore Account,Standard,2026-03-12,,Active,0.00,,15
+C105956,A461913,P009,Tax-Free Account,Premium,2024-11-02,2025-02-04,Cancelled,49.00,Low usage,7
+C105956,A461913,P006,Standard Account,Standard,2024-10-23,,Active,0.00,,3
+C105956,A461913,P009,Tax-Free Account,Premium,2025-06-22,,Trial,49.00,,15
+C105960,A461916,P004,Standard Account,Premium,2026-08-16,,Active,49.00,,0
+C105962,A461917,P009,Tax-Free Account,Standard,2024-01-05,2025-02-03,Cancelled,0.00,Cost,15
+C105965,A461924,P001,Standard Account,Premium,2026-01-29,,Active,49.00,,0
+C105968,A461925,P011,Tax-Free Account,Standard,2025-05-13,2025-10-04,Cancelled,0.00,Cost,3
+C105977,A461935,P004,Standard Account,Standard,2023-04-13,,Active,0.00,,3
+C105980,A461936,P005,Tax-Free Account,Standard,2026-04-17,,Active,0.00,,1
+C105983,A461939,P006,Standard Account,Standard,2023-09-02,,Active,0.00,,15
+C105983,A461939,P001,Offshore Account,Standard,2023-02-16,,Active,0.00,,7
+C105985,A461943,P009,Offshore Account,Standard,2024-10-30,,Active,0.00,,15
+C105985,A461943,P009,Standard Account,Standard,2024-11-04,2025-08-28,Cancelled,0.00,Service issue,3
+C105985,A461943,P010,Standard Account,Standard,2024-07-12,2024-10-29,Cancelled,0.00,Switched product,0
+C105988,A461947,P002,Offshore Account,Standard,2023-06-17,2024-07-22,Cancelled,0.00,Low usage,7
+C105996,A461953,P012,Tax-Free Account,Standard,2025-10-26,2026-03-19,Cancelled,0.00,Switched product,15
+C105996,A461953,P001,Standard Account,Standard,2026-03-12,,Active,0.00,,7
+C106005,A461959,P011,Tax-Free Account,Standard,2024-01-11,,Active,0.00,,15
+C106007,A461963,P004,Standard Account,Standard,2024-04-12,,Active,0.00,,0
+C106007,A461963,P003,Tax-Free Account,Standard,2023-12-19,,Active,0.00,,1
+C106011,A461965,P005,Standard Account,Standard,2025-07-14,,Active,0.00,,7
+C106014,A461967,P006,Standard Account,Premium,2025-04-19,2026-05-28,Cancelled,49.00,Cost,1
+C106014,A461967,P010,Retirement Annuity,Standard,2025-04-21,,Active,0.00,,3
+C106018,A461968,P007,Tax-Free Account,Standard,2023-11-25,2024-10-16,Cancelled,0.00,Service issue,1
+C106018,A461968,P009,Standard Account,Standard,2023-04-28,,Active,0.00,,7
+C106018,A461968,P012,Standard Account,Standard,2023-04-04,,Active,0.00,,0
+C106022,A461972,P007,Standard Account,Standard,2024-10-22,2025-11-11,Cancelled,0.00,Switched product,1
+C106034,A461983,P012,Tax-Free Account,Standard,2023-09-23,,Active,0.00,,7
+C106034,A461983,P010,Standard Account,Standard,2023-09-16,,Active,0.00,,0
+C106037,A461987,P001,Standard Account,Premium,2024-01-14,,Trial,49.00,,15
+C106040,A461990,P005,Tax-Free Account,Standard,2024-01-09,2024-04-08,Cancelled,0.00,Cost,1
+C106044,A461992,P002,Tax-Free Account,Standard,2024-10-13,,Active,0.00,,3
+C106045,A461993,P010,Offshore Account,Standard,2024-11-16,,Active,0.00,,7
+C106045,A461993,P004,Tax-Free Account,Standard,2025-07-19,,Active,0.00,,15
+C106046,A461997,P005,Offshore Account,Standard,2025-05-16,,Trial,0.00,,1
+C106046,A461997,P012,Standard Account,Standard,2025-06-06,,Active,0.00,,7
+C106046,A461997,P009,Tax-Free Account,Premium,2026-03-03,2026-06-12,Cancelled,49.00,Switched product,3
+C106047,A462001,P012,Standard Account,Standard,2025-12-27,,Active,0.00,,3
+C106047,A462001,P003,Retirement Annuity,Standard,2025-10-05,,Active,0.00,,15
+C106047,A462001,P008,Tax-Free Account,Standard,2025-07-29,2026-07-30,Cancelled,0.00,Cost,3
+C106049,A462002,P008,Tax-Free Account,Standard,2024-04-08,,Active,0.00,,7
+C106049,A462002,P004,Offshore Account,Standard,2024-12-01,,Active,0.00,,1
+C106053,A462006,P006,Offshore Account,Premium Plus,2023-03-02,2023-06-06,Cancelled,99.00,Cost,0
+C106053,A462006,P008,Standard Account,Standard,2023-12-16,2024-07-01,Cancelled,0.00,Service issue,7
+C106055,A462010,P012,Tax-Free Account,Standard,2025-06-25,,Active,0.00,,3
+C106058,A462013,P006,Standard Account,Standard,2024-12-03,,Active,0.00,,0
+C106061,A462017,P001,Standard Account,Standard,2026-05-15,2026-07-19,Cancelled,0.00,Service issue,0
+C106062,A462019,P004,Tax-Free Account,Standard,2025-11-17,2026-02-17,Cancelled,0.00,Low usage,0
+C106065,A462020,P010,Tax-Free Account,Standard,2023-08-06,,Active,0.00,,3
+C106074,A462026,P010,Retirement Annuity,Standard,2025-11-11,2026-04-30,Cancelled,0.00,Cost,7
+C106078,A462032,P007,Standard Account,Standard,2026-03-31,,Active,0.00,,0
+C106084,A462039,P009,Tax-Free Account,Standard,2026-04-15,,Active,0.00,,1
+C106084,A462039,P001,Tax-Free Account,Premium,2025-08-07,,Active,49.00,,3
+C106088,A462045,P006,Tax-Free Account,Standard,2026-07-27,,Active,0.00,,0
+C106090,A462046,P010,Standard Account,Standard,2024-04-28,,Active,0.00,,7
+C106090,A462046,P006,Retirement Annuity,Standard,2024-03-18,,Active,0.00,,7
+C106090,A462046,P008,Standard Account,Standard,2024-04-12,,Active,0.00,,7
+C106104,A462058,P012,Standard Account,Standard,2025-06-30,,Active,0.00,,15
+C106104,A462058,P009,Standard Account,Standard,2025-04-07,2026-04-22,Cancelled,0.00,Cost,15
+C106106,A462059,P002,Standard Account,Standard,2025-02-14,,Active,0.00,,7
+C106111,A462065,P011,Tax-Free Account,Standard,2024-03-31,,Active,0.00,,15
+C106111,A462065,P004,Standard Account,Standard,2024-05-28,,Active,0.00,,7
+C106121,A462077,P003,Tax-Free Account,Standard,2023-10-03,,Active,0.00,,7
+C106125,A462084,P009,Standard Account,Standard,2023-11-08,2024-03-01,Cancelled,0.00,Cost,7
+C106136,A462091,P006,Offshore Account,Standard,2024-12-08,,Expired,0.00,,1
+C106136,A462091,P009,Offshore Account,Standard,2024-07-19,2025-07-03,Cancelled,0.00,Cost,15
+C106140,A462096,P001,Standard Account,Standard,2026-04-21,,Trial,0.00,,0
+C106140,A462096,P004,Tax-Free Account,Standard,2026-03-01,,Active,0.00,,3
+C106144,A462103,P011,Standard Account,Standard,2023-10-30,,Active,0.00,,7
+C106147,A462107,P001,Tax-Free Account,Premium Plus,2026-07-24,,Active,99.00,,7
+C106151,A462110,P012,Standard Account,Standard,2025-06-15,,Active,0.00,,1
+C106156,A462119,P004,Offshore Account,Standard,2025-12-09,,Active,0.00,,15
+C106156,A462119,P012,Standard Account,Standard,2026-06-24,,Active,0.00,,15
+C106172,A462132,P005,Retirement Annuity,Standard,2025-10-12,,Active,0.00,,0
+C106172,A462132,P009,Offshore Account,Standard,2025-04-26,,Trial,0.00,,7
+C106181,A462143,P007,Retirement Annuity,Premium ,2024-06-03,,Active,49.00,,1
+C106201,A462162,P003,Retirement Annuity,Standard,2025-09-24,,Trial,0.00,,1
+C106201,A462162,P005,Retirement Annuity,Premium,2025-05-29,,Active,49.00,,7
+C106206,A462172,P004,Tax-Free Account,Standard,2023-09-18,,Expired,0.00,,7
+C106210,A462173,P011,Standard Account,Premium,2026-03-24,,Active,49.00,,7
+C106215,A462181,P001,Offshore Account,Standard,2025-05-27,,Active,0.00,,3
+C106216,A462185,P010,Tax-Free Account,Standard,2025-05-21,,Active,0.00,,0
+C106216,A462185,P005,Standard Account,Standard,2024-07-24,,Active,0.00,,15
+C106219,A462189,P003,Standard Account,Standard,2024-06-02,2025-03-06,Cancelled,0.00,Service issue,3
+C106219,A462189,P010,Retirement Annuity,Standard,2025-04-21,,Active,0.00,,7
+C106231,A462204,P008,Standard Account,Standard,2025-07-22,,Active,0.00,,3
+C106237,A462210,P008,Tax-Free Account,Standard,2024-05-31,,Active,0.00,,3
+C106237,A462210,P003,Standard Account,Standard,2023-11-25,,Active,0.00,,15
+C106238,A462211,P007,Standard Account,Standard,2025-03-08,2025-11-13,Cancelled,0.00,Cost,7
+C106255,A462234,P007,Offshore Account,Standard,2026-08-19,,Active,0.00,,1
+C106263,A462238,P004,Standard Account,Premium Plus,2026-01-07,,Active,99.00,,3
+C106263,A462238,P008,Standard Account,Standard,2025-07-12,,Active,0.00,,0
+C106268,A462242,P009,Standard Account,Standard,2024-06-06,,Expired,0.00,,7
+C106268,A462242,P004,Retirement Annuity,Standard,2024-08-06,2025-08-28,Cancelled,0.00,Low usage,15
+C106272,A462246,P011,Tax-Free Account,Standard,2024-09-19,,Active,0.00,,7
+C106280,A462253,P010,Standard Account,Standard,2023-12-18,,Active,0.00,,15
+C106284,A462254,P002,Offshore Account,Standard,2025-05-03,,Active,0.00,,7
+C106287,A462255,P006,Retirement Annuity,Standard,2023-01-15,,Active,0.00,,1
+C106290,A462256,P001,Tax-Free Account,Standard,2025-10-03,2026-03-15,Cancelled,0.00,Switched product,3
+C106293,A462258,P009,Standard Account,Standard,2025-02-25,,Active,0.00,,7
+C106301,A462264,P007,Retirement Annuity,Standard ,2024-03-13,,Active,0.00,,3
+C106301,A462264,P001,Offshore Account,Standard,2024-10-21,,Active,0.00,,3
+C106301,A462264,P001,Standard Account,Standard ,2024-12-26,,Active,0.00,,7
+C106307,A462274,P010,Tax-Free Account,Standard,2024-04-23,,Active,0.00,,7
+C106307,A462274,P010,Tax-Free Account,Standard,2024-05-26,,Active,0.00,,0
+C106309,A462275,P005,Offshore Account,Standard,2026-04-24,,Expired,0.00,,3
+C106313,A462276,P005,Offshore Account,Standard,2023-06-08,,Active,0.00,,0
+C106330,A462291,P005,Offshore Account,Standard,2024-01-04,,Active,0.00,,3
+C106333,A462295,P007,Tax-Free Account,Standard,2025-11-18,,Active,0.00,,3
+C106336,A462298,P011,Retirement Annuity,Premium,2025-09-02,,Active,49.00,,3
+C106340,A462302,P012,Standard Account,Standard,2025-06-06,,Active,0.00,,15
+C106340,A462302,P012,Standard Account,Standard,2025-04-30,,Active,0.00,,1
+C106348,A462313,P006,Tax-Free Account,Standard,2024-03-08,2025-04-28,Cancelled,0.00,Service issue,7
+C106372,A462336,P002,Tax-Free Account,Standard,2024-01-03,,Active,0.00,,0
+C106385,A462351,P002,Offshore Account,Standard,2023-09-11,,Active,0.00,,3
+C106390,A462358,P005,Tax-Free Account,Premium,2024-03-15,,Active,49.00,,1
+C106397,A462361,P012,Offshore Account,Standard,2025-09-22,2026-03-06,Cancelled,0.00,Cost,3
+C106401,A462363,P010,Tax-Free Account,Standard,2023-03-31,,Active,0.00,,15
+C106405,A462369,P002,Standard Account,Standard,2024-09-23,,Active,0.00,,0
+C106416,A462378,P007,Standard Account,Premium,2026-04-01,,Active,49.00,,7
+C106416,A462378,P012,Offshore Account,Standard,2025-07-29,,Active,0.00,,0
+C106419,A462381,P010,Tax-Free Account,Standard,2025-12-18,,Active,0.00,,1
+C106419,A462381,P003,Standard Account,Standard,2026-03-09,,Active,0.00,,7
+C106432,A462392,P010,Standard Account,Standard,2024-08-09,,Active,0.00,,0
+C106432,A462392,P011,Tax-Free Account,Premium Plus,2024-03-24,,Active,99.00,,15
+C106436,A462395,P010,Tax-Free Account,Standard,2025-09-10,,Active,0.00,,7
+C106443,A462404,P004,Standard Account,Standard,2025-10-08,,Active,0.00,,7
+C106447,A462407,P003,Tax-Free Account,Standard,2024-02-11,,Active,0.00,,7
+C106464,A462424,P008,Standard Account,Standard,2024-07-27,,Active,0.00,,0
+C106475,A462432,P011,Tax-Free Account,Standard,2026-01-05,,Active,0.00,,0
+C106475,A462432,P005,Standard Account,Premium Plus,2025-11-25,,Active,99.00,,7
+C106484,A462437,P004,Standard Account,Standard,2026-02-23,,Active,0.00,,15
+C106488,A462440,P001,Tax-Free Account,Standard,2023-10-25,2024-02-19,Cancelled,0.00,Cost,15
+C106490,A462443,P005,Tax-Free Account,Standard,2025-04-13,,Trial,0.00,,15
+C106490,A462443,P002,Tax-Free Account,Standard,2025-04-14,,Expired,0.00,,7
+C106492,A462446,P001,Tax-Free Account,Premium,2023-10-31,2024-01-15,Cancelled,49.00,Low usage,7
+C106493,A462450,P011,Tax-Free Account,Standard,2024-08-30,,Active,0.00,,15
+C106500,A462455,P001,Standard Account,Premium,2023-06-26,,Active,49.00,,1
+C106500,A462455,P007,Tax-Free Account,Standard,2024-06-06,2024-08-22,Cancelled,0.00,Service issue,0
+C106504,A462459,P001,Tax-Free Account,Standard,2023-07-08,,Active,0.00,,15
+C106504,A462459,P009,STANDARD ACCOUNT,Premium,2024-05-05,2024-06-04,Cancelled,49.00,Cost,0
+C106510,A462466,P010,Retirement Annuity,Standard,2025-02-21,2025-12-02,Cancelled,0.00,Low usage,3
+C106510,A462466,P007,Tax-Free Account,Standard,2025-02-06,,Active,0.00,,7
+C106510,A462466,P002,Standard Account,Standard,2024-11-01,2024-12-08,Cancelled,0.00,Low usage,0
+C106514,A462470,P011,Offshore Account,Standard,2024-08-31,,Trial,0.00,,7
+C106514,A462470,P004,Retirement Annuity,Standard,2024-09-30,,Active,0.00,,7
+C106514,A462470,P010,Tax-Free Account,Standard,2024-09-28,,Active,0.00,,7
+C106522,A462478,P009,Tax-Free Account,Standard,2026-03-14,,Active,0.00,,0
+C106523,A462481,P010,Offshore Account,Standard,2026-01-01,,Active,0.00,,1
+C106523,A462481,P007,Standard Account,Standard,2026-07-14,,Active,0.00,,0
+C106533,A462489,P011,Standard Account,Standard,2026-06-29,,Active,0.00,,3
+C106533,A462489,P005,Tax-Free Account,Standard,2026-05-17,2026-07-22,Cancelled,0.00,Service issue,7
+C106539,A462497,P009,Retirement Annuity,Standard,2023-11-09,,Active,0.00,,3
+C106544,A462503,P011,Offshore Account,Standard,2023-12-14,,Active,0.00,,15
+C106544,A462503,P004,Offshore Account,Standard,2024-07-08,2024-08-23,Cancelled,0.00,Switched product,1
+C106556,A462511,P003,Offshore Account,Standard,2026-06-24,,Active,0.00,,0
+C106557,A462512,P004,Tax-Free Account,Standard,2025-09-26,2026-05-14,Cancelled,0.00,Cost,7
+C106560,A462514,P012,Offshore Account,Standard,2023-04-21,,Active,0.00,,1
+C106569,A462524,P001,Tax-Free Account,Standard,2023-07-07,2023-12-09,Cancelled,0.00,Switched product,7
+C106569,A462524,P011,Standard Account,Standard,2023-04-03,,Active,0.00,,3
+C106573,A462525,P006,Standard Account,Standard,2025-09-30,,Active,0.00,,7
+C106573,A462525,P012,Tax-Free Account,Standard,2025-04-27,,Active,0.00,,15
+C106573,A462525,P004,Tax-Free Account,Standard,2025-12-08,,Active,0.00,,7
+C106577,A462528,P007,Standard Account,Standard,2026-03-09,,Active,0.00,,15
+C106577,A462528,P010,Tax-Free Account,Standard,2026-07-29,,Active,0.00,,1
+C106592,A462540,P004,Standard Account,Premium,2024-09-10,,Active,49.00,,7
+C106596,A462544,P004,Retirement Annuity,Standard,2026-06-13,,Active,0.00,,0
+C106597,A462546,P005,Standard Account,Standard,2024-02-15,2025-02-19,Cancelled,0.00,Low usage,1
+C106601,A462547,P001,Tax-Free Account,Standard,2024-07-06,,Active,0.00,,3
+C106601,A462547,P002,Tax-Free Account,Standard,2024-01-04,,Active,0.00,,15
+C106612,A462560,P004,Standard Account,Standard,2025-01-18,,Active,0.00,,3
+C106618,A462564,P001,Retirement Annuity,Standard,2023-07-26,2024-09-01,Cancelled,0.00,Low usage,15
+C106620,A462568,P007,Standard Account,Standard,2023-07-30,,Active,0.00,,3
+C106622,A462571,P009,Offshore Account,Standard,2023-10-24,,Active,0.00,,3
+C106624,A462573,P002,Standard Account,Standard,2025-03-10,2025-04-24,Cancelled,0.00,Low usage,1
+C106630,A462577,P006,Offshore Account,Standard,2024-11-08,,Active,0.00,,1
+C106643,A462597,P001,Standard Account,Standard,2022-11-16,2023-05-03,Cancelled,0.00,Low usage,1
+C106649,A462600,P009,Tax-Free Account,Standard,2024-10-22,,Active,0.00,,15
+C106652,A462601,P007,Tax-Free Account,Premium,2026-01-22,,Active,49.00,,15
+C106667,A462615,P002,Standard Account,Standard,2025-10-28,,Active,0.00,,7
+C106672,A462626,P004,Tax-Free Account,Standard,2025-08-12,,Active,0.00,,3
+C106672,A462626,P008,Offshore Account,Premium Plus,2025-01-15,,Active,99.00,,0
+C106676,A462629,P001,Retirement Annuity,Standard,2024-04-24,,Active,0.00,,7
+C106676,A462629,P001,Retirement Annuity,Standard,2024-01-29,,Active,0.00,,1
+C106683,A462632,P007,Retirement Annuity,Standard,2025-07-17,,Active,0.00,,15
+C106687,A462634,P011,Standard Account,Standard,2023-05-15,,Active,0.00,,1
+C106687,A462634,P001,Standard Account,Standard,2023-08-09,2024-02-19,Cancelled,0.00,Low usage,3
+C106692,A462637,P003,Offshore Account,Standard,2023-07-04,,Active,0.00,,0
+C106695,A462641,P007,Retirement Annuity,Standard,2023-06-15,,Active,0.00,,7
+C106699,A462643,P003,Tax-Free Account,Standard,2024-08-04,,Active,0.00,,3
+C106700,A462644,P003,Tax-Free Account,Premium,2024-01-30,,Active,49.00,,0
+C106700,A462644,P007,Standard Account,Standard,2024-01-20,2024-11-04,Cancelled,0.00,Service issue,7
+C106702,A462645,P003,Retirement Annuity,Standard,2025-06-03,,Active,0.00,,7
+C106706,A462649,P002,Standard Account,Standard,2024-05-11,,Active,0.00,,0
+C106706,A462649,P009,Tax-Free Account,Standard,2025-04-05,,Active,0.00,,7
+C106711,A462652,P005,Tax-Free Account,Standard,2026-05-13,,Active,0.00,,0
+C106719,A462657,P010,Tax-Free Account,Standard,2023-06-04,,Active,0.00,,1
+C106720,A462658,P009,Offshore Account,Standard,2023-03-25,,Active,0.00,,7
+C106731,A462669,P005,Standard Account,Standard,2024-08-04,,Active,0.00,,15
+C106735,A462674,P009,Tax-Free Account,Standard,2025-04-11,,Active,0.00,,0
+C106738,A462676,P009,Offshore Account,Standard,2026-04-07,,Active,0.00,,7
+C106742,A462679,P012,Offshore Account,Standard,2024-03-14,2024-07-23,Cancelled,0.00,Switched product,1
+C106742,A462679,P010,Tax-Free Account,Standard,2024-03-30,2024-07-07,Cancelled,0.00,Low usage,3
+C106743,A462683,P001,Standard Account,Standard,2023-01-13,,Active,0.00,,7
+C106743,A462683,P009,Offshore Account,Standard,2023-08-27,,Trial,0.00,,3
+C106746,A462686,P005,Tax-Free Account,Standard,2024-03-19,,Active,0.00,,0
+C106750,A462688,P002,Offshore Account,Standard,2025-08-04,,Active,0.00,,7
+C106753,A462691,P009,Standard Account,Premium,2026-06-01,,Active,49.00,,15
+C106757,A462695,P009,Tax-Free Account,Standard,2024-11-20,2025-08-06,Cancelled,0.00,Low usage,7
+C106763,A462703,P002,Tax-Free Account,Standard,2025-03-26,,Active,0.00,,1
+C106780,A462726,P010,Tax-Free Account,Standard,2025-08-10,,Active,0.00,,7
+C106782,A462732,P012,Offshore Account,Standard,2024-11-09,,Active,0.00,,1
+C106784,A462733,P006,Standard Account,Standard,2024-04-28,,Active,0.00,,0
+C106784,A462733,P002,Tax-Free Account,Standard,2024-05-25,,Active,0.00,,3
+C106786,A462735,P008,Tax-Free Account,Standard,2025-07-20,,Active,0.00,,1
+C106786,A462735,P011,Retirement Annuity,Standard,2025-08-08,,Active,0.00,,7
+C106787,A462739,P011,Standard Account,Standard,2025-03-04,2025-11-28,Cancelled,0.00,Service issue,7
+C106790,A462743,P001,Standard Account,Premium,2024-06-23,2025-06-13,Cancelled,49.00,Service issue,3
+C106790,A462743,P004,Standard Account,Standard,2024-10-02,,Active,0.00,,7
+C106792,A462746,P012,Offshore Account,Standard,2025-07-07,,Active,0.00,,7
+C106794,A462750,P004,Tax-Free Account,Standard,2024-10-28,,Active,0.00,,0
+C106797,A462753,P001,Standard Account,Standard,2024-02-16,,Active,0.00,,1
+C106797,A462753,P008,Retirement Annuity,Standard,2023-10-05,2023-11-28,Cancelled,0.00,Low usage,7
+C106805,A462761,P005,Standard Account,Standard,2025-02-27,,Active,0.00,,0
+C106809,A462767,P001,Standard Account,Premium,2024-03-18,,Active,49.00,,3
+C106814,A462770,P004,Retirement Annuity,Standard,2025-10-18,,Active,0.00,,7
+C106819,A462776,P003,Tax-Free Account,Standard,2023-10-22,,Active,0.00,,7
+C106819,A462776,P004,Tax-Free Account,Standard,2024-01-04,,Active,0.00,,15
+C106822,A462778,P001,Tax-Free Account,Standard,2024-10-10,,Active,0.00,,15
+C106826,A462779,P002,Standard Account,Standard,2026-03-18,,Expired,0.00,,3
+C106826,A462779,P007,Standard Account,Standard,2026-04-26,,Active,0.00,,15
+C106829,A462783,P010,Standard Account,Standard,2024-11-24,,Active,0.00,,1
+C106837,A462795,P012,Retirement Annuity,Premium Plus,2025-08-13,2026-06-29,Cancelled,99.00,Switched product,1
+C106840,A462799,P002,Standard Account,Premium,2023-10-21,,Active,49.00,,15
+C106840,A462799,P007,Standard Account,Standard,2023-05-11,,Active,0.00,,7
+C106844,A462800,P005,Tax-Free Account,Premium,2023-11-13,,Active,49.00,,7
+C106845,A462801,P012,Tax-Free Account,Premium,2026-07-09,,Active,49.00,,3
+C106845,A462801,P006,Standard Account,Premium Plus,2026-03-19,,Active,99.00,,3
+C106855,A462808,P004,Standard Account,Standard,2026-08-20,,Active,0.00,,7
+C106855,A462808,P001,Tax-Free Account,Standard,2026-07-21,,Active,0.00,,3
+C106858,A462811,P006,Retirement Annuity,Standard,2025-06-26,,Active,0.00,,7
+C106860,A462813,P011,Offshore Account,Standard,2025-09-27,,Active,0.00,,7
+C106862,A462815,P010,Tax-Free Account,Standard,2024-11-11,,Active,0.00,,15
+C106863,A462816,P010,Standard Account,Standard,2025-12-04,,Active,0.00,,7
+C106867,A462820,P009,Standard Account,Standard,2023-11-26,,Expired,0.00,,0
+C106867,A462820,P004,Retirement Annuity,Standard,2024-01-08,,Active,0.00,,7
+C106870,A462825,P006,Retirement Annuity,Standard,2024-04-23,,Active,0.00,,3
+C106870,A462825,P012,Standard Account,Standard,2025-02-24,,Active,0.00,,1
+C106872,A462829,P005, Tax-Free Account ,Premium Plus,2024-12-15,,Expired,99.00,,15
+C106872,A462829,P004,Standard Account,Standard,2024-11-25,2025-11-09,Cancelled,0.00,Cost,3
+C106873,A462832,P005,Standard Account,Standard,2024-08-03,,Active,0.00,,7
+C106873,A462832,P004,Standard Account,Standard,2025-04-10,,Active,0.00,,0
+C106873,A462832,P001,Retirement Annuity,Standard,2025-05-29,2026-07-01,Cancelled,0.00,Cost,3
+C106880,A462839,P006,Standard Account,Standard,2025-05-15,,Active,0.00,,15
+C106880,A462839,P002,Standard Account,Standard,2025-12-09,,Active,0.00,,15
+C106883,A462842,P011,Tax-Free Account,Premium,2025-11-24,,Active,49.00,,15
+C106883,A462842,P012,Tax-Free Account,Standard,2026-03-01,,Active,0.00,,15
+C106883,A462842,P007,Tax-Free Account,Standard,2025-11-01,,Active,0.00,,15
+C106887,A462845,P001,Standard Account,Premium Plus,2022-09-20,2022-12-16,Cancelled,99.00,Switched product,0
+C106892,A462850,P002,Tax-Free Account,Standard,2026-02-19,,Active,0.00,,1
+C106892,A462850,P009,Tax-Free Account,Standard,2026-03-06,,Active,0.00,,1
+C106892,A462850,P010,Tax-Free Account,Standard,2025-04-30,,Active,0.00,,7
+C106897,A462855,P001,Standard Account,Standard,2023-12-22,,Active,0.00,,3
+C106897,A462855,P006,Offshore Account,Premium,2023-02-26,,Active,49.00,,7
+C106901,A462858,P011,Offshore Account,Standard,2025-05-12,2025-08-21,Cancelled,0.00,Service issue,1
+C106904,A462862,P012,Offshore Account,Standard,2024-04-24,,Active,0.00,,0
+C106904,A462862,P011,Offshore Account,Standard,2024-08-14,,Active,0.00,,0
+C106911,A462864,P007,Standard Account,Standard,2026-08-29,,Trial,0.00,,1
+C106915,A462867,P004,Offshore Account,Standard,2023-09-11,,Active,0.00,,7
+C106915,A462867,P010,Standard Account,Standard,2023-10-05,,Active,0.00,,3
+C106919,A462872,P007,Tax-Free Account,Standard,2026-01-04,,Trial,0.00,,0
+C106919,A462872,P011,Retirement Annuity,Standard,2025-03-20,2025-10-24,Cancelled,0.00,Cost,1
+C106922,A462873,P011,Standard Account,Standard,2026-07-21,,Active,0.00,,0
+C106937,A462887,P002,Tax-Free Account,Standard,2025-06-22,,Active,0.00,,15
+C106937,A462887,P009,Retirement Annuity,Standard,2025-12-16,,Active,0.00,,7
+C106943,A462894,P001,Offshore Account,Premium Plus,2023-07-19,,Trial,99.00,,3
+C106943,A462894,P010,Standard Account,Standard,2023-02-18,2023-06-28,Cancelled,0.00,Low usage,15
+C106943,A462894,P005,Standard Account,Standard,2023-05-27,,Active,0.00,,15
+C106945,A462896,P003,Offshore Account,Standard,2024-10-25,,Active,0.00,,3
+C106945,A462896,P012,Retirement Annuity,Standard,2024-05-06,2025-03-31,Cancelled,0.00,Low usage,7
+C106955,A462906,P010,Standard Account,Standard,2025-10-27,,Active,0.00,,3
+C106958,A462907,P011,Tax-Free Account,Standard,2023-11-11,2023-12-23,Cancelled,0.00,Cost,3
+C106958,A462907,P006,Offshore Account,Standard,2023-04-27,2023-06-29,Cancelled,0.00,Low usage,7
+C106964,A462917,P001,Standard Account,Standard,2023-05-27,2024-02-02,Cancelled,0.00,Low usage,0
+C106964,A462917,P007,Standard Account,Standard,2024-04-28,,Active,0.00,,15
+C106966,A462921,P007,Standard Account,Standard,2024-09-02,,Active,0.00,,3
+C106971,A462925,P008,Standard Account,Standard,2025-11-18,,Active,0.00,,15
+C106971,A462925,P005,Standard Account,Standard,2026-02-22,,Active,0.00,,1
+C106977,A462932,P008,Standard Account,Standard,2022-11-30,2023-07-17,Cancelled,0.00,Switched product,15
+C106982,A462937,P009,Offshore Account,Standard,2023-12-17,,Active,0.00,,15
+C106982,A462937,P007,Standard Account,Standard,2024-05-11,2024-10-14,Cancelled,0.00,Cost,7
+C106984,A462939,P001,Standard Account,Standard,2024-07-02,,Active,0.00,,15
+C106984,A462939,P009,Standard Account,Standard,2025-02-10,,Active,0.00,,7
+C106984,A462939,P001,Standard Account,Standard,2024-07-28,,Active,0.00,,0
+C106995,A462952,P011,Tax-Free Account,Standard,2023-09-14,,Trial,0.00,,15
+C107003,A462957,P001,Tax-Free Account,Standard,2026-08-15,,Active,0.00,,3
+C107012,A462965,P011,Offshore Account,Premium,2023-11-07,,Active,49.00,,1
+C107014,A462968,P003,Offshore Account,Standard,2024-12-07,,Active,0.00,,7
+C107014,A462968,P006,Standard Account,Standard,2024-10-11,,Active,0.00,,1
+C107014,A462968,P009,Retirement Annuity,Standard,2024-07-21,,Trial,0.00,,3
+C107021,A462976,P012,Offshore Account,Standard,2024-07-23,,Active,0.00,,0
+C107023,A462980,P002,Tax-Free Account,Premium Plus,2023-12-02,,Expired,99.00,,15
+C107027,A462983,P004,Tax-Free Account,Standard,2023-06-02,,Trial,0.00,,7
+C107031,A462987,P008,Standard Account,Standard,2024-09-03,2024-10-14,Cancelled,0.00,Low usage,0
+C107038,A462991,P006,Tax-Free Account,Standard,2024-10-12,2025-01-23,Cancelled,0.00,Low usage,7
+C107038,A462991,P010,Standard Account,Standard,2025-06-22,2025-10-15,Cancelled,0.00,Service issue,0
+C107050,A462999,P001,Tax-Free Account,Premium Plus,2026-01-11,,Active,99.00,,15
+C107050,A462999,P010,Standard Account,Premium Plus,2026-04-15,,Active,99.00,,0
+C107053,A463002,P009,Standard Account,Standard,2024-01-11,,Active,0.00,,7
+C107055,A463008,P010,Standard Account,Standard,2026-06-16,,Expired,0.00,,7
+C107057,A463010,P006,Offshore Account,Standard,2023-11-11,,Active,0.00,,1
+C107061,A463013,P002,Tax-Free Account,Standard,2023-09-10,,Trial,0.00,,7
+C107066,A463018,P012,Retirement Annuity,Premium,2024-04-21,,Active,49.00,,7
+C107069,A463021,P005,Tax-Free Account,Standard,2024-02-29,2024-06-23,Cancelled,0.00,Cost,1
+C107073,A463023,P011,Standard Account,Standard,2025-09-15,2026-02-01,Cancelled,0.00,Cost,1
+C107073,A463023,P011,Standard Account,Standard,2025-03-17,,Active,0.00,,3
+C107074,A463024,P002,Standard Account,Premium,2025-12-10,,Active,49.00,,3
+C107074,A463024,P011,Standard Account,Standard,2026-03-17,2026-07-27,Cancelled,0.00,Switched product,0
+C107084,A463036,P003,Tax-Free Account,Premium,2025-10-11,,Active,49.00,,3
+C107096,A463051,P002,Offshore Account,Standard,2025-12-25,2026-03-09,Cancelled,0.00,Low usage,3
+C107097,A463052,P003,Tax-Free Account,Premium,2024-04-10,,Active,49.00,,7
+C107097,A463052,P005,Standard Account,Standard,2023-05-29,,Active,0.00,,1
+C107097,A463052,P004,Standard Account,Standard,2023-07-10,,Active,0.00,,0
+C107101,A463056,P009,Retirement Annuity,Standard,2025-05-19,,Active,0.00,,15
+C107107,A463061,P009,Tax-Free Account,Standard,2026-05-18,,Active,0.00,,1
+C107108,A463064,P007,Standard Account,Standard,2026-05-18,,Active,0.00,,15
+C107110,A463066,P004,Retirement Annuity,Standard,2023-03-04,,Active,0.00,,15
+C107110,A463066,P012,Standard Account,Premium,2023-04-21,,Active,49.00,,7
+C107117,A463072,P003,Standard Account,Standard,2024-07-09,,Active,0.00,,0
+C107121,A463077,P001,Standard Account,Standard ,2026-06-02,,Active,0.00,,3
+C107125,A463080,P009,Tax-Free Account,Premium Plus,2025-11-18,,Trial,99.00,,15
+C107125,A463080,P003,Tax-Free Account,Standard,2025-08-19,,Active,0.00,,1
+C107127,A463082,P003,Standard Account,Standard,2026-01-20,,Active,0.00,,3
+C107135,A463089,P012,Tax-Free Account,Standard,2026-01-22,,Active,0.00,,3
+C107135,A463089,P006,Offshore Account,Standard,2026-06-04,,Active,0.00,,7
+C107151,A463107,P004,Standard Account,Standard,2025-11-14,,Active,0.00,,1
+C107153,A463115,P005,Retirement Annuity,Standard,2024-12-03,,Active,0.00,,3
+C107162,A463125,P003,Standard Account,Standard,2025-04-03,,Active,0.00,,7
+C107162,A463125,P011,Tax-Free Account,Standard,2025-10-23,,Active,0.00,,1
+C107163,A463127,P004,Tax-Free Account,Standard,2026-02-17,,Active,0.00,,7
+C107163,A463127,P006,Standard Account ,Standard,2025-07-09,,Active,0.00,,0
+C107178,A463144,P004,Tax-Free Account,Standard,2025-05-04,,Active,0.00,,15
+C107198,A463162,P004,Tax-Free Account,Standard,2025-02-11,,Active,0.00,,7
+C107198,A463162,P006,Offshore Account,Standard,2024-10-30,2025-04-30,Cancelled,0.00,Low usage,0
+C107205,A463174,P008,Tax-Free Account,Standard,2024-03-31,2025-04-24,Cancelled,0.00,Low usage,1
+C107208,A463179,P002,Standard Account,Standard,2023-12-31,,Active,0.00,,0
+C107208,A463179,P010,Tax-Free Account,Standard,2024-01-10,,Active,0.00,,0
+C107217,A463189,P008,Tax-Free Account,Standard,2026-04-24,,Active,0.00,,7
+C107217,A463189,P011,Standard Account,Standard,2026-08-11,,Active,0.00,,7
+C107232,A463199,P008,Retirement Annuity,Standard,2024-07-30,,Expired,0.00,,7
+C107233,A463202,P007,Standard Account,Standard,2025-06-18,,Active,0.00,,15
+C107233,A463202,P002,Tax-Free Account,Standard,2024-06-30,,Active,0.00,,3
+C107236,A463203,P008,Offshore Account,Standard,2026-02-26,,Active,0.00,,7
+C107239,A463207,P003,Offshore Account,Premium,2022-12-23,,Active,49.00,,15
+C107246,A463211,P002,Offshore Account,Standard,2023-09-13,,Active,0.00,,7
+C107249,A463213,P011,Tax-Free Account,Standard,2025-01-16,,Active,0.00,,15
+C107250,A463217,P003,Standard Account,Standard,2026-08-10,,Active,0.00,,0
+C107256,A463221,P009,Tax-Free Account,Standard,2026-01-23,,Active,0.00,,15
+C107259,A463228,P006,Standard Account,standard,2024-11-04,,Active,0.00,,0
+C107271,A463238,P006,Standard Account,Standard,2025-01-12,,Active,0.00,,3
+C107275,A463242,P005,Retirement Annuity,Premium Plus,2024-03-10,,Active,99.00,,1
+C107275,A463242,P010,Retirement Annuity,Standard,2023-07-03,,Active,0.00,,15
+C107277,A463245,P001,Standard Account,Standard,2025-08-13,,Active,0.00,,15
+C107281,A463247,P009,Offshore Account,Standard,2023-08-12,2024-09-16,Cancelled,0.00,Service issue,3
+C107282,A463249,P001,Retirement Annuity,Premium,2023-09-09,,Active,49.00,,3
+C107286,A463250,P012,Tax-Free Account,Standard,2025-07-04,2025-12-04,Cancelled,0.00,Switched product,15
+C107286,A463250,P009,Standard Account,Standard,2026-02-26,,Active,0.00,,0
+C107291,A463258,P003,Standard Account,Premium,2023-05-03,,Active,49.00,,3
+C107297,A463262,P009,Tax-Free Account,Standard,2026-06-17,,Active,0.00,,3
+C107303,A463266,P005,Standard Account,Standard,2023-11-12,,Active,0.00,,7
+C107307,A463269,P007,Standard Account,Standard,2026-02-15,,Active,0.00,,3
+C107312,A463273,P012,Standard Account,Premium,2024-02-15,2024-11-14,Cancelled,49.00,Switched product,0
+C107318,A463280,P002,Tax-Free Account,Standard,2024-12-05,,Active,0.00,,7
+C107321,A463282,P006,Offshore Account,Standard,2026-02-03,,Active,0.00,,0
+C107327,A463289,P012,Tax-Free Account,Standard,2023-06-02,2024-04-14,Cancelled,0.00,Low usage,0
+C107327,A463289,P011,Retirement Annuity,Standard,2023-05-25,,Active,0.00,,15
+C107328,A463290,P001,Retirement Annuity,Standard,2026-07-11,,Trial,0.00,,3
+C107332,A463295,P002,Tax-Free Account,Standard,2025-05-28,2025-09-21,Cancelled,0.00,Low usage,3
+C107332,A463295,P012,Tax-Free Account,Standard,2025-02-23,2026-02-01,Cancelled,0.00,Switched product,7
+C107334,A463297,P005,Standard Account,Premium,2025-01-01,,Active,49.00,,15
+C107337,A463300,P002,Tax-Free Account,Premium Plus,2023-08-17,,Active,99.00,,3
+C107337,A463300,P011,Tax-Free Account,Standard,2024-02-05,,Active,0.00,,1
+C107337,A463300,P012,Standard Account,Premium,2023-11-20,2024-03-19,Cancelled,49.00,Cost,0
+C107338,A463303,P010,Standard Account,Standard,2025-03-02,2026-04-15,Cancelled,0.00,Switched product,7
+C107342,A463307,P005,Standard Account,Premium Plus,2024-10-08,,Active,99.00,,7
+C107346,A463310,P011,Standard Account,Standard,2024-01-18,,Active,0.00,,3
+C107351,A463317,P003,Tax-Free Account,Standard,2025-12-20,2026-06-16,Cancelled,0.00,Switched product,3
+C107355,A463320,P001,Retirement Annuity,Standard,2023-01-24,,Active,0.00,,15
+C107355,A463320,P007,Tax-Free Account,Standard,2022-12-07,,Active,0.00,,7
+C107361,A463323,P002,Standard Account,Standard,2026-05-03,,Active,0.00,,0
+C107362,A463326,P004,Offshore Account,Standard,2026-01-07,,Active,0.00,,3
+C107363,A463330,P001,Offshore Account,Standard,2023-12-04,,Active,0.00,,15
+C107377,A463346,P004,Tax-Free Account,Standard,2024-08-23,,Active,0.00,,0
+C107381,A463350,P007,Retirement Annuity,Standard,2025-11-22,,Active,0.00,,1
+C107381,A463350,P003,Standard Account,Standard,2026-01-08,,Active,0.00,,7
+C107384,A463353,P011,Standard Account,Premium,2024-06-24,,Active,49.00,,15
+C107384,A463353,P004,Standard Account,Standard,2024-11-08,,Active,0.00,,15
+C107384,A463353,P012,Tax-Free Account,Standard,2025-04-19,,Active,0.00,,15
+C107386,A463355,P007,Tax-Free Account,Standard,2023-09-10,2024-03-01,Cancelled,0.00,Service issue,0
+C107395,A463362,P011,Retirement Annuity,Standard,2023-05-01,,Active,0.00,,0
+C107395,A463362,P004,Tax-Free Account,Premium Plus,2023-04-30,,Trial,99.00,,0
+C107411,A463388,P007,Standard Account,Standard,2024-01-20,,Active,0.00,,15
+C107415,A463389,P007,Offshore Account,Premium,2025-08-08,,Active,49.00,,3
+C107415,A463389,P006,Tax-Free Account,Standard,2026-04-27,,Active,0.00,,7
+C107417,A463392,P001,Standard Account,Standard,2026-02-16,,Active,0.00,,7
+C107421,A463400,P002,Tax-Free Account,Standard,2023-07-29,,Active,0.00,,0
+C107421,A463400,P012,Retirement Annuity,Standard,2024-04-30,,Active,0.00,,3
+C107439,A463417,P008,Standard Account,Standard,2023-12-01,,Active,0.00,,0
+C107448,A463421,P006,Tax-Free Account,Standard,2025-10-07,2026-03-25,Cancelled,0.00,Low usage,0
+C107448,A463421,P012,Standard Account,Premium,2026-06-19,,Active,49.00,,0
+C105266,A461255,P003,Tax-Free Account,Standard,2025-11-26,,Active,0.00,,0
+C107450,A463422,P008,Offshore Account,Standard,2026-07-08,,Active,0.00,,1
+C107457,A463424,P012,Offshore Account,Standard,2024-10-05,,Active,0.00,,7
+C107461,A463427,P001,Offshore Account,Standard,2023-07-30,,Active,0.00,,15
+C107463,A463428,P007,Tax-Free Account,Standard,2025-09-26,2026-04-12,Cancelled,0.00,Switched product,0
+C107465,A463429,P002,Tax-Free Account,Standard,2026-06-06,,Active,0.00,,3
+C107466,A463431,P004,Tax-Free Account,Standard,2025-12-31,,Active,0.00,,1
+C107468,A463433,P004,tax-free account,Standard,2025-06-05,,Active,0.00,,1
+C107470,A463434,P011,Standard Account,Standard,2025-03-21,2025-07-15,Cancelled,0.00,Cost,0
+C107470,A463434,P009,Offshore Account,Premium Plus,2025-03-21,,Active,99.00,,7
+C107470,A463434,P002,Offshore Account,Standard,2025-10-08,,Active,0.00,,3
+C107473,A463436,P011,Tax-Free Account,Premium,2023-09-02,,Active,49.00,,7
+C107483,A463450,P009,Standard Account,Standard,2026-04-10,,Active,0.00,,3
+C107485,A463451,P012,Offshore Account,Standard,2026-04-01,,Active,0.00,,3
+C107488,A463454,P003,Standard Account,Standard,2026-05-21,,Active,0.00,,3
+C107491,A463457,P003,Tax-Free Account,Standard,2025-10-27,,Active,0.00,,3
+C107491,A463457,P002,Offshore Account,Standard,2025-10-21,,Active,0.00,,15
+C107491,A463457,P008,Standard Account,Standard,2025-07-04,,Active,0.00,,7
+C107494,A463458,P009,Retirement Annuity,Standard,2025-08-21,,Active,0.00,,7
+C107494,A463458,P010,Tax-Free Account,Standard,2026-02-08,,Active,0.00,,1
+C107494,A463458,P005,Standard Account,Standard,2026-04-17,,Active,0.00,,15
+C107496,A463462,P008,Tax-Free Account,Premium,2025-04-04,,Active,49.00,,1
+C107499,A463466,P008,Standard Account,Standard,2025-04-21,,Active,0.00,,0
+C107499,A463466,P005,Offshore Account,Standard,2025-10-21,,Active,0.00,,1
+C107506,A463472,P006,Offshore Account,Standard,2023-09-24,,Active,0.00,,0
+C107513,A463477,P003,Tax-Free Account,Standard,2023-07-30,,Active,0.00,,7
+C107513,A463477,P001,Standard Account,Standard,2022-12-24,,Trial,0.00,,3
+C107514,A463479,P001,Offshore Account,Standard,2025-03-01,,Trial,0.00,,15
+C107514,A463479,P010,Tax-Free Account,Standard,2024-09-10,2024-12-31,Cancelled,0.00,Low usage,7
+C107514,A463479,P009,Offshore Account,Standard,2024-10-18,2025-11-30,Cancelled,0.00,Service issue,7
+C107526,A463486,P003,Standard Account,Standard,2025-11-17,,Active,0.00,,0
+C107529,A463489,P009,Standard Account,Standard ,2023-11-29,,Active,0.00,,15
+C107536,A463501,P006,Tax-Free Account,Premium,2024-05-02,,Active,49.00,,7
+C107537,A463502,P008,Standard Account,Standard,2024-04-10,,Active,0.00,,15
+C107538,A463503,P012,Tax-Free Account,Standard,2024-08-27,2025-04-01,Cancelled,0.00,Service issue,3
+C107545,A463507,P010,Retirement Annuity,Standard,2025-11-21,2026-03-05,Cancelled,0.00,Low usage,3
+C107549,A463511,P008,Tax-Free Account,Standard,2025-10-22,,Active,0.00,,7
+C107550,A463515,P001,Standard Account,Standard,2026-02-14,,Active,0.00,,0
+C107554,A463519,P004,Offshore Account,Standard,2025-02-19,,Active,0.00,,3
+C107556,A463522,P012,Tax-Free Account,Premium,2026-07-16,,Active,49.00,,0
+C107560,A463525,P008,Retirement Annuity,Standard,2025-04-12,,Active,0.00,,15
+C107564,A463534,P001,Offshore Account,Standard,2025-11-07,,Active,0.00,,7
+C107565,A463537,P005,Offshore Account,Premium Plus,2026-03-07,,Active,99.00,,0
+C107570,A463540,P008,Tax-Free Account,Standard,2024-01-29,,Active,0.00,,7
+C107574,A463544,P003,Tax-Free Account,Standard,2026-08-06,,Active,0.00,,15
+C107575,A463547,P004,Tax-Free Account,Standard,2026-04-16,,Active,0.00,,3
+C107579,A463549,P001,Retirement Annuity,Premium,2025-05-13,2026-01-26,Cancelled,49.00,Switched product,1
+C107582,A463555,P010,Standard Account,Standard,2026-03-05,,Active,0.00,,1
+C107588,A463558,P002,Standard Account,Standard,2026-05-21,,Active,0.00,,15
+C107590,A463562,P008,Standard Account,Premium,2026-01-07,,Active,49.00,,0
+C107590,A463562,P008,Tax-Free Account,Premium,2025-12-18,,Active,49.00,,0
+C107606,A463578,P012,Tax-Free Account,Standard,2025-12-07,2026-01-08,Cancelled,0.00,Low usage,0
+C107608,A463579,P012,Retirement Annuity,Standard,2024-06-03,2025-03-15,Cancelled,0.00,Cost,0
+C107612,A463584,P006,Tax-Free Account,Premium Plus,2024-08-09,,Active,99.00,,1
+C107612,A463584,P003,Standard Account,Standard,2024-07-09,,Active,0.00,,7
+C107612,A463584,P004,Standard Account,Standard,2024-09-03,,Active,0.00,,15
+C107614,A463588,P009,Retirement Annuity,Standard,2025-04-13,,Active,0.00,,3
+C107621,A463599,P010,Tax-Free Account,Standard,2023-12-25,,Active,0.00,,3
+C107623,A463602,P004,Retirement Annuity,Premium,2024-05-23,,Active,49.00,,3
+C107623,A463602,P008,Tax-Free Account,Premium,2024-04-28,,Active,49.00,,7
+C107625,A463604,P005,Tax-Free Account,Standard,2026-01-23,,Active,0.00,,3
+C107625,A463604,P008,Standard Account,Standard,2025-03-26,,Expired,0.00,,0
+C107628,A463606,P006,Tax-Free Account,Standard,2024-01-22,2024-11-06,Cancelled,0.00,Service issue,3
+C107631,A463609,P010,Offshore Account,Premium,2023-02-28,,Active,49.00,,15
+C107631,A463609,P004,Tax-Free Account,Standard,2023-12-21,,Active,0.00,,7
+C107631,A463609,P007,Tax-Free Account,Standard,2023-12-11,,Active,0.00,,15
+C107636,A463614,P003,Tax-Free Account,Standard,2026-02-13,2026-08-17,Cancelled,0.00,Low usage,3
+C107636,A463614,P004,Standard Account,Standard,2025-07-05,,Active,0.00,,7
+C107636,A463614,P003,Standard Account,Premium,2025-10-08,,Active,49.00,,0
+C107639,A463615,P011,Standard Account,Premium,2025-04-15,,Active,49.00,,7
+C107639,A463615,P008,Offshore Account,Premium,2025-08-14,,Active,49.00,,1
+C107640,A463618,P004,Retirement Annuity,Premium,2023-10-08,,Expired,49.00,,7
+C107640,A463618,P009,Standard Account,Standard,2024-02-05,,Active,0.00,,15
+C107640,A463618,P001,Tax-Free Account,Standard,2024-08-12,,Trial,0.00,,1
+C107643,A463620,P006,Tax-Free Account,Standard,2023-07-08,,Active,0.00,,7
+C107654,A463628,P008,Standard Account,Standard,2023-03-26,,Active,0.00,,3
+C107663,A463636,P006,Tax-Free Account,Standard,2023-05-01,2023-08-30,Cancelled,0.00,Service issue,15
+C107665,A463638,P007,Offshore Account,Standard,2024-12-08,,Active,0.00,,15
+C107665,A463638,P002,Tax-Free Account,Standard,2024-08-22,,Active,0.00,,1
+C107669,A463641,P008,Offshore Account,Premium,2026-07-22,2026-08-31,Cancelled,49.00,Cost,0
+C107674,A463644,P002,Standard Account,Standard,2025-03-17,,Active,0.00,,15
+C107674,A463644,P008,Standard Account,Standard,2024-04-06,,Active,0.00,,3
+C107674,A463644,P005,Tax-Free Account,Standard,2025-01-01,,Trial,0.00,,15
+C107678,A463648,P005,Retirement Annuity,Standard,2025-03-11,,Active,0.00,,0
+C107684,A463655,P011,Offshore Account,Standard,2026-04-29,,Active,0.00,,15
+C107688,A463658,P012,Standard Account,Standard,2025-02-14,,Active,0.00,,15
+C107698,A463673,P006,Standard Account,Standard,2024-06-30,2024-09-22,Cancelled,0.00,Low usage,15
+C107698,A463673,P011,Tax-Free Account,Standard,2024-10-26,,Trial,0.00,,3
+C107709,A463685,P008,Standard Account,Standard,2023-09-10,2024-09-03,Cancelled,0.00,Low usage,3
+C107713,A463689,P004,Offshore Account,Standard,2024-02-02,,Active,0.00,,15
+C107720,A463693,P011,Standard Account,Standard,2023-07-23,,Active,0.00,,15
+C107720,A463693,P008,Standard Account,Standard,2023-04-15,,Active,0.00,,7
+C107722,A463696,P001,Offshore Account,Standard,2024-11-27,,Active,0.00,,3
+C107722,A463696,P002,Retirement Annuity,Premium,2025-01-25,2026-01-23,Cancelled,49.00,Switched product,7
+C107722,A463696,P001,Tax-Free Account,Standard,2024-10-27,,Active,0.00,,0
+C107726,A463697,P006,Tax-Free Account,Premium,2025-04-17,,Active,49.00,,1
+C107726,A463697,P010,Tax-Free Account,Standard,2025-11-10,,Expired,0.00,,7
+C107729,A463698,P006,Tax-Free Account,Premium,2026-06-09,,Active,49.00,,1
+C107740,A463709,P007,Tax-Free Account,Premium,2026-02-08,,Active,49.00,,7
+C107751,A463722,P001,Tax-Free Account,Standard,2023-05-08,,Active,0.00,,7
+C107754,A463723,P001,Standard Account,Premium,2024-02-03,2024-05-12,Cancelled,49.00,Low usage,0
+C107758,A463726,P008,Tax-Free Account,Standard,2025-04-12,,Active,0.00,,3
+C107760,A463729,P007,Tax-Free Account,Standard ,2025-06-02,2026-06-24,Cancelled,0.00,Service issue,7
+C107762,A463732,P009,Tax-Free Account,Premium,2024-06-17,,Active,49.00,,15
+C107762,A463732,P012,Tax-Free Account,Standard,2024-05-18,,Active,0.00,,7
+C107762,A463732,P003,Retirement Annuity,Standard,2024-04-15,,Active,0.00,,15
+C107763,A463734,P005,Standard Account,Standard,2023-06-25,,Active,0.00,,15
+C107764,A463736,P012,Offshore Account,Standard,2026-04-16,,Active,0.00,,3
+C107772,A463741,P004,Standard Account,Standard,2023-08-23,2024-03-12,Cancelled,0.00,Switched product,0
+C107784,A463749,P010,Offshore Account,Standard,2024-07-03,,Active,0.00,,1
+C107784,A463749,P002,Tax-Free Account,Standard,2024-07-10,,Active,0.00,,3
+C107784,A463749,P012,Standard Account,Standard,2025-01-05,,Active,0.00,,1
+C107788,A463750,P010,Standard Account,Standard,2024-09-19,2025-02-17,Cancelled,0.00,Switched product,1
+C107799,A463764,P008,Tax-Free Account,Standard,2024-12-16,2025-10-31,Cancelled,0.00,Cost,3
+C107807,A463770,P005,Standard Account,Standard,2023-08-13,,Active,0.00,,7
+C107809,A463771,P012,Standard Account,Standard,2026-02-19,,Active,0.00,,7
+C107810,A463775,P002,Offshore Account,Standard,2024-07-29,,Active,0.00,,0
+C107814,A463778,P004,Offshore Account,Standard,2025-07-06,,Active,0.00,,15
+C107814,A463778,P009,Standard Account,Standard,2025-04-16,2026-01-15,Cancelled,0.00,Cost,0
+C107815,A463782,P001,Standard Account,Standard,2026-04-07,,Active,0.00,,0
+C107818,A463783,P001,Standard Account,Standard,2024-12-28,,Active,0.00,,0
+C107820,A463784,P002,Offshore Account,Standard,2023-06-02,,Active,0.00,,7
+C107820,A463784,P010,Tax-Free Account,Standard,2023-07-18,,Active,0.00,,7
+C107822,A463786,P008,Retirement Annuity,Standard,2023-10-13,,Active,0.00,,15
+C107831,A463794,P003,Tax-Free Account,Premium,2024-10-12,,Active,49.00,,3
+C107842,A463806,P009,Standard Account,Standard,2026-06-11,,Active,0.00,,7
+C107842,A463806,P006,Retirement Annuity,Standard,2026-07-05,,Active,0.00,,3
+C107845,A463813,P006,Standard Account,Standard,2024-01-23,,Active,0.00,,7
+C107849,A463815,P006,Standard Account,Standard,2024-07-13,,Active,0.00,,3
+C107849,A463815,P009,Offshore Account,Standard,2024-08-31,2025-07-23,Cancelled,0.00,Switched product,3
+C107864,A463822,P009,Standard Account,Standard,2025-03-24,2026-02-21,Cancelled,0.00,Switched product,15
+C107875,A463830,P010,Tax-Free Account,Standard,2025-07-13,,Active,0.00,,0
+C107875,A463830,P009,Tax-Free Account,Standard,2026-02-22,,Active,0.00,,15
+C107875,A463830,P006,Tax-Free Account,Standard,2025-08-02,,Trial,0.00,,1
+C107879,A463833,P008,Tax-Free Account,Standard,2022-09-29,,Active,0.00,,7
+C107881,A463837,P010,Standard Account,Standard,2024-11-12,,Trial,0.00,,1
+C107889,A463842,P011,Standard Account,Standard,2026-08-23,,Trial,0.00,,7
+C107889,A463842,P007,Tax-Free Account,Standard,2026-04-18,,Active,0.00,,0
+C107889,A463842,P004,Standard Account,Standard,2025-12-27,,Active,0.00,,15
+C107898,A463850,P002,Tax-Free Account,Standard,2026-05-21,,Active,0.00,,3
+C107898,A463850,P004,Offshore Account,Premium,2026-01-16,,Active,49.00,,15
+C107905,A463856,P005,Offshore Account,Standard,2024-07-26,,Active,0.00,,0
+C107905,A463856,P006,Offshore Account,Standard,2023-11-17,2024-08-25,Cancelled,0.00,Low usage,7
+C107905,A463856,P005,Tax-Free Account,Standard,2024-10-19,,Active,0.00,,3
+C107913,A463863,P001,Tax-Free Account,Standard,2024-06-29,,Active,0.00,,0
+C107913,A463863,P004,Offshore Account,Standard,2023-09-16,,Active,0.00,,7
+C107914,A463867,P005,Tax-Free Account,Standard,2026-05-26,,Active,0.00,,1
+C107914,A463867,P007,Offshore Account,Premium Plus,2025-11-02,,Trial,99.00,,1
+C107916,A463868,P011,Tax-Free Account,Standard,2024-08-17,,Active,0.00,,7
+C107917,A463870,P008,Standard Account,Standard,2025-11-23,,Active,0.00,,7
+C107917,A463870,P012,Standard Account,Standard,2025-08-12,2026-08-26,Cancelled,0.00,Low usage,0
+C107921,A463871,P011,Standard Account,Standard,2025-08-05,,Active,0.00,,1
+C107931,A463879,P006,Standard Account,Standard,2024-11-07,,Active,0.00,,3
+C107937,A463885,P003,Retirement Annuity,Standard,2024-05-21,2024-12-19,Cancelled,0.00,Cost,0
+C107942,A463890,P012,Standard Account,Standard,2026-02-07,,Active,0.00,,1
+C107942,A463890,P005,Offshore Account,Standard,2026-01-20,,Active,0.00,,3
+C107946,A463892,P012,Standard Account,Standard,2024-06-08,2024-08-04,Cancelled,0.00,Service issue,15
+C107946,A463892,P006,Tax-Free Account,Standard,2023-07-15,,Active,0.00,,7
+C107946,A463892,P003,Offshore Account,Premium,2023-09-26,2024-04-04,Cancelled,49.00,Service issue,3
+C107949,A463894,P003,Standard Account,Standard,2025-11-07,,Active,0.00,,15
+C107954,A463896,P003,Standard Account,Standard,2023-12-18,,Active,0.00,,0
+C107954,A463896,P003,Standard Account,Standard,2023-09-21,,Active,0.00,,1
+C107954,A463896,P008,Tax-Free Account,Standard,2024-04-30,2024-11-20,Cancelled,0.00,Low usage,1
+C107961,A463905,P009,Tax-Free Account,Premium Plus,2023-04-29,,Active,99.00,,3
+C107966,A463908,P002,Tax-Free Account,Standard,2025-07-23,2026-06-24,Cancelled,0.00,Service issue,15
+C107968,A463910,P007,Tax-Free Account,Standard,2023-02-19,2023-12-15,Cancelled,0.00,Service issue,1
+C107971,A463914,P011,Tax-Free Account,Standard,2026-08-02,,Active,0.00,,3
+C107978,A463922,P005,Standard Account,Standard,2024-06-25,,Active,0.00,,0
+C107981,A463926,P008,Offshore Account,Standard,2024-10-22,2024-11-21,Cancelled,0.00,Service issue,1
+C107990,A463937,P007,Tax-Free Account,Standard,2026-04-02,,Active,0.00,,7
+C107992,A463944,P006,Standard Account,Standard,2024-12-06,,Active,0.00,,3
+C107992,A463944,P011,Standard Account,Standard,2025-05-29,2025-11-23,Cancelled,0.00,Low usage,3
+C107994,A463947,P002,Standard Account,Standard,2024-09-16,,Active,0.00,,7
+C107995,A463951,P012,Standard Account,Standard,2026-06-03,,Active,0.00,,0
+C107999,A463958,P001,Standard Account,Standard,2024-10-26,,Active,0.00,,15
+C108000,A463959,P011,Standard Account,Standard,2023-06-24,,Active,0.00,,15
+C108000,A463959,P010,Tax-Free Account,Standard,2023-09-03,,Active,0.00,,3
+C108002,A463961,P005,Tax-Free Account,Standard,2026-01-04,,Active,0.00,,7
+C108002,A463961,P002,Tax-Free Account,Standard,2025-11-20,,Active,0.00,,3
+C108013,A463971,P007,Standard Account,Standard,2024-05-02,,Active,0.00,,15
+C108025,A463978,P002,Retirement Annuity,Standard,2024-05-11,,Active,0.00,,15
+C108025,A463978,P008,Tax-Free Account,Standard,2024-04-20,,Active,0.00,,1
+C108028,A463981,P011,Standard Account,Standard,2025-07-08,,Active,0.00,,7
+C108031,A463988,P010,Standard Account,Standard,2026-07-03,,Active,0.00,,1
+C108031,A463988,P012,Tax-Free Account,Standard,2026-05-03,,Trial,0.00,,3
+C108034,A463993,P010,Tax-Free Account,Standard,2023-09-11,,Active,0.00,,3
+C108037,A463997,P009,Standard Account,Standard,2025-08-19,2026-01-08,Cancelled,0.00,Switched product,1
+C108040,A464004,P012,Standard Account,Standard,2025-04-12,,Active,0.00,,15
+C108042,A464008,P006,Offshore Account,Standard,2024-10-24,,Active,0.00,,3
+C108043,A464012,P007,Standard Account,Standard,2023-11-21,,Active,0.00,,15
+C108045,A464013,P012,Standard Account,Standard,2025-08-09,,Active,0.00,,3
+C108048,A464017,P004,Retirement Annuity,Standard,2023-07-10,,Active,0.00,,7
+C108049,A464018,P007,Retirement Annuity,Standard,2026-08-27,,Active,0.00,,3
+C108052,A464019,P004,Tax-Free Account,Standard,2023-10-26,,Trial,0.00,,3
+C108052,A464019,P004,Tax-Free Account,Premium,2023-10-15,,Active,49.00,,7
+C108054,A464021,P002,Standard Account,Standard,2024-04-24,,Active,0.00,,0
+C108063,A464035,P007,Retirement Annuity,Premium Plus,2024-03-30,,Active,99.00,,3
+C108063,A464035,P001,Tax-Free Account,Premium,2024-09-16,,Active,49.00,,3
+C108069,A464040,P005,Retirement Annuity,Premium Plus,2023-07-26,2023-11-27,Cancelled,99.00,Switched product,7
+C108069,A464040,P012,Standard Account,Premium,2023-07-17,,Active,49.00,,7
+C108078,A464048,P012,Standard Account,Standard,2025-12-07,2026-02-22,Cancelled,0.00,Switched product,3
+C108084,A464054,P006,Standard Account,Standard,2026-02-25,,Active,0.00,,15
+C108086,A464056,P002,Standard Account,Standard,2024-12-18,,Expired,0.00,,7
+C108086,A464056,P005,Retirement Annuity,Premium,2024-07-08,,Active,49.00,,0
+C108092,A464062,P010,Standard Account,Standard,2025-09-30,,Trial,0.00,,3
+C108099,A464065,P003,Standard Account,Standard,2025-04-11,,Expired,0.00,,15
+C108101,A464066,P011,Standard Account,Standard,2024-01-06,,Active,0.00,,15
+C108101,A464066,P002,Offshore Account,Standard,2024-03-20,,Active,0.00,,0
+C108104,A464067,P012,Tax-Free Account,Standard,2024-06-16,2025-06-17,Cancelled,0.00,Cost,7
+C108114,A464073,P001,Tax-Free Account,Standard,2024-06-11,,Active,0.00,,15
+C108117,A464077,P010,Standard Account,Standard,2024-04-24,,Active,0.00,,7
+C108117,A464077,P003,Standard Account,Standard,2024-08-23,,Active,0.00,,1
+C108120,A464078,P007,Standard Account,Standard,2023-12-06,,Active,0.00,,15
+C108120,A464078,P011, Standard Account ,Standard,2024-01-01,,Active,0.00,,7
+C108120,A464078,P008,Tax-Free Account,Standard,2023-10-26,,Active,0.00,,1
+C108127,A464086,P004,Offshore Account,Standard,2025-08-21,,Active,0.00,,15
+C108131,A464088,P011,Standard Account,Standard,2024-02-28,,Active,0.00,,0
+C108131,A464088,P005,Standard Account,Standard,2023-11-12,,Active,0.00,,7
+C108136,A464094,P005,Tax-Free Account,Standard,2025-11-07,2026-06-16,Cancelled,0.00,Low usage,3
+C108140,A464096,P005,Tax-Free Account,Premium,2023-06-08,,Active,49.00,,15
+C108141,A464099,P004,Standard Account,Standard,2026-04-26,,Trial,0.00,,3
+C108141,A464099,P004,Offshore Account,Standard,2026-05-29,,Active,0.00,,7
+C108148,A464107,P006,Retirement Annuity,Standard,2025-02-10,,Active,0.00,,15
+C108149,A464110,P001,Tax-Free Account,Standard,2024-12-29,,Active,0.00,,0
+C108149,A464110,P003,Standard Account,Standard,2025-06-23,,Active,0.00,,1
+C108159,A464119,P004,Tax-Free Account,Standard,2026-08-12,,Active,0.00,,0
+C108169,A464126,P005,Tax-Free Account,Standard,2023-06-13,2024-06-26,Cancelled,0.00,Cost,3
+C108175,A464128,P012,Retirement Annuity,Standard,2025-05-15,,Active,0.00,,7
+C108179,A464134,P006,Standard Account,Standard,2023-11-29,,Trial,0.00,,0
+C108179,A464134,P002,Standard Account,Standard,2024-06-22,,Active,0.00,,3
+C108182,A464135,P002,Offshore Account,Standard,2023-12-15,,Active,0.00,,3
+C108183,A464139,P007,Standard Account,Standard,2023-11-19,,Active,0.00,,0
+C108183,A464139,P003,Tax-Free Account,Standard,2024-06-17,,Active,0.00,,15
+C108185,A464143,P011,Tax-Free Account,Premium,2025-02-17,,Active,49.00,,1
+C108185,A464143,P008,Tax-Free Account,Standard,2024-12-03,2025-12-03,Cancelled,0.00,Cost,7
+C108195,A464148,P004,Standard Account,Standard,2026-01-19,,Active,0.00,,0
+C108199,A464149,P008,Standard Account,Standard,2025-10-24,,Active,0.00,,0
+C108199,A464149,P008,Tax-Free Account,Standard,2024-11-20,,Trial,0.00,,1
+C108199,A464149,P001,Offshore Account,Premium,2025-03-15,,Active,49.00,,7
+C108205,A464155,P004,Tax-Free Account,Standard,2024-08-10,,Active,0.00,,7
+C108206,A464158,P003,Tax-Free Account,Standard,2024-12-17,,Active,0.00,,15
+C108208,A464160,P005, Offshore Account ,Standard,2023-08-12,,Active,0.00,,0
+C108215,A464165,P003,Offshore Account,Standard,2024-09-11,2025-06-11,Cancelled,0.00,Cost,1
+C108215,A464165,P003,Standard Account,Standard,2024-10-05,,Active,0.00,,0
+C108215,A464165,P012,Offshore Account,Standard,2024-09-11,,Active,0.00,,3
+C108218,A464167,P010,Tax-Free Account,Premium,2023-11-05,,Active,49.00,,15
+C108225,A464175,P011,Tax-Free Account,Standard,2025-04-16,,Active,0.00,,7
+C108229,A464179,P003,Tax-Free Account,Standard,2024-04-22,2025-03-26,Cancelled,0.00,Low usage,0
+C108233,A464184,P008,Standard Account,Standard,2025-10-01,,Active,0.00,,1
+C108233,A464184,P003,Retirement Annuity,Standard,2025-08-26,,Active,0.00,,0
+C108244,A464193,P009,Standard Account,Standard,2024-01-02,2024-12-09,Cancelled,0.00,Switched product,1
+C108247,A464195,P003,Offshore Account,standard,2024-01-25,,Active,0.00,,1
+C108251,A464196,P004,Offshore Account,Standard,2025-12-14,,Active,0.00,,3
+C108257,A464201,P007,Retirement Annuity,Standard,2026-06-22,,Trial,0.00,,3
+C108257,A464201,P009,Tax-Free Account,Standard,2026-01-31,,Active,0.00,,0
+C108260,A464202,P010,Tax-Free Account,Standard,2023-01-28,,Active,0.00,,7
+C108272,A464206,P002,Standard Account,Standard,2023-02-20,,Active,0.00,,15
+C108272,A464206,P003,Standard Account,Standard,2023-03-18,,Active,0.00,,7
+C108280,A464212,P011,Offshore Account,Standard,2025-05-27,,Active,0.00,,7
+C108280,A464212,P004,Retirement Annuity,Premium,2024-09-21,,Active,49.00,,3
+C108281,A464216,P005,Retirement Annuity,Standard,2025-08-17,,Active,0.00,,3
+C108284,A464218,P004,Retirement Annuity,Standard,2024-11-11,,Active,0.00,,7
+C108286,A464222,P002,Tax-Free Account,Premium Plus,2024-05-27,,Active,99.00,,15
+C108295,A464238,P001,Tax-Free Account,Premium,2025-12-06,,Active,49.00,,3
+C108297,A464244,P012,Offshore Account,Premium,2026-05-29,,Active,49.00,,7
+C108297,A464244,P011,Tax-Free Account,Standard,2026-08-07,,Active,0.00,,0
+C108301,A464248,P008,Standard Account,Standard,2024-11-22,,Active,0.00,,3
+C108310,A464258,P001,Tax-Free Account,standard,2026-07-17,,Active,0.00,,3
+C108317,A464262,P012,Retirement Annuity,Standard,2025-05-22,,Active,0.00,,3
+C108331,A464274,P009,Standard Account,Standard,2023-08-07,,Active,0.00,,0
+C108335,A464276,P007,Offshore Account,Standard,2026-05-10,,Active,0.00,,1
+C108340,A464278,P010,Standard Account,Standard,2024-10-08,,Active,0.00,,15
+C108351,A464285,P011,Retirement Annuity,Premium,2025-11-24,,Trial,49.00,,7
+C108356,A464287,P009,Standard Account,Standard,2025-06-30,2025-12-01,Cancelled,0.00,Switched product,7
+C108368,A464297,P011,Tax-Free Account,Standard,2023-11-29,,Active,0.00,,7
+C108368,A464297,P010,Retirement Annuity,Standard,2022-12-14,2023-05-27,Cancelled,0.00,Service issue,3
+C108379,A464311,P005,Tax-Free Account,Standard,2025-04-12,,Active,0.00,,0
+C108379,A464311,P012,Tax-Free Account,Standard,2025-01-07,2025-04-24,Cancelled,0.00,Low usage,1
+C108383,A464315,P004,Standard Account,Standard,2024-03-12,,Active,0.00,,7
+C108383,A464315,P003,Standard Account,Standard,2024-10-22,,Active,0.00,,3
+C108387,A464320,P004,Tax-Free Account,Standard,2024-06-30,2025-02-11,Cancelled,0.00,Low usage,1
+C108387,A464320,P006,Standard Account,Standard,2023-12-18,,Active,0.00,,3
+C108390,A464324,P010,Standard Account,Standard,2024-02-22,2024-11-17,Cancelled,0.00,Low usage,15
+C108390,A464324,P010,Standard Account,Premium Plus,2023-05-31,,Active,99.00,,3
+C108392,A464329,P006,Tax-Free Account,Standard,2024-05-29,,Active,0.00,,7
+C108398,A464334,P012,Tax-Free Account,Standard,2023-09-04,,Active,0.00,,0
+C108402,A464337,P005,Standard Account,Standard,2023-03-17,,Active,0.00,,7
+C108402,A464337,P010,Tax-Free Account,Standard,2023-05-09,2024-03-07,Cancelled,0.00,Cost,0
+C108409,A464344,P012,Retirement Annuity,Standard,2025-07-10,2025-10-06,Cancelled,0.00,Service issue,7
+C108415,A464352,P009,Standard Account,Standard,2024-10-18,2025-01-16,Cancelled,0.00,Low usage,0
+C108415,A464352,P005,Retirement Annuity,Standard,2024-10-04,,Active,0.00,,15
+C108421,A464360,P008,Standard Account,Standard,2025-02-23,2025-06-03,Cancelled,0.00,Cost,0
+C108425,A464361,P003,Tax-Free Account,Standard,2024-05-27,,Active,0.00,,15
+C108426,A464365,P009,Tax-Free Account,Standard,2023-06-01,2023-12-29,Cancelled,0.00,Low usage,0
+C108426,A464365,P006,Tax-Free Account,Standard,2024-04-10,2025-05-22,Cancelled,0.00,Cost,0
+C108430,A464366,P011,Standard Account,Standard,2026-06-04,,Active,0.00,,1
+C108430,A464366,P007,Standard Account,Standard,2026-06-29,,Active,0.00,,0
+C108441,A464378,P007,Retirement Annuity,Standard,2025-10-26,2026-08-24,Cancelled,0.00,Switched product,7
+C108444,A464379,P008,Offshore Account,Standard,2023-10-07,,Active,0.00,,0
+C108448,A464383,P004,Standard Account,Standard,2023-10-29,,Active,0.00,,1
+C108451,A464384,P008,Standard Account,Standard,2026-05-17,,Active,0.00,,15
+C108451,A464384,P005,Offshore Account,Standard,2026-05-07,,Active,0.00,,3
+C108451,A464384,P007,Standard Account,Premium Plus,2025-05-18,,Active,99.00,,7
+C108457,A464394,P012,Tax-Free Account,Standard,2026-01-23,,Active,0.00,,15
+C108457,A464394,P010,Offshore Account,Standard,2025-09-27,,Expired,0.00,,1
+C108457,A464394,P008,Offshore Account,Standard,2026-04-14,,Active,0.00,,15
+C108463,A464401,P004,Retirement Annuity,Standard,2023-07-22,,Active,0.00,,7
+C108463,A464401,P008,Standard Account,Standard,2023-04-08,,Active,0.00,,7
+C108465,A464403,P008,Offshore Account,Standard,2023-11-01,2023-12-16,Cancelled,0.00,Cost,0
+C108472,A464406,P011,Standard Account,Standard,2025-08-22,,Active,0.00,,3
+C108473,A464410,P003,TAX-FREE ACCOUNT,Premium,2024-10-17,2025-05-10,Cancelled,49.00,Switched product,7
+C108474,A464411,P008,Tax-Free Account,Standard,2024-02-19,,Active,0.00,,7
+C108474,A464411,P012,Standard Account,Standard,2024-07-16,,Active,0.00,,3
+C108477,A464412,P010,Standard Account,Standard,2025-01-09,2025-05-19,Cancelled,0.00,Cost,7
+C108477,A464412,P002,Standard Account,Standard,2025-02-12,,Active,0.00,,1
+C108477,A464412,P011,Tax-Free Account,Standard,2025-07-04,2025-11-13,Cancelled,0.00,Cost,0
+C108479,A464417,P004,Retirement Annuity,Standard,2024-01-08,,Expired,0.00,,3
+C108479,A464417,P003,Standard Account,Standard,2023-06-30,,Active,0.00,,3
+C108480,A464421,P009,Offshore Account,Standard,2026-02-18,,Active,0.00,,1
+C108483,A464424,P012,Standard Account,Standard,2025-06-15,,Active,0.00,,3
+C108485,A464428,P005,Standard Account,Premium,2025-06-07,,Active,49.00,,15
+C108495,A464437,P001,Retirement Annuity,Premium,2024-01-29,2025-02-19,Cancelled,49.00,Low usage,0
+C108495,A464437,P005,Tax-Free Account,Standard,2024-04-14,2024-08-11,Cancelled,0.00,Cost,7
+C108497,A464439,P002,Retirement Annuity,Standard,2025-05-29,,Active,0.00,,3
+C108498,A464443,P005,Retirement Annuity,Standard,2026-07-19,,Active,0.00,,15
+C108506,A464454,P012,Offshore Account,Standard,2023-03-14,,Active,0.00,,1
+C108516,A464469,P007,Retirement Annuity,Standard,2025-11-25,,Active,0.00,,3
+C108516,A464469,P001,Offshore Account,Standard,2026-01-02,,Active,0.00,,7
+C108530,A464481,P002,Standard Account,Standard,2026-07-23,,Active,0.00,,7
+C108532,A464483,P008,Offshore Account,Standard,2024-05-25,,Active,0.00,,3
+C108536,A464484,P004,Tax-Free Account,Standard,2026-04-13,,Expired,0.00,,0
+C108543,A464489,P012,Standard Account,Standard,2026-05-22,,Active,0.00,,7
+C108543,A464489,P010,Standard Account,Standard,2025-09-24,,Active,0.00,,3
+C108546,A464493,P012,Offshore Account,Premium,2025-08-27,,Active,49.00,,3
+C108547,A464497,P007,Offshore Account,Standard,2024-06-25,2025-07-12,Cancelled,0.00,Switched product,3
+C108548,A464500,P002,Standard Account,Standard,2026-04-07,,Active,0.00,,7
+C108560,A464507,P001,Offshore Account,Standard,2023-12-04,,Trial,0.00,,7
+C108562,A464510,P010,Tax-Free Account,Standard,2025-01-18,,Active,0.00,,15
+C108564,A464512,P003,Tax-Free Account,Standard,2024-12-12,,Active,0.00,,15
+C108564,A464512,P006,Tax-Free Account,Standard,2025-03-21,2026-03-14,Cancelled,0.00,Low usage,15
+C108568,A464516,P005,Tax-Free Account,Standard,2024-06-15,2024-11-07,Cancelled,0.00,Low usage,0
+C108568,A464516,P005,Tax-Free Account,Standard,2025-02-17,2025-07-19,Cancelled,0.00,Low usage,15
+C108572,A464520,P003,Tax-Free Account,Standard,2026-03-28,,Active,0.00,,0
+C108582,A464532,P006,Offshore Account,Standard,2025-04-17,,Trial,0.00,,0
+C108582,A464532,P004,Offshore Account,Standard,2025-03-20,2025-10-07,Cancelled,0.00,Low usage,1
+C108582,A464532,P011,Standard Account,Standard,2025-11-17,,Active,0.00,,3
+C108586,A464533,P005,Tax-Free Account,Premium,2025-05-07,,Active,49.00,,1
+C108586,A464533,P009,Offshore Account,Standard,2025-01-10,2025-06-09,Cancelled,0.00,Low usage,7
+C108601,A464543,P008,Standard Account,Standard,2024-12-14,,Active,0.00,,7
+C108603,A464546,P009,Standard Account,Premium,2025-06-10,,Active,49.00,,3
+C108606,A464547,P008,Offshore Account,Standard,2026-01-28,,Active,0.00,,7
+C108610,A464548,P006,Standard Account,Premium,2023-04-05,,Active,49.00,,3
+C108610,A464548,P008,Offshore Account,Standard,2024-01-08,2024-07-15,Cancelled,0.00,Cost,7
+C108613,A464551,P001,Tax-Free Account,Standard,2025-12-11,,Active,0.00,,15
+C108613,A464551,P001,Retirement Annuity,Standard,2025-10-28,,Active,0.00,,15
+C108617,A464557,P011,Retirement Annuity,Standard,2024-11-16,,Active,0.00,,3
+C108617,A464557,P009,Tax-Free Account ,Standard,2024-11-10,,Active,0.00,,0
+C108618,A464559,P009,Standard Account,Standard,2025-11-04,,Active,0.00,,3
+C108618,A464559,P010,Tax-Free Account,Standard,2025-11-06,,Active,0.00,,7
+C108620,A464563,P006,Standard Account,Standard,2025-12-29,2026-03-01,Cancelled,0.00,Switched product,15
+C108636,A464583,P002,Standard Account,Premium,2023-12-13,2024-09-10,Cancelled,49.00,Service issue,3
+C108639,A464586,P010,Standard Account,Standard,2025-09-12,,Active,0.00,,1
+C108640,A464587,P007,Offshore Account,Standard,2024-04-11,,Active,0.00,,0
+C108655,A464597,P010,Retirement Annuity,Standard,2023-08-28,,Active,0.00,,0
+C108659,A464601,P011,Tax-Free Account,Standard,2025-01-01,2026-02-25,Cancelled,0.00,Service issue,7
+C108663,A464606,P007,Tax-Free Account,Standard,2024-03-29,,Active,0.00,,7
+C108663,A464606,P006,Standard Account,Standard,2024-04-11,,Active,0.00,,0
+C108673,A464612,P005,Tax-Free Account,Standard,2024-01-22,2024-03-13,Cancelled,0.00,Switched product,15
+C108681,A464623,P002,Tax-Free Account,Standard,2025-08-15,,Active,0.00,,3
+C108683,A464627,P010,Offshore Account,Standard,2024-01-10,2024-03-27,Cancelled,0.00,Low usage,0
+C108684,A464628,P009,Offshore Account,Premium,2023-11-01,,Active,49.00,,7
+C108684,A464628,P004,Standard Account,Standard,2024-07-30,2025-07-22,Cancelled,0.00,Cost,7
+C108684,A464628,P004,TAX-FREE ACCOUNT,Standard,2024-03-08,,Active,0.00,,7
+C108688,A464638,P012,Tax-Free Account,Standard,2026-01-15,,Active,0.00,,3
+C108697,A464644,P009,Tax-Free Account,Standard,2023-09-16,,Expired,0.00,,7
+C108700,A464645,P005,Standard Account,Premium Plus,2023-07-19,,Active,99.00,,1
+C108700,A464645,P007,Tax-Free Account,Standard,2023-08-24,,Active,0.00,,1
+C108700,A464645,P008,Offshore Account,Standard,2023-12-10,,Active,0.00,,3
+C108717,A464653,P009,Offshore Account,Standard,2023-09-04,,Active,0.00,,1
+C108721,A464656,P010,Tax-Free Account,Standard,2025-09-13,2026-01-08,Cancelled,0.00,Cost,1
+C108721,A464656,P010,Standard Account,Standard,2025-10-22,,Active,0.00,,15
+C108726,A464662,P006,Tax-Free Account,Standard,2024-06-15,2025-06-06,Cancelled,0.00,Cost,15
+C108726,A464662,P005,Offshore Account,Standard,2025-02-06,2025-10-07,Cancelled,0.00,Low usage,0
+C108727,A464665,P002,Tax-Free Account,Standard,2026-05-18,,Trial,0.00,,15
+C108732,A464670,P010,Standard Account,Standard,2026-03-30,,Active,0.00,,3
+C108734,A464671,P008,Offshore Account,Standard,2026-08-05,,Active,0.00,,0
+C108736,A464675,P012,Tax-Free Account,Standard,2025-03-26,,Active,0.00,,0
+C108737,A464678,P009,Standard Account,Standard,2025-08-30,2026-07-13,Cancelled,0.00,Low usage,3
+C108741,A464680,P010,Tax-Free Account,Standard,2025-03-07,2026-02-27,Cancelled,0.00,Low usage,0
+C108741,A464680,P012,Standard Account,Standard,2025-04-27,,Active,0.00,,7
+C108750,A464688,P006,Offshore Account,Premium,2025-12-01,,Active,49.00,,3
+C108750,A464688,P001,Tax-Free Account,Standard,2025-08-03,,Active,0.00,,1
+C108758,A464693,P006,Tax-Free Account,Standard,2025-05-21,,Active,0.00,,7
+C108758,A464693,P008,Standard Account,Standard,2025-04-06,,Active,0.00,,0
+C108763,A464700,P003,Offshore Account,Standard,2024-05-29,2025-07-12,Cancelled,0.00,Cost,3
+C108763,A464700,P006,Standard Account,Standard,2024-04-23,,Active,0.00,,7
+C108763,A464700,P005,Tax-Free Account,Standard,2024-04-14,,Active,0.00,,3
+C108775,A464708,P004,Offshore Account,Standard,2026-03-15,,Trial,0.00,,7
+C108792,A464721,P004,Tax-Free Account,Standard,2025-09-14,,Active,0.00,,7
+C108800,A464728,P008,Standard Account,Standard,2024-12-28,2025-07-19,Cancelled,0.00,Low usage,7
+C108818,A464741,P006,Offshore Account,Standard,2023-11-07,2024-05-10,Cancelled,0.00,Switched product,3
+C108818,A464741,P011,Retirement Annuity,Premium ,2023-05-17,2023-08-26,Cancelled,49.00,Low usage,15
+C108820,A464742,P006,Tax-Free Account,Premium Plus,2024-09-27,,Active,99.00,,7
+C108820,A464742,P006,Retirement Annuity,Standard,2025-04-02,,Active,0.00,,15
+C108820,A464742,P003,Standard Account,Standard,2025-02-25,,Active,0.00,,15
+C108830,A464752,P003,Standard Account,Standard,2026-05-02,,Active,0.00,,0
+C108832,A464756,P007,Standard Account,Standard,2023-08-25,,Active,0.00,,0
+C108832,A464756,P011,Offshore Account,Premium,2023-10-20,,Active,49.00,,7
+C108836,A464764,P010,Standard Account,Standard,2024-05-24,2025-04-06,Cancelled,0.00,Cost,0
+C108836,A464764,P009,Standard Account,Standard,2024-11-02,,Active,0.00,,7
+C108836,A464764,P008,Tax-Free Account,Standard,2025-01-29,,Active,0.00,,1
+C108844,A464771,P011,Tax-Free Account,Premium Plus,2023-03-27,,Active,99.00,,15
+C108844,A464771,P002,Tax-Free Account,Standard,2024-04-29,,Active,0.00,,15
+C108850,A464776,P006,Standard Account,Standard,2024-04-06,,Active,0.00,,7
+C108850,A464776,P011,Tax-Free Account,Standard,2025-04-02,,Active,0.00,,7
+C108850,A464776,P005,Tax-Free Account,Standard,2024-08-25,2024-11-29,Cancelled,0.00,Low usage,1
+C108857,A464786,P011,Standard Account,Premium,2025-10-09,,Active,49.00,,7
+C108862,A464793,P006,Tax-Free Account,Standard,2023-11-30,,Trial,0.00,,3
+C108862,A464793,P012,Standard Account,Premium Plus,2023-05-23,,Active,99.00,,7
+C108871,A464808,P002,Offshore Account,Standard,2024-09-01,,Active,0.00,,7
+C108871,A464808,P006,Standard Account,Standard,2024-07-28,,Active,0.00,,1
+C108877,A464814,P005,Standard Account,Standard,2023-10-06,,Active,0.00,,7
+C108880,A464821,P011,Offshore Account,Standard,2025-06-20,,Trial,0.00,,1
+C108882,A464822,P007,Retirement Annuity,Standard,2026-06-28,,Active,0.00,,3
+C108888,A464830,P001,Tax-Free Account,Standard,2025-11-09,,Active,0.00,,15
+C108893,A464836,P008,Tax-Free Account,Standard,2026-07-17,,Active,0.00,,7
+C108895,A464839,P007,Offshore Account,Standard,2024-12-31,,Trial,0.00,,0
+C108895,A464839,P004,Standard Account,Standard,2024-06-21,,Active,0.00,,3
+C108899,A464843,P004,Tax-Free Account,Standard,2026-07-22,,Active,0.00,,0
+C108903,A464846,P003,Retirement Annuity,Standard,2024-03-14,,Active,0.00,,15
+C108905,A464847,P001,Tax-Free Account,Standard,2024-04-01,,Active,0.00,,0
+C108905,A464847,P012,Tax-Free Account,Standard,2024-10-23,2025-01-13,Cancelled,0.00,Service issue,0
+C108910,A464852,P003,Tax-Free Account,Standard,2024-06-04,2025-01-25,Cancelled,0.00,Switched product,1
+C108910,A464852,P012,Standard Account,Standard,2024-05-10,,Active,0.00,,3
+C108918,A464857,P005,Tax-Free Account,Standard,2025-01-12,,Active,0.00,,15
+C108918,A464857,P009,Retirement Annuity,Standard,2025-08-13,,Active,0.00,,15
+C108920,A464860,P007,Standard Account,Standard,2023-08-05,,Active,0.00,,15
+C108920,A464860,P003,Offshore Account,Standard,2023-06-11,,Active,0.00,,0
+C108925,A464865,P002,Tax-Free Account,Standard,2025-08-30,,Active,0.00,,0
+C108932,A464871,P004,Retirement Annuity,Standard,2024-07-03,2024-12-13,Cancelled,0.00,Low usage,7
+C108932,A464871,P009,Tax-Free Account,Standard,2024-03-23,,Active,0.00,,0
+C108935,A464875,P002,Retirement Annuity,Standard,2024-03-22,,Trial,0.00,,0
+C108941,A464879,P001,Standard Account,Premium,2025-01-06,,Active,49.00,,1
+C108944,A464880,P010,Tax-Free Account,Premium,2025-05-31,,Active,49.00,,0
+C108944,A464880,P009,Standard Account,Standard,2025-07-19,,Trial,0.00,,1
+C108944,A464880,P004,Tax-Free Account,Standard,2024-10-08,,Trial,0.00,,7
+C108946,A464883,P005,Tax-Free Account,Standard,2026-05-22,,Active,0.00,,0
+C108946,A464883,P003,Tax-Free Account,Standard,2026-02-22,,Active,0.00,,15
+C108946,A464883,P010,Tax-Free Account,Standard,2026-08-23,,Active,0.00,,0
+C108950,A464887,P007,Standard Account,Standard,2026-08-01,,Active,0.00,,1
+C108956,A464891,P003,Offshore Account,Standard,2024-01-01,2025-02-12,Cancelled,0.00,Low usage,1
+C108956,A464891,P004,Retirement Annuity,Premium Plus,2023-12-01,,Trial,99.00,,15
+C108956,A464891,P002,Tax-Free Account,Standard,2023-12-15,,Expired,0.00,,3
+C108960,A464892,P007,Standard Account,Standard,2026-06-12,,Active,0.00,,7
+C108973,A464905,P004,Retirement Annuity,Premium,2023-10-02,2024-04-09,Cancelled,49.00,Cost,3
+C108996,A464922,P011,Offshore Account,Standard,2026-08-13,,Active,0.00,,7
+C109000,A464928,P004,Retirement Annuity,Standard,2025-07-12,,Active,0.00,,7
+C109000,A464928,P010,Offshore Account,Standard,2024-10-31,,Active,0.00,,1
+C109000,A464928,P001,Standard Account,Standard,2024-11-21,,Active,0.00,,7
+C109004,A464931,P008,Retirement Annuity,Standard,2023-09-01,,Active,0.00,,7
+C109004,A464931,P011,Retirement Annuity,Premium,2024-01-02,,Active,49.00,,15
+C109010,A464938,P011,Tax-Free Account,Premium,2024-09-17,2025-05-20,Cancelled,49.00,Low usage,7
+C109010,A464938,P010,Standard Account,Premium,2023-12-23,,Active,49.00,,3
+C109025,A464952,P012,Tax-Free Account,Standard,2026-08-06,,Active,0.00,,7
+C109029,A464955,P011,Standard Account,Standard,2024-02-05,2024-07-27,Cancelled,0.00,Cost,0
+C109039,A464965,P003,Tax-Free Account,Standard,2024-06-28,2025-07-23,Cancelled,0.00,Low usage,3
+C109053,A464973,P007,Tax-Free Account,Standard,2023-07-01,,Trial,0.00,,3
+C109056,A464978,P010,Retirement Annuity,Standard,2026-07-31,,Active,0.00,,1
+C109059,A464982,P008,Standard Account,Standard,2024-07-04,,Expired,0.00,,3
+C109059,A464982,P008,Standard Account,Standard,2024-05-28,,Active,0.00,,3
+C109059,A464982,P004,Standard Account,Standard,2024-12-06,2025-03-17,Cancelled,0.00,Low usage,15
+C109064,A464987,P001,Offshore Account,Standard,2025-08-05,,Active,0.00,,15
+C109067,A464988,P012,Tax-Free Account,Standard,2023-12-25,2024-10-19,Cancelled,0.00,Low usage,0
+C109070,A464990,P003,Offshore Account,Standard ,2026-07-31,,Active,0.00,,1
+C109072,A464993,P011,Tax-Free Account,Standard,2026-05-31,,Active,0.00,,7
+C109072,A464993,P006,OFFSHORE ACCOUNT,Standard,2025-12-31,,Active,0.00,,15
+C109073,A464995,P011,Standard Account,Standard,2024-01-09,,Active,0.00,,1
+C109073,A464995,P009,Standard Account,Standard,2023-11-02,2024-01-18,Cancelled,0.00,Low usage,1
+C109082,A465010,P006,Tax-Free Account,Standard,2024-11-26,,Active,0.00,,1
+C109083,A465011,P007,Tax-Free Account,Standard,2023-10-13,,Active,0.00,,3
+C109086,A465015,P012,Retirement Annuity,Premium,2025-12-13,,Active,49.00,,0
+C109087,A465017,P001,Standard Account,Standard,2023-09-08,,Active,0.00,,0
+C109094,A465020,P012,Tax-Free Account,Standard,2025-05-19,,Active,0.00,,0
+C109097,A465022,P012,Tax-Free Account,Standard,2023-03-09,,Active,0.00,,0
+C109100,A465026,P009,Offshore Account,Standard,2023-06-18,,Active,0.00,,3
+C109103,A465028,P011,Standard Account,Standard,2025-07-21,2025-10-05,Cancelled,0.00,Switched product,7
+C109103,A465028,P004,Tax-Free Account,Premium,2025-07-19,,Active,49.00,,15
+C109110,A465034,P008,Tax-Free Account,Standard,2023-04-19,,Active,0.00,,1
+C109112,A465035,P001,Standard Account,Standard,2025-09-28,2026-04-27,Cancelled,0.00,Cost,0
+C109114,A465038,P007,Retirement Annuity,Standard,2026-01-18,,Active,0.00,,3
+C109114,A465038,P012,Retirement Annuity,Standard,2026-07-23,,Expired,0.00,,0
+C109118,A465039,P009,Offshore Account,Standard,2023-07-07,,Active,0.00,,0
+C109126,A465048,P005,Offshore Account,Premium,2026-08-17,,Active,49.00,,7
+C109131,A465054,P012,Standard Account,Standard,2025-03-12,,Active,0.00,,0
+C109131,A465054,P009,Standard Account,Standard,2024-09-13,2024-12-28,Cancelled,0.00,Service issue,15
+C109131,A465054,P011,Retirement Annuity,Standard,2025-05-26,2025-07-04,Cancelled,0.00,Cost,0
+C109137,A465066,P007,Standard Account,Standard,2025-09-07,,Active,0.00,,7
+C109142,A465074,P001,Tax-Free Account,Standard,2025-02-06,,Active,0.00,,7
+C109142,A465074,P005,Tax-Free Account,Standard,2024-06-19,,Active,0.00,,7
+C109148,A465078,P007,Tax-Free Account,Standard,2023-06-21,,Active,0.00,,0
+C109155,A465082,P004,Tax-Free Account,Standard,2024-05-25,,Active,0.00,,1
+C109174,A465099,P009,Standard Account,Standard,2025-07-05,,Active,0.00,,1
+C109174,A465099,P004,Standard Account,Standard,2025-03-05,,Active,0.00,,0
+C109178,A465104,P009,Tax-Free Account,Standard,2024-05-11,,Active,0.00,,7
+C109181,A465108,P004,Tax-Free Account,Standard,2025-05-04,2026-02-28,Cancelled,0.00,Service issue,7
+C109181,A465108,P012,Tax-Free Account,Standard,2025-01-21,,Active,0.00,,7
+C109181,A465108,P002,Offshore Account,Standard,2025-03-12,,Expired,0.00,,1
+C109182,A465109,P012,Standard Account,Standard,2023-12-07,2024-04-06,Cancelled,0.00,Low usage,15
+C109194,A465117,P004,Tax-Free Account,Standard,2022-11-04,,Active,0.00,,3
+C109203,A465124,P007,Retirement Annuity,Standard,2025-07-15,,Active,0.00,,3
+C109208,A465131,P004,Tax-Free Account,Premium Plus,2024-08-31,,Active,99.00,,1
+C109215,A465137,P005,Retirement Annuity,Standard,2026-04-13,,Active,0.00,,15
+C109216,A465138,P010,Retirement Annuity,Standard,2023-08-12,,Active,0.00,,15
+C109217,A465141,P003,Tax-Free Account,Standard,2025-05-13,2025-09-06,Cancelled,0.00,Service issue,7
+C109222,A465144,P005,Tax-Free Account,Standard,2024-01-13,2024-03-17,Cancelled,0.00,Low usage,0
+C109238,A465152,P006,Standard Account,Premium Plus,2023-11-04,2024-03-31,Cancelled,99.00,Switched product,7
+C109242,A465155,P001,Offshore Account,Standard,2024-01-01,2024-03-04,Cancelled,0.00,Low usage,1
+C109242,A465155,P004,Offshore Account,Standard,2023-10-20,,Active,0.00,,1
+C109244,A465158,P012,Standard Account,Standard,2022-12-20,,Active,0.00,,7
+C109245,A465161,P007,Standard Account,Standard,2025-01-19,,Active,0.00,,15
+C109245,A465161,P004,Offshore Account,Standard,2025-10-10,,Active,0.00,,7
+C109262,A465176,P011,Tax-Free Account,Standard,2023-12-02,,Active,0.00,,3
+C109263,A465180,P004,Tax-Free Account,Standard,2026-04-13,,Active,0.00,,3
+C109263,A465180,P004,Tax-Free Account,Standard,2025-11-27,,Active,0.00,,3
+C109271,A465189,P012,Standard Account,Standard,2025-07-31,,Active,0.00,,15
+C109272,A465193,P001,Offshore Account,Standard,2026-08-09,,Active,0.00,,3
+C109272,A465193,P001,Tax-Free Account,Standard,2026-08-16,,Trial,0.00,,1
+C109276,A465196,P007,Standard Account,Standard,2025-07-22,2026-02-18,Cancelled,0.00,Cost,3
+C109276,A465196,P009,Tax-Free Account,Standard,2025-11-01,,Expired,0.00,,3
+C109280,A465200,P010,Standard Account,Standard,2024-10-15,,Active,0.00,,1
+C109280,A465200,P004,Standard Account,Standard,2024-11-27,,Active,0.00,,7
+C109283,A465204,P009,Tax-Free Account,Standard,2023-08-10,,Active,0.00,,3
+C109286,A465206,P006,Tax-Free Account,standard,2023-09-16,,Trial,0.00,,7
+C109286,A465206,P001,Retirement Annuity,Standard,2023-02-23,2023-12-28,Cancelled,0.00,Low usage,7
+C109286,A465206,P005,Retirement Annuity,Standard,2023-06-11,,Active,0.00,,1
+C109287,A465209,P006,Tax-Free Account,Standard,2024-09-16,,Trial,0.00,,15
+C109287,A465209,P001,Tax-Free Account,Standard,2024-07-14,,Active,0.00,,15
+C109288,A465211,P005,Standard Account,Standard,2023-12-16,2024-09-12,Cancelled,0.00,Service issue,15
+C109288,A465211,P001,Retirement Annuity,Standard,2024-03-28,,Active,0.00,,7
+C109302,A465220,P001,Offshore Account,Standard,2025-06-28,2025-11-01,Cancelled,0.00,Low usage,7
+C109302,A465220,P003,Retirement Annuity,Standard,2025-03-12,,Active,0.00,,15
+C109306,A465221,P011,Standard Account,Standard,2023-01-13,,Active,0.00,,7
+C109306,A465221,P001,Tax-Free Account,Standard,2023-01-22,2024-01-06,Cancelled,0.00,Low usage,0
+C109308,A465228,P010,Tax-Free Account,Standard,2025-07-28,2026-08-22,Cancelled,0.00,Low usage,3
+C109313,A465233,P011,Standard Account,Standard,2025-08-06,,Active,0.00,,0
+C109316,A465238,P009,Retirement Annuity,Standard,2023-08-18,,Active,0.00,,7
+C109316,A465238,P001,OFFSHORE ACCOUNT,Premium,2023-06-23,,Active,49.00,,7
+C109316,A465238,P004,Retirement Annuity,Standard,2023-01-24,,Active,0.00,,0
+C109324,A465244,P001,Standard Account,Standard,2024-07-10,,Active,0.00,,7
+C109330,A465251,P008,Offshore Account,Standard,2024-03-17,,Active,0.00,,3
+C109330,A465251,P004,Tax-Free Account,Standard,2023-12-11,,Active,0.00,,15
+C109339,A465258,P005,Standard Account,Standard,2025-08-18,,Active,0.00,,3
+C109339,A465258,P009,Offshore Account,Standard,2025-08-01,,Active,0.00,,7
+C109344,A465261,P012,Standard Account,Premium,2024-09-04,2024-11-14,Cancelled,49.00,Cost,15
+C109344,A465261,P008,Tax-Free Account,Standard,2024-07-12,,Active,0.00,,3
+C109360,A465278,P009,Standard Account,Standard,2026-05-24,2026-06-26,Cancelled,0.00,Cost,1
+C109367,A465282,P001,Standard Account,Standard,2026-03-22,,Active,0.00,,3
+C109367,A465282,P007,Tax-Free Account,Premium Plus,2026-01-28,,Active,99.00,,15
+C109369,A465286,P010,Offshore Account ,Standard,2026-01-16,2026-03-27,Cancelled,0.00,Service issue,7
+C109369,A465286,P004,Standard Account,Standard,2026-02-22,,Active,0.00,,1
+C109369,A465286,P005,Standard Account,Standard,2025-12-12,,Active,0.00,,0
+C109372,A465288,P005,Standard Account,Standard,2024-05-27,,Active,0.00,,1
+C109372,A465288,P003,Standard Account,Standard,2024-10-29,,Active,0.00,,15
+C109372,A465288,P009,Offshore Account,Premium,2023-10-24,,Active,49.00,,15
+C109376,A465292,P012,Tax-Free Account,Premium Plus,2023-10-20,,Trial,99.00,,0
+C109382,A465301,P011,Tax-Free Account,Standard,2025-07-31,,Active,0.00,,3
+C109388,A465307,P003,Standard Account,Standard,2025-10-27,,Active,0.00,,3
+C109391,A465311,P008,Tax-Free Account,Standard,2026-03-08,,Active,0.00,,0
+C109396,A465316,P001,Standard Account,Premium,2023-07-22,,Active,49.00,,3
+C109397,A465320,P002,Standard Account,Standard,2023-10-04,2024-05-21,Cancelled,0.00,Switched product,0
+C109397,A465320,P002,Retirement Annuity,Standard,2023-07-09,,Active,0.00,,7
+C109399,A465326,P003,Tax-Free Account,Standard,2024-06-03,,Active,0.00,,15
+C109401,A465328,P011,Tax-Free Account,Standard,2025-03-16,,Active,0.00,,7
+C109401,A465328,P011,Offshore Account,Standard,2025-02-16,2026-04-12,Cancelled,0.00,Cost,3
+C109421,A465345,P011,Standard Account,Standard,2024-07-21,,Active,0.00,,7
+C109421,A465345,P002,Offshore Account,Standard,2025-01-02,,Expired,0.00,,1
+C109422,A465346,P012,Retirement Annuity,Standard,2023-08-30,,Active,0.00,,3
+C109425,A465349,P006,Standard Account,Standard,2023-04-16,2023-11-15,Cancelled,0.00,Service issue,7
+C109431,A465355,P008,Retirement Annuity,Premium,2025-11-06,,Active,49.00,,3
+C109431,A465355,P003,Tax-Free Account,Standard,2025-10-22,,Active,0.00,,15
+C109434,A465357,P006,Standard Account,Standard,2025-04-14,,Active,0.00,,7
+C109437,A465361,P005,Offshore Account,Standard,2026-01-03,,Active,0.00,,7
+C109439,A465364,P011,Tax-Free Account,Premium ,2023-12-08,2024-08-21,Cancelled,49.00,Low usage,7
+C109444,A465368,P003,Tax-Free Account,Standard,2025-01-15,,Trial,0.00,,15
+C109449,A465372,P001,Standard Account,Premium,2025-03-26,,Active,49.00,,3
+C109451,A465378,P011,Retirement Annuity,Standard,2024-05-08,,Active,0.00,,1
+C109456,A465381,P011,Standard Account,Premium,2022-12-26,2024-01-27,Cancelled,49.00,Low usage,1
+C109460,A465382,P003,Standard Account,Standard,2025-12-03,,Trial,0.00,,3
+C109461,A465385,P004,Standard Account,Standard,2023-04-27,,Active,0.00,,7
+C109461,A465385,P005,Tax-Free Account,standard,2023-03-19,,Active,0.00,,15
+C109463,A465388,P005,Standard Account,Standard,2025-09-29,,Active,0.00,,3
+C109463,A465388,P007,Standard Account,Standard,2024-09-27,,Active,0.00,,1
+C109463,A465388,P012,Retirement Annuity,Standard,2024-10-02,2025-01-25,Cancelled,0.00,Cost,7
+C109464,A465392,P010,Tax-Free Account,Standard,2024-12-11,,Active,0.00,,15
+C109468,A465398,P001,Tax-Free Account,Standard,2026-08-30,,Active,0.00,,0
+C109471,A465402,P012,Tax-Free Account,Premium,2025-05-19,,Active,49.00,,3
+C109478,A465405,P012,Tax-Free Account,Standard,2026-03-05,,Active,0.00,,0
+C109488,A465415,P004,Offshore Account,Standard,2023-02-18,,Active,0.00,,7
+C109503,A465425,P008,Offshore Account,Standard,2023-11-28,2024-07-17,Cancelled,0.00,Cost,3
+C109511,A465434,P002,Tax-Free Account,Standard,2022-11-05,,Active,0.00,,1
+C109517,A465437,P009,Tax-Free Account,Standard,2026-07-30,,Active,0.00,,3
+C109530,A465451,P009,Tax-Free Account,Standard,2024-06-14,2025-02-14,Cancelled,0.00,Service issue,3
+C109530,A465451,P012,Tax-Free Account,Standard,2023-12-13,2024-02-03,Cancelled,0.00,Low usage,1
+C109534,A465452,P009,Standard Account,Standard,2024-06-17,,Active,0.00,,15
+C109534,A465452,P006,Standard Account,Premium,2024-07-10,,Active,49.00,,0
+C109534,A465452,P012,Standard Account,Standard,2025-02-12,2026-02-11,Cancelled,0.00,Switched product,1
+C109537,A465455,P011,Retirement Annuity,Standard,2025-03-07,2025-09-02,Cancelled,0.00,Switched product,15
+C109542,A465460,P004,Tax-Free Account,Standard,2024-04-05,,Active,0.00,,7
+C109556,A465475,P012,Offshore Account,Standard,2023-12-15,,Active,0.00,,7
+C109556,A465475,P006,Standard Account,Standard,2023-10-19,2024-05-04,Cancelled,0.00,Switched product,7
+C109557,A465479,P009,Offshore Account,Premium,2024-05-07,,Active,49.00,,15
+C109563,A465486,P012,Tax-Free Account,Standard,2026-04-11,,Active,0.00,,7
+C109563,A465486,P003,Tax-Free Account,Premium,2026-06-18,,Active,49.00,,1
+C109565,A465490,P009,Retirement Annuity,Standard,2024-05-10,,Active,0.00,,0
+C109572,A465498,P011,Tax-Free Account,Standard,2026-02-23,2026-05-23,Cancelled,0.00,Service issue,3
+C109576,A465505,P002,Standard Account,Standard,2024-07-11,,Active,0.00,,7
+C109577,A465506,P007,Tax-Free Account,Standard,2026-05-04,,Active,0.00,,15
+C109578,A465509,P005,Tax-Free Account,Standard,2024-04-21,,Active,0.00,,0
+C109580,A465511,P005,Standard Account,Standard,2026-08-10,,Active,0.00,,15
+C109587,A465515,P010,Offshore Account,Standard,2026-05-30,,Active,0.00,,15
+C109596,A465520,P012,Offshore Account,Premium,2025-09-11,,Active,49.00,,7
+C109599,A465526,P011,Retirement Annuity,Standard,2025-10-30,,Active,0.00,,7
+C109608,A465536,P012,Tax-Free Account,Standard,2024-03-23,,Active,0.00,,1
+C109608,A465536,P002,Offshore Account,Standard,2023-11-21,,Active,0.00,,15
+C109617,A465544,P005,Tax-Free Account,Standard,2024-10-12,,Active,0.00,,1
+C109617,A465544,P008,Standard Account,Standard,2024-05-11,,Active,0.00,,15
+C109621,A465548,P012,Tax-Free Account,Standard,2023-01-28,,Active,0.00,,7
+C109621,A465548,P002,Tax-Free Account,Standard,2023-02-15,,Active,0.00,,15
+C109625,A465552,P006,Tax-Free Account,Standard,2023-09-01,2024-04-09,Cancelled,0.00,Low usage,1
+C109629,A465556,P007,Standard Account,Standard,2025-04-14,,Active,0.00,,3
+C109630,A465558,P011,Offshore Account,Premium,2025-02-05,,Active,49.00,,1
+C109630,A465558,P007,Standard Account,Standard,2025-05-04,2026-01-02,Cancelled,0.00,Switched product,7
+C109634,A465562,P003,Standard Account,Premium Plus,2024-03-11,2024-12-28,Cancelled,99.00,Cost,3
+C109640,A465566,P003,Tax-Free Account,Standard,2023-11-11,,Active,0.00,,0
+C109640,A465566,P004,Standard Account,Standard,2023-09-17,2024-04-16,Cancelled,0.00,Switched product,15
+C109641,A465568,P006,Standard Account,Standard,2024-10-16,,Active,0.00,,0
+C109641,A465568,P001,Standard Account,Standard,2024-07-13,,Active,0.00,,1
+C109644,A465570,P003,Offshore Account,Standard,2025-03-27,,Active,0.00,,7
+C109645,A465574,P011,Standard Account,Standard,2024-01-12,,Active,0.00,,7
+C109648,A465575,P006,Retirement Annuity,Premium,2024-08-14,2024-10-31,Cancelled,49.00,Switched product,1
+C109653,A465581,P001,Retirement Annuity,Standard,2023-02-24,2024-02-22,Cancelled,0.00,Low usage,15
+C109656,A465583,P001,Standard Account,Standard,2026-08-29,,Active,0.00,,0
+C109658,A465587,P008,Standard Account,Premium,2024-11-18,,Active,49.00,,3
+C109661,A465591,P006,Standard Account,Premium,2023-09-26,,Active,49.00,,7
+C109666,A465597,P005,Retirement Annuity,Premium Plus,2023-12-25,,Active,99.00,,7
+C109675,A465603,P004,Standard Account,Standard,2024-05-25,,Active,0.00,,15
+C109683,A465612,P007,Standard Account,Standard,2024-04-10,2024-08-24,Cancelled,0.00,Service issue,15
+C109685,A465620,P008,Retirement Annuity,Standard,2026-07-31,,Active,0.00,,15
+C109687,A465623,P009,Offshore Account,Standard,2026-06-01,,Active,0.00,,1
+C109691,A465627,P007,Offshore Account,Standard,2026-07-27,,Active,0.00,,3
+C109691,A465627,P011,Offshore Account,Standard,2026-05-29,,Active,0.00,,15
+C109693,A465628,P004,Standard Account,Standard,2025-09-19,2026-03-18,Cancelled,0.00,Low usage,7
+C109693,A465628,P009,Tax-Free Account,Standard,2025-07-25,,Active,0.00,,0
+C109695,A465631,P009,Tax-Free Account,Standard,2023-09-30,,Active,0.00,,15
+C109695,A465631,P005,Tax-Free Account,Standard,2024-04-05,,Active,0.00,,1
+C109698,A465634,P006,Tax-Free Account,Standard,2026-08-13,,Active,0.00,,7
+C109704,A465641,P011,Standard Account,Standard,2026-06-29,,Active,0.00,,7
+C109707,A465642,P006,Standard Account,Standard,2024-06-15,,Active,0.00,,7
+C109707,A465642,P010,Tax-Free Account,Standard,2024-01-25,,Active,0.00,,3
+C109707,A465642,P007,Tax-Free Account,Standard,2024-04-04,,Active,0.00,,15
+C109712,A465649,P005,Tax-Free Account,Standard,2025-07-22,2025-09-05,Cancelled,0.00,Cost,15
+C109712,A465649,P012,Offshore Account,Standard,2024-11-09,,Active,0.00,,7
+C109712,A465649,P010,Tax-Free Account,Standard,2025-08-18,,Expired,0.00,,7
+C109722,A465662,P005,Standard Account,Standard,2026-05-16,,Active,0.00,,1
+C109725,A465664,P011,Standard Account,Premium,2026-06-14,,Active,49.00,,7
+C109729,A465668,P007,Standard Account,Standard,2024-08-19,,Active,0.00,,7
+C109730,A465672,P007,Tax-Free Account,Standard,2024-09-04,,Active,0.00,,15
+C109736,A465675,P010,Standard Account,Standard,2024-02-10,,Active,0.00,,3
+C109750,A465691,P006,Offshore Account,Standard,2025-07-10,,Active,0.00,,7
+C109753,A465693,P006,Standard Account,Standard,2025-02-18,,Active,0.00,,0
+C109764,A465698,P006,Standard Account,Premium Plus,2026-07-28,,Active,99.00,,15
+C109769,A465701,P010,Tax-Free Account,Standard,2024-01-06,2024-02-09,Cancelled,0.00,Switched product,15
+C109781,A465715,P005,Offshore Account,Standard,2026-05-11,,Active,0.00,,0
+C109781,A465715,P011,Standard Account,Standard,2026-05-27,2026-08-16,Cancelled,0.00,Switched product,3
+C109785,A465722,P008,Offshore Account,Standard,2023-01-05,,Active,0.00,,7
+C109792,A465733,P010,Retirement Annuity,Standard,2025-01-26,,Active,0.00,,15
+C109795,A465739,P008,Offshore Account,Standard,2024-06-19,,Active,0.00,,15
+C109796,A465740,P008,Standard Account,Standard,2024-07-26,,Active,0.00,,0
+C109799,A465741,P008,Offshore Account,Premium Plus,2026-04-22,,Expired,99.00,,15
+C109799,A465741,P004,Tax-Free Account,Standard,2026-04-15,,Active,0.00,,7
+C109802,A465745,P002,Tax-Free Account,Standard,2023-08-21,,Active,0.00,,3
+C109802,A465745,P010,Tax-Free Account,Standard,2023-06-19,2023-08-13,Cancelled,0.00,Low usage,0
+C109812,A465755,P012,Standard Account,Standard,2026-06-02,,Expired,0.00,,1
+C109823,A465769,P005,Tax-Free Account,Standard,2024-06-06,,Active,0.00,,15
+C109830,A465776,P006,Retirement Annuity,Standard,2025-03-03,,Expired,0.00,,0
+C109838,A465786,P005,Tax-Free Account,Standard,2023-08-27,,Active,0.00,,7
+C109838,A465786,P003,Offshore Account,Standard ,2023-01-22,,Active,0.00,,7
+C109838,A465786,P012,Tax-Free Account,Standard,2023-11-03,,Trial,0.00,,3
+C109847,A465798,P002,Standard Account,Standard,2024-08-29,,Active,0.00,,3
+C109847,A465798,P002,Standard Account,Standard,2024-11-14,2025-12-24,Cancelled,0.00,Service issue,1
+C109847,A465798,P008,Tax-Free Account,Standard,2024-09-23,,Trial,0.00,,15
+C109849,A465799,P004,Retirement Annuity,Standard,2023-03-24,,Active,0.00,,3
+C109849,A465799,P012,Offshore Account,Standard,2023-01-23,,Active,0.00,,0
+C109849,A465799,P009,Standard Account,Standard,2022-11-16,2023-09-30,Cancelled,0.00,Switched product,3
+C109853,A465807,P008,Standard Account,Standard,2026-01-28,,Active,0.00,,7
+C109854,A465810,P009,Standard Account,Standard,2025-09-27,,Active,0.00,,3
+C109857,A465811,P010,Standard Account,Standard,2025-03-29,,Active,0.00,,0
+C109866,A465818,P002,Tax-Free Account,Standard,2024-01-03,,Active,0.00,,15
+C109869,A465822,P005,Standard Account,Standard,2024-07-06,,Active,0.00,,7
+C109872,A465824,P001,Retirement Annuity,Premium,2023-07-06,,Active,49.00,,0
+C109876,A465828,P007,Tax-Free Account,Standard,2026-07-27,,Active,0.00,,7
+C109884,A465835,P005,Standard Account,Standard,2025-08-25,,Active,0.00,,7
+C109884,A465835,P007,Tax-Free Account,Standard,2025-03-25,,Active,0.00,,7
+C109885,A465838,P007,Offshore Account,Standard,2024-01-25,,Active,0.00,,15
+C109887,A465840,P012,STANDARD ACCOUNT,Standard,2026-03-19,,Active,0.00,,7
+C109891,A465843,P003,Offshore Account,Standard,2025-07-04,,Active,0.00,,3
+C109892,A465845,P010,Offshore Account,Standard,2025-04-28,,Active,0.00,,15
+C109896,A465848,P008,Tax-Free Account,Standard,2026-06-29,,Active,0.00,,1
+C109898,A465852,P004,Retirement Annuity,Premium Plus,2023-11-21,,Expired,99.00,,0
+C109902,A465854,P004,Standard Account,Standard,2025-06-20,,Active,0.00,,3
+C109904,A465857,P012,Retirement Annuity,Standard,2026-06-20,,Active,0.00,,15
+C109905,A465860,P001,Tax-Free Account,Premium,2024-06-22,2024-09-12,Cancelled,49.00,Low usage,0
+C109909,A465861,P009,Offshore Account,Standard,2025-10-18,,Active,0.00,,0
+C109911,A465863,P010,Tax-Free Account,Standard,2023-11-30,,Active,0.00,,7
+C109915,A465866,P004,Retirement Annuity,Standard,2025-01-05,2025-10-22,Cancelled,0.00,Low usage,0
+C109915,A465866,P003,Standard Account,Premium,2024-10-26,,Active,49.00,,3
+C109916,A465868,P008,Tax-Free Account,Standard,2026-06-04,,Active,0.00,,3
+C109916,A465868,P002,tax-free account,Premium,2026-06-24,,Active,49.00,,15
+C109920,A465871,P003,Standard Account,Standard,2024-02-04,,Active,0.00,,7
+C109927,A465878,P011,Standard Account,Standard,2025-04-26,,Active,0.00,,0
+C109932,A465884,P012,Tax-Free Account,Standard,2024-04-16,,Active,0.00,,0
+C109937,A465888,P012,Offshore Account,Standard,2022-11-28,,Active,0.00,,15
+C109940,A465892,P012,Offshore Account,Standard,2025-07-11,2025-10-17,Cancelled,0.00,Low usage,3
+C109944,A465896,P004,Standard Account,Standard,2025-07-14,,Active,0.00,,7
+C109944,A465896,P008,Standard Account,Standard,2025-01-17,,Active,0.00,,1
+C109948,A465900,P005,Standard Account,Standard,2025-01-30,,Active,0.00,,0
+C109956,A465907,P012,Standard Account,Standard,2025-09-04,,Active,0.00,,1
+C109956,A465907,P010,Standard Account,Standard,2025-12-29,,Active,0.00,,3
+C109958,A465911,P006,Tax-Free Account,Standard,2024-11-14,2025-06-25,Cancelled,0.00,Low usage,3
+C109958,A465911,P011,Standard Account,Standard,2024-05-15,,Active,0.00,,0
+C109962,A465918,P011,Tax-Free Account,Standard,2023-07-09,,Active,0.00,,3
+C109966,A465920,P006,Tax-Free Account,Premium,2025-02-23,,Active,49.00,,7
+C109966,A465920,P003,Tax-Free Account,Standard,2025-01-16,,Trial,0.00,,7
+C109970,A465921,P004,Retirement Annuity,Standard,2025-12-24,,Active,0.00,,7
+C109970,A465921,P012,Standard Account,Standard,2025-11-02,,Active,0.00,,3
+C109972,A465924,P012,Standard Account,Standard,2024-01-13,,Active,0.00,,7
+C109972,A465924,P009,Standard Account,Standard,2023-08-21,2023-10-16,Cancelled,0.00,Low usage,7
+C109973,A465925,P008,Offshore Account,Standard,2023-07-21,,Active,0.00,,7
+C109974,A465927,P003,Standard Account,Standard,2023-02-15,,Expired,0.00,,3
+C109974,A465927,P008,Standard Account,Standard,2023-11-26,,Trial,0.00,,1
+C109978,A465928,P011,Tax-Free Account,Standard,2025-05-05,,Active,0.00,,0
+C109988,A465937,P004,Tax-Free Account,Standard,2024-08-17,,Active,0.00,,3
+C109988,A465937,P004,Tax-Free Account,Standard,2024-07-29,2024-09-30,Cancelled,0.00,Service issue,3
+C109989,A465940,P011,Retirement Annuity,Standard,2025-03-28,,Active,0.00,,0
+C109989,A465940,P007,Standard Account,Standard,2025-07-19,2025-10-24,Cancelled,0.00,Cost,7
+C109990,A465942,P012,Offshore Account,Standard,2025-10-21,,Active,0.00,,7
+C110003,A465953,P004,Standard Account,Standard,2024-01-05,,Active,0.00,,3
+C110018,A465976,P012,Tax-Free Account,Standard,2023-01-16,,Active,0.00,,3
+C110022,A465979,P006,Offshore Account,Standard,2025-09-19,,Active,0.00,,7
+C110022,A465979,P012,Offshore Account,Standard,2025-10-12,,Active,0.00,,7
+C110022,A465979,P009,Tax-Free Account,Standard,2026-08-06,,Trial,0.00,,7
+C110031,A465987,P002,Standard Account,Standard,2026-06-24,,Active,0.00,,0
+C110031,A465987,P007,Tax-Free Account,Premium Plus,2025-10-06,,Trial,99.00,,1
+C110032,A465990,P004,Tax-Free Account,Standard,2023-11-18,,Active,0.00,,7
+C110032,A465990,P002,Tax-Free Account,Standard,2023-09-15,,Expired,0.00,,7
+C110037,A465994,P001,Standard Account,Standard,2023-10-08,,Active,0.00,,1
+C110037,A465994,P001,Retirement Annuity,Standard,2024-02-06,,Active,0.00,,3
+C110041,A466001,P007,Offshore Account,Standard,2025-10-15,,Active,0.00,,0
+C110041,A466001,P001,Offshore Account,Standard,2026-05-02,,Active,0.00,,1
+C110047,A466004,P004,Standard Account,Standard,2025-09-25,,Active,0.00,,3
+C110047,A466004,P005,Tax-Free Account,Premium,2025-09-14,,Trial,49.00,,15
+C110058,A466017,P011,Offshore Account,Standard,2024-01-24,,Active,0.00,,3
+C110061,A466021,P005,Standard Account,Standard,2025-10-16,,Active,0.00,,15
+C110062,A466022,P011,Tax-Free Account,Standard,2026-07-08,,Active,0.00,,3
+C110064,A466025,P003,Standard Account,Standard,2026-01-17,,Active,0.00,,15
+C110064,A466025,P009,Retirement Annuity,Standard,2025-11-22,,Active,0.00,,15
+C110073,A466035,P006,Tax-Free Account,Standard,2026-07-14,,Active,0.00,,0
+C110077,A466039,P003,Standard Account,Standard,2023-07-12,,Trial,0.00,,7
+C110082,A466046,P003,Retirement Annuity,Premium,2025-01-04,,Active,49.00,,7
+C110087,A466054,P012,Standard Account,Standard,2024-09-26,,Active,0.00,,7
+C110087,A466054,P002,Standard Account,Standard,2023-12-07,,Active,0.00,,7
+C110095,A466061,P003,Tax-Free Account,Standard,2024-06-29,,Active,0.00,,15
+C110102,A466068,P011,Tax-Free Account,Standard,2025-02-13,,Active,0.00,,3
+C110102,A466068,P003,Tax-Free Account,Standard,2024-10-19,2025-03-19,Cancelled,0.00,Switched product,15
+C110107,A466072,P012,Standard Account,Standard,2025-04-16,2026-02-27,Cancelled,0.00,Service issue,3
+C110110,A466074,P010,Retirement Annuity,Standard,2025-03-22,2026-02-11,Cancelled,0.00,Cost,7
+C110112,A466079,P012,Standard Account,Premium Plus,2025-11-23,,Active,99.00,,15
+C110119,A466082,P009,Standard Account,Standard,2023-12-10,,Active,0.00,,3
+C110119,A466082,P008,Tax-Free Account,Standard,2023-10-15,,Active,0.00,,1
+C110132,A466088,P005,Tax-Free Account,Standard,2025-03-29,,Active,0.00,,3
+C110132,A466088,P010,Standard Account,Standard,2025-07-08,,Active,0.00,,7
+C110132,A466088,P005,Tax-Free Account,Standard,2025-11-28,,Active,0.00,,7
+C110135,A466091,P009,Standard Account,Standard,2026-03-29,2026-08-22,Cancelled,0.00,Cost,3
+C110144,A466102,P010,Standard Account,Standard,2024-01-22,,Expired,0.00,,3
+C110144,A466102,P012,Offshore Account,Premium Plus,2023-06-17,2023-11-14,Cancelled,99.00,Service issue,1
+C110144,A466102,P001,Tax-Free Account,Premium ,2023-12-20,,Active,49.00,,15
+C110151,A466107,P002,Standard Account,Standard,2026-08-06,,Active,0.00,,7
+C110151,A466107,P010,Tax-Free Account,Standard,2025-12-24,,Active,0.00,,1
+C110154,A466110,P005,Standard Account,Standard,2024-02-15,,Active,0.00,,0
+C110154,A466110,P003,Tax-Free Account,Standard,2024-02-07,2025-01-25,Cancelled,0.00,Service issue,15
+C110156,A466111,P005,Standard Account,Standard,2025-01-12,,Active,0.00,,7
+C110156,A466111,P006,Standard Account,Standard,2025-11-13,,Active,0.00,,3
+C110156,A466111,P007,Tax-Free Account,Standard,2025-04-06,2025-12-19,Cancelled,0.00,Low usage,3
+C110157,A466113,P003,Standard Account,Premium Plus,2025-10-18,,Active,99.00,,3
+C110157,A466113,P008,Offshore Account,Standard,2025-11-17,,Active,0.00,,0
+C110157,A466113,P011,Tax-Free Account,Standard,2025-08-22,2025-10-24,Cancelled,0.00,Low usage,3
+C110159,A466115,P009,Standard Account,Standard,2025-06-13,,Active,0.00,,15
+C110159,A466115,P002,Standard Account,Standard,2025-03-20,,Active,0.00,,15
+C110159,A466115,P009,Retirement Annuity,Standard,2025-02-04,,Active,0.00,,15
+C110164,A466119,P007,Standard Account,Standard,2023-11-29,,Trial,0.00,,0
+C110165,A466122,P008,Retirement Annuity,Standard,2025-04-14,,Active,0.00,,15
+C110165,A466122,P001,Offshore Account,Standard,2025-12-20,,Active,0.00,,15
+C110179,A466135,P004,Tax-Free Account,Standard,2026-02-06,,Expired,0.00,,7
+C110184,A466139,P010,Standard Account,Standard,2025-06-07,2025-12-24,Cancelled,0.00,Cost,7
+C110184,A466139,P004,Retirement Annuity,Standard,2025-06-07,,Active,0.00,,15
+C110184,A466139,P012,Standard Account,Standard,2025-05-14,,Active,0.00,,3
+C110186,A466141,P010,Tax-Free Account,Standard,2024-02-13,,Active,0.00,,1
+C110192,A466145,P011,Retirement Annuity,Standard,2026-04-17,,Active,0.00,,15
+C110198,A466150,P010,Tax-Free Account,Standard,2023-12-31,2024-11-18,Cancelled,0.00,Low usage,3
+C110198,A466150,P005,Tax-Free Account,Standard,2024-10-26,2025-03-23,Cancelled,0.00,Switched product,1
+C110203,A466155,P004,Offshore Account,Standard,2023-03-13,,Active,0.00,,3
+C110203,A466155,P011,Standard Account,Standard,2023-05-07,,Expired,0.00,,1
+C110206,A466157,P005,Standard Account,Standard,2023-01-25,,Active,0.00,,3
+C110214,A466168,P012,Standard Account,Standard,2023-08-22,,Active,0.00,,3
+C110214,A466168,P010,Standard Account,Standard,2023-10-24,,Active,0.00,,0
+C110214,A466168,P009,Standard Account,Standard,2023-10-28,,Active,0.00,,3
+C110215,A466170,P010,Standard Account,Standard,2025-04-10,,Active,0.00,,3
+C110215,A466170,P005,Tax-Free Account,Standard,2025-05-16,2025-12-27,Cancelled,0.00,Low usage,0
+C110215,A466170,P004,Tax-Free Account,Standard,2025-04-29,2025-12-20,Cancelled,0.00,Low usage,7
+C110217,A466171,P003,Offshore Account,Premium,2024-01-02,,Active,49.00,,7
+C110221,A466174,P003,Standard Account,Standard,2024-12-02,2025-05-19,Cancelled,0.00,Low usage,1
+C110224,A466177,P009,Offshore Account,Standard,2024-01-19,,Active,0.00,,15
+C110228,A466179,P004,Tax-Free Account,Standard,2024-10-30,,Active,0.00,,0
+C110236,A466184,P008,Standard Account,Standard,2026-05-14,,Active,0.00,,1
+C110236,A466184,P011,Offshore Account,Standard,2025-08-16,,Active,0.00,,0
+C110240,A466188,P004,Tax-Free Account,Standard,2026-02-27,,Active,0.00,,15
+C110240,A466188,P008,Tax-Free Account,Standard,2026-06-01,,Active,0.00,,15
+C110243,A466191,P005,Offshore Account,Standard,2025-12-25,,Active,0.00,,0
+C110244,A466192,P005,Standard Account,Standard,2023-08-11,2024-05-19,Cancelled,0.00,Service issue,15
+C110244,A466192,P001,Tax-Free Account,Standard,2023-03-22,,Expired,0.00,,15
+C110244,A466192,P005,Offshore Account,Standard,2024-02-03,,Active,0.00,,3
+C110249,A466198,P009,Tax-Free Account,Standard,2025-03-18,,Active,0.00,,15
+C110256,A466201,P003,Standard Account,Standard,2024-12-14,,Active,0.00,,3
+C110256,A466201,P008,Offshore Account,Premium,2025-03-29,,Active,49.00,,7
+C110260,A466205,P002,Tax-Free Account,Premium Plus,2026-05-14,,Active,99.00,,3
+C110265,A466208,P012,Tax-Free Account,Standard,2024-01-10,,Active,0.00,,1
+C110269,A466209,P002,Standard Account,Standard,2026-08-25,,Active,0.00,,0
+C110273,A466213,P007,Tax-Free Account,Standard,2024-07-23,,Active,0.00,,7
+C110273,A466213,P006,Tax-Free Account,Standard,2024-06-11,,Expired,0.00,,0
+C110273,A466213,P004,Tax-Free Account,Standard,2024-08-29,2025-09-28,Cancelled,0.00,Switched product,0
+C110278,A466221,P011,Standard Account,Standard,2023-06-14,2024-01-21,Cancelled,0.00,Cost,7
+C110282,A466222,P004,Retirement Annuity,Standard,2024-10-25,,Active,0.00,,3
+C110283,A466223,P011,Offshore Account,Standard,2025-12-11,,Active,0.00,,0
+C110283,A466223,P009,Offshore Account,Standard,2025-08-24,,Active,0.00,,1
+C110283,A466223,P011,Tax-Free Account,Standard,2025-09-02,,Active,0.00,,1
+C110286,A466224,P004,Offshore Account,Standard,2025-05-30,,Active,0.00,,15
+C110306,A466239,P003,Standard Account,Standard,2024-09-19,,Active,0.00,,3
+C110306,A466239,P005,Standard Account,Premium,2023-12-25,,Active,49.00,,7
+C110309,A466241,P010,Tax-Free Account,Premium,2024-11-28,,Active,49.00,,3
+C110311,A466245,P006,Tax-Free Account,Standard,2026-02-10,,Active,0.00,,7
+C110317,A466250,P003,Standard Account,Standard,2024-12-28,,Active,0.00,,7
+C110320,A466252,P012,Offshore Account,Standard,2023-10-06,,Active,0.00,,15
+C110323,A466259,P004,Standard Account,Premium Plus,2025-06-28,2025-12-11,Cancelled,99.00,Switched product,7
+C110327,A466260,P011,Standard Account,Standard,2024-07-16,,Active,0.00,,7
+C110331,A466263,P003,Standard Account,Standard,2024-08-04,,Active,0.00,,7
+C110331,A466263,P003,Tax-Free Account,Premium,2024-08-27,2025-04-02,Cancelled,49.00,Switched product,0
+C110334,A466266,P008,Retirement Annuity,Standard,2026-01-16,,Trial,0.00,,1
+C110335,A466267,P009,Standard Account,Premium,2026-02-12,,Active,49.00,,15
+C110355,A466290,P011,Standard Account,Standard,2024-03-28,,Active,0.00,,3
+C110358,A466296,P011,Retirement Annuity,Standard,2025-05-07,2025-11-20,Cancelled,0.00,Low usage,3
+C110365,A466299,P010,Offshore Account,Standard,2023-12-22,,Active,0.00,,15
+C110365,A466299,P011,Retirement Annuity,Standard,2024-03-20,,Active,0.00,,7
+C110369,A466302,P004,Standard Account,Standard,2024-04-11,2024-09-02,Cancelled,0.00,Low usage,0
+C110369,A466302,P006,Standard Account,Standard,2024-01-10,,Active,0.00,,0
+C110375,A466308,P011,Tax-Free Account,Standard,2025-10-27,,Trial,0.00,,3
+C110375,A466308,P011,Retirement Annuity,Standard,2025-05-26,,Active,0.00,,15
+C110378,A466309,P012,Retirement Annuity,Standard,2024-03-27,,Active,0.00,,7
+C110378,A466309,P011,Standard Account,Standard,2024-10-02,,Active,0.00,,0
+C110381,A466310,P006,Standard Account,Standard,2023-11-03,2024-12-10,Cancelled,0.00,Switched product,3
+C110385,A466313,P002,Standard Account,Standard,2023-10-21,,Active,0.00,,0
+C110389,A466316,P006,Standard Account,Premium Plus,2026-04-12,,Active,99.00,,0
+C110393,A466319,P010,Standard Account,Standard,2026-08-30,,Active,0.00,,7
+C110394,A466322,P010,Offshore Account,Standard,2025-12-13,,Active,0.00,,1
+C110394,A466322,P007,Tax-Free Account,Standard,2025-12-21,,Active,0.00,,3
+C110399,A466326,P009,Tax-Free Account,Standard,2024-11-25,,Active,0.00,,15
+C110407,A466337,P002,Standard Account,Standard,2026-01-18,,Active,0.00,,1
+C110407,A466337,P011,Tax-Free Account,Standard,2026-01-11,,Active,0.00,,1
+C110410,A466339,P007,Retirement Annuity,Standard,2025-03-17,,Active,0.00,,1
+C110412,A466342,P008,Standard Account,Standard,2024-08-08,,Active,0.00,,1
+C110419,A466345,P004,Standard Account,Standard,2025-04-24,,Active,0.00,,15
+C110419,A466345,P003,Tax-Free Account,Standard,2026-02-13,,Active,0.00,,15
+C110421,A466347,P012,Retirement Annuity,Standard,2024-07-19,,Active,0.00,,0
+C110427,A466355,P005,Tax-Free Account,Premium Plus,2026-01-11,,Trial,99.00,,15
+C110432,A466357,P007,Standard Account,Standard,2026-02-26,,Active,0.00,,7
+C110432,A466357,P006,Standard Account,Standard,2026-07-02,,Active,0.00,,3
+C110432,A466357,P007,Offshore Account,Standard,2026-05-08,,Active,0.00,,3
+C110445,A466366,P005,Offshore Account,Standard,2025-05-07,2025-09-04,Cancelled,0.00,Cost,1
+C110447,A466368,P010,Standard Account,Standard,2025-04-13,2025-05-31,Cancelled,0.00,Switched product,7
+C110447,A466368,P005,Retirement Annuity,Standard,2025-08-25,,Active,0.00,,7
+C110447,A466368,P001,Standard Account,Standard,2024-09-12,2025-09-16,Cancelled,0.00,Low usage,3
+C110448,A466372,P011,Standard Account,Premium,2026-05-24,,Active,49.00,,0
+C110448,A466372,P008,offshore account,Standard,2026-05-15,,Trial,0.00,,7
+C110451,A466375,P005,Standard Account,Premium,2025-08-01,,Active,49.00,,7
+C110451,A466375,P008,Tax-Free Account,Standard,2025-01-11,2026-02-03,Cancelled,0.00,Cost,15
+C110452,A466376,P004,Standard Account,standard,2026-04-02,,Active,0.00,,7
+C110454,A466380,P001,Offshore Account,Standard,2025-06-28,,Active,0.00,,7
+C110454,A466380,P001,Tax-Free Account,Standard,2025-01-07,2025-12-29,Cancelled,0.00,Low usage,0
+C110458,A466381,P005,Standard Account,Standard,2023-12-18,,Active,0.00,,7
+C110463,A466383,P001,Tax-Free Account,Premium,2023-06-28,,Active,49.00,,15
+C110464,A466387,P002,Tax-Free Account,Standard,2026-07-31,,Trial,0.00,,1
+C110467,A466388,P009,Tax-Free Account,Standard,2023-03-15,2024-04-11,Cancelled,0.00,Low usage,3
+C110467,A466388,P009,Tax-Free Account,Standard,2023-07-04,,Active,0.00,,0
+C110468,A466391,P001,Tax-Free Account,Standard,2024-01-26,2024-07-15,Cancelled,0.00,Switched product,3
+C110468,A466391,P001,Standard Account,Standard,2023-12-23,,Active,0.00,,7
+C110472,A466396,P010,Retirement Annuity,Standard,2026-01-22,,Active,0.00,,15
+C110479,A466401,P008,Standard Account,Standard,2025-10-18,,Active,0.00,,0
+C110480,A466402,P011,Standard Account,Standard,2025-05-01,,Active,0.00,,3
+C110488,A466408,P010,Standard Account,Premium Plus,2025-09-27,,Active,99.00,,7
+C110488,A466408,P011,Offshore Account,Premium,2026-06-20,,Active,49.00,,1
+C110488,A466408,P005,Offshore Account,Standard,2026-05-29,,Active,0.00,,0
+C110489,A466410,P001,Standard Account,Standard,2026-05-10,,Active,0.00,,7
+C110490,A466414,P005,Tax-Free Account,Standard,2025-05-17,,Active,0.00,,7
+C110494,A466415,P008,Standard Account,Standard,2023-11-29,,Active,0.00,,7
+C110496,A466421,P005,Standard Account,Standard,2026-04-26,,Active,0.00,,1
+C110500,A466425,P003,Tax-Free Account,Standard,2024-10-17,2025-04-11,Cancelled,0.00,Cost,3
+C110501,A466427,P005,Tax-Free Account,Premium,2026-04-22,,Active,49.00,,3
+C110501,A466427,P010,Tax-Free Account,Standard,2026-05-12,,Active,0.00,,3
+C110507,A466436,P012,Tax-Free Account,Standard,2025-08-01,,Active,0.00,,15
+C110507,A466436,P012,Tax-Free Account,Standard,2024-10-21,2025-10-07,Cancelled,0.00,Cost,1
+C110511,A466440,P008,Tax-Free Account,Standard,2025-03-23,,Trial,0.00,,1
+C110511,A466440,P011,Tax-Free Account,Standard,2024-12-25,2025-05-20,Cancelled,0.00,Switched product,15
+C110511,A466440,P012,Tax-Free Account,Standard,2025-01-30,2025-03-23,Cancelled,0.00,Low usage,3
+C110513,A466442,P010,Tax-Free Account,Standard,2026-08-04,,Active,0.00,,0
+C110515,A466445,P001,Offshore Account,Premium Plus,2024-12-02,,Active,99.00,,15
+C110516,A466447,P001,Offshore Account,Standard,2024-09-24,,Active,0.00,,7
+C110520,A466449,P004,Standard Account,Standard,2026-03-07,,Active,0.00,,7
+C110526,A466451,P001,Tax-Free Account,Standard,2023-07-10,,Active,0.00,,15
+C110528,A466452,P011,Tax-Free Account,Standard,2025-07-22,,Active,0.00,,3
+C110530,A466456,P005,Tax-Free Account,Standard,2023-12-27,,Active,0.00,,3
+C110533,A466459,P008,Tax-Free Account,Standard,2026-04-16,2026-06-22,Cancelled,0.00,Cost,15
+C110533,A466459,P001,Standard Account,Standard,2026-04-01,,Active,0.00,,15
+C110536,A466460,P007,Offshore Account,standard,2025-01-26,,Active,0.00,,3
+C110542,A466464,P012,Retirement Annuity,Standard,2024-02-25,,Active,0.00,,3
+C110542,A466464,P003,Tax-Free Account,Standard,2024-03-07,2024-11-02,Cancelled,0.00,Low usage,0
+C110542,A466464,P011,Offshore Account,Standard,2023-07-16,,Active,0.00,,7
+C110545,A466468,P005,Standard Account,Premium,2023-02-06,,Active,49.00,,7
+C110545,A466468,P002,Retirement Annuity,Standard,2023-06-29,,Active,0.00,,7
+C110564,A466488,P009,Retirement Annuity,Standard,2026-05-07,,Active,0.00,,1
+C110569,A466490,P002,Offshore Account,Standard,2025-10-21,,Active,0.00,,7
+C110574,A466496,P005,Standard Account,Standard,2024-10-22,,Active,0.00,,15
+C110580,A466501,P001,Standard Account,Standard,2024-05-14,,Active,0.00,,7
+C110594,A466516,P007,Tax-Free Account,Premium,2023-11-22,,Active,49.00,,15
+C110595,A466520,P008,Standard Account,Standard,2024-12-29,,Active,0.00,,15
+C110608,A466532,P012,Tax-Free Account,Standard,2024-07-05,2025-04-12,Cancelled,0.00,Cost,15
+C110618,A466541,P004,Retirement Annuity,Standard,2025-01-09,,Active,0.00,,0
+C110618,A466541,P010,Retirement Annuity,Standard,2025-05-01,,Active,0.00,,0
+C110622,A466544,P004,Offshore Account,Standard,2025-07-31,2026-05-06,Cancelled,0.00,Switched product,1
+C110625,A466548,P011,Retirement Annuity,Premium Plus,2024-07-08,,Active,99.00,,7
+C110628,A466549,P005,Retirement Annuity,Standard,2024-09-09,,Active,0.00,,7
+C110628,A466549,P011,Retirement Annuity,Standard,2024-12-16,,Active,0.00,,15
+C110636,A466552,P005,Tax-Free Account,Standard,2026-07-20,,Active,0.00,,15
+C110640,A466553,P010,Retirement Annuity,Standard,2023-09-29,,Active,0.00,,1
+C110644,A466556,P004,Tax-Free Account,Standard,2025-10-01,,Active,0.00,,3
+C110647,A466557,P008,Standard Account,Standard,2024-08-08,,Active,0.00,,15
+C110647,A466557,P004,Tax-Free Account,Standard,2024-02-27,,Active,0.00,,0
+C110651,A466561,P001,Retirement Annuity,Standard,2024-07-15,2024-08-14,Cancelled,0.00,Low usage,7
+C110652,A466562,P010,Offshore Account,Standard,2025-02-14,,Active,0.00,,15
+C110657,A466570,P003,Retirement Annuity,Standard,2023-10-15,,Active,0.00,,0
+C110664,A466579,P010,Standard Account,Standard,2023-07-16,,Active,0.00,,7
+C110664,A466579,P010,Offshore Account,Standard,2023-11-09,,Active,0.00,,0
+C110678,A466594,P005,Tax-Free Account,Standard,2025-08-03,2025-10-07,Cancelled,0.00,Low usage,1
+C110678,A466594,P004,Retirement Annuity,Standard,2025-09-27,,Active,0.00,,7
+C110682,A466602,P002,Standard Account,Premium,2025-06-25,2026-03-26,Cancelled,49.00,Cost,0
+C110682,A466602,P011,Retirement Annuity,Standard,2025-06-25,,Active,0.00,,1
+C110684,A466603,P007,Standard Account,Standard,2024-05-26,,Active,0.00,,15
+C110686,A466604,P008,Offshore Account,Standard,2025-03-01,2025-11-16,Cancelled,0.00,Cost,1
+C110694,A466613,P005,Standard Account,Standard,2025-07-29,,Active,0.00,,0
+C110694,A466613,P001,Offshore Account,Standard,2025-12-13,2026-08-13,Cancelled,0.00,Service issue,15
+C110694,A466613,P010,Standard Account,Standard,2026-07-30,,Active,0.00,,7
+C110696,A466614,P009,Standard Account,Standard,2024-11-03,2025-07-14,Cancelled,0.00,Low usage,7
+C110696,A466614,P012,Standard Account,Standard,2025-04-26,,Active,0.00,,7
+C110699,A466617,P005,Tax-Free Account,Standard,2025-02-14,,Active,0.00,,7
+C110699,A466617,P007,Standard Account,Standard,2024-11-17,2025-06-29,Cancelled,0.00,Cost,15
+C110702,A466620,P004,Tax-Free Account,Standard,2023-03-13,,Active,0.00,,3
+C110702,A466620,P005,Offshore Account,Standard,2023-09-11,,Active,0.00,,0
+C110703,A466621,P011,Offshore Account,Premium,2026-01-06,,Active,49.00,,7
+C110709,A466624,P007,Standard Account,Standard,2025-10-19,,Active,0.00,,15
+C110709,A466624,P009,Standard Account,Standard,2025-10-17,,Active,0.00,,0
+C110713,A466631,P003,Standard Account,Standard,2026-07-22,,Active,0.00,,0
+C110717,A466634,P008,Standard Account,Standard,2023-09-13,,Active,0.00,,3
+C110717,A466634,P009,Tax-Free Account,Standard,2022-11-07,,Active,0.00,,1
+C110717,A466634,P010,Offshore Account,Standard,2023-09-26,,Trial,0.00,,3
+C110724,A466639,P004,Standard Account,Standard,2025-11-10,,Active,0.00,,7
+C110730,A466645,P012,Tax-Free Account,Standard,2026-03-06,,Active,0.00,,3
+C110733,A466647,P003,Tax-Free Account,Standard,2024-05-29,,Active,0.00,,15
+C110733,A466647,P004,Offshore Account,Premium,2025-02-21,,Active,49.00,,0
+C110733,A466647,P005,Tax-Free Account,Standard,2024-05-24,2025-04-01,Cancelled,0.00,Switched product,1
+C110736,A466648,P001,Offshore Account,Standard,2025-09-23,,Active,0.00,,3
+C110740,A466650,P008,Tax-Free Account,Standard,2026-07-19,,Active,0.00,,1
+C110740,A466650,P009,Tax-Free Account,Standard,2026-03-17,2026-06-17,Cancelled,0.00,Low usage,15
+C110740,A466650,P004,Offshore Account,Standard,2026-06-10,,Expired,0.00,,0
+C110743,A466654,P001,Tax-Free Account,Standard,2025-12-07,2026-02-09,Cancelled,0.00,Switched product,1
+C110749,A466667,P003,Standard Account,Premium Plus,2024-07-07,,Active,99.00,,15
+C110764,A466681,P001,Tax-Free Account,Standard,2025-03-12,,Active,0.00,,1
+C110764,A466681,P009,Standard Account,Standard,2025-09-03,,Active,0.00,,1
+C110764,A466681,P008,Tax-Free Account,Standard,2026-02-15,,Active,0.00,,0
+C110768,A466684,P010,Tax-Free Account,Standard,2024-03-22,,Active,0.00,,3
+C110768,A466684,P012,Retirement Annuity,Standard,2023-07-20,,Active,0.00,,0
