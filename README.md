@@ -39,3 +39,7 @@ python -m Model2.model2 --predict new_customers.csv
 ```
 
 Each command writes `new_predictions.csv` to its own results folder. These scores predict the public bank outcome; they are not STADIOEquities activation or dormancy probabilities.
+
+## SS3 video 
+https://youtu.be/m2O1g8_XSxs
+
